@@ -1,6 +1,6 @@
 <ModificationInfo>
-  <Version Major="2" Minor="0" Build="0" Revision="0" />
-  <InternalName>Flussgebaeudemod Riverbuildings Venice Light</InternalName>
+  <Version Major="3" Minor="0" Build="0" Revision="0" />
+  <InternalName>Pier extends harbour</InternalName>
   <InternalCategory>Allgemein</InternalCategory>
   <Author>C1yHAX</Author>
   <Website></Website>
@@ -13,7 +13,7 @@
   </AnnoVersions>
   <Images></Images>
   <Labels>
-    <Label Name="Name"><German>Flussgebaeudemod Riverbuildings Venice Light</German><English>Flussgebaeudemod Riverbuildings Venice Light</English></Label>
+    <Label Name="Name"><German>Pier extends harbour</German><English>Pier extends harbour</English></Label>
     <Label Name="Description"><German></German><English></English></Label>
     <Label Name="Category"><German>Allgemein</German><English>General</English></Label>
   </Labels>

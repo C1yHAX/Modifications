@@ -1,22 +1,40 @@
 ﻿<XmlModules Name="Assets" Index="0">
   <ModuleList>
-    <Edit Selector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="General" OldValue="0" NewValue="{0}" Index="0">
-      <UserdefinedValues>
-        <UserdefinedValue UserdefinedValueName="Hafenbereich" Math="{value}" Key="{0}" />
-      </UserdefinedValues>
-    </Edit>
-    <Remove Selector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence/InfluenceRadiusType" Deselector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence" File="maindata;data\config\game\assets.xml" Group="General" TagName="InfluenceRadiusType" RemovedInnerXml="" Index="1" InsertBeforeIndex="-1">
-      <UserdefinedValues />
-    </Remove>
-  </ModuleList>
-  <ModuleList>
-    <Edit Selector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="Venice" OldValue="0" NewValue="{0}" Index="2">
-      <UserdefinedValues>
-        <UserdefinedValue UserdefinedValueName="Hafenbereich" Math="{value}" Key="{0}" />
-      </UserdefinedValues>
-    </Edit>
-    <Remove Selector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence/InfluenceRadiusType" Deselector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence" File="addon;addondata\config\game\assets.xml" Group="Venice" TagName="InfluenceRadiusType" RemovedInnerXml="" Index="3" InsertBeforeIndex="-1">
-      <UserdefinedValues />
-    </Remove>
+<Edit Selector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence/InfluenceRadius" 
+      File="maindata;data\config\game\assets.xml" Group="General" 
+      OldValue="0" NewValue="{0}" Index="0">
+  <UserdefinedValues>
+    <UserdefinedValue UserdefinedValueName="Hafenbereich" Math="{value}" Key="{0}" />
+  </UserdefinedValues>
+</Edit>
+<Edit Selector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence/InfluenceRadiusType" 
+      File="maindata;data\config\game\assets.xml" Group="General" 
+      OldValue="" NewValue="Harbour" Index="1">
+  <UserdefinedValues />
+</Edit>
+<Remove Selector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence/InfluenceRadiusTypeNeeded" 
+        Deselector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence" 
+        File="maindata;data\config\game\assets.xml" Group="General" 
+        TagName="InfluenceRadiusTypeNeeded" RemovedInnerXml="Harbour" Index="2" InsertBeforeIndex="-1">
+  <UserdefinedValues />
+</Remove>
+<Edit Selector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence/InfluenceRadius" 
+      File="maindata;data\config\game\assets.xml" Group="General" 
+      OldValue="0" NewValue="{0}" Index="0">
+  <UserdefinedValues>
+    <UserdefinedValue UserdefinedValueName="Hafenbereich" Math="{value}" Key="{0}" />
+  </UserdefinedValues>
+</Edit>
+<Edit Selector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence/InfluenceRadiusType" 
+      File="addon;addondata\config\game\assets.xml" Group="General" 
+      OldValue="" NewValue="Harbour" Index="1">
+  <UserdefinedValues />
+</Edit>
+<Remove Selector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence/InfluenceRadiusTypeNeeded" 
+        Deselector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence" 
+        File="addon;addondata\config\game\assets.xml" Group="General" 
+        TagName="InfluenceRadiusTypeNeeded" RemovedInnerXml="Harbour" Index="2" InsertBeforeIndex="-1">
+  <UserdefinedValues />
+</Remove>
   </ModuleList>
 </XmlModules>

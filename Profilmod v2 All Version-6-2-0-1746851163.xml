@@ -1,6 +1,6 @@
 <ModificationInfo>
-  <Version Major="1" Minor="0" Build="0" Revision="0" />
-  <InternalName>Profilmod Venice</InternalName>
+  <Version Major="2" Minor="0" Build="0" Revision="0" />
+  <InternalName>Profilmod All Version</InternalName>
   <InternalCategory>Allgemein</InternalCategory>
   <Author>C1yHAX</Author>
   <Website></Website>
@@ -13,7 +13,7 @@
   </AnnoVersions>
   <Images></Images>
   <Labels>
-    <Label Name="Name"><German>Profilmod Venice</German><English>Profilmod Venice</English></Label>
+    <Label Name="Name"><German>Profilmod All Version</German><English>Profilemod All Version</English></Label>
     <Label Name="Description"><German></German><English></English></Label>
     <Label Name="Category"><German>Allgemein</German><English>General</English></Label>
   </Labels>

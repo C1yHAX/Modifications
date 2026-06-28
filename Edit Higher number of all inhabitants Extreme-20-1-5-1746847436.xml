@@ -1,6 +1,6 @@
 <ModificationInfo>
-  <Version Major="1" Minor="0" Build="0" Revision="0" />
-  <InternalName>Profilmod</InternalName>
+  <Version Major="1" Minor="5" Build="0" Revision="0" />
+  <InternalName>Edit Higher number of all inhabitants</InternalName>
   <InternalCategory>Allgemein</InternalCategory>
   <Author>C1yHAX</Author>
   <Website></Website>
@@ -13,7 +13,7 @@
   </AnnoVersions>
   <Images></Images>
   <Labels>
-    <Label Name="Name"><German>Profilmod</German><English>Profilmod</English></Label>
+    <Label Name="Name"><German>Edit Higher number of all inhabitants</German><English>Edit Higher number of all inhabitants</English></Label>
     <Label Name="Description"><German></German><English></English></Label>
     <Label Name="Category"><German>Allgemein</German><English>General</English></Label>
   </Labels>

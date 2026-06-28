@@ -1,0 +1,21 @@
+﻿<ListModules Name="loca_eng_interface.txt" Index="6">
+  <ModuleList>
+    <Add File="maindata;data\loca\eng\txt\interface.txt" Group="New Shipyards" ElementGroup="Buildmenu Nomads&amp;Ambassadors 135000 - 137499" ElementValue="135500=Pirate Shipyard" Index="0">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\interface.txt" Group="New Shipyards" ElementGroup="Buildmenu Peasants 125000 - 127499" ElementValue="132542=Improved Hanseatic Shipyard" Index="1">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\interface.txt" Group="New Shipyards" ElementGroup="Buildmenu Peasants 125000 - 127499" ElementValue="132543=Imperial Navy Shipyard" Index="2">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Edit File="maindata;data\loca\eng\txt\interface.txt" Group="Edit Shipyards" ElementGroup="Buildmenu Citizens 127500 - 129999" ElementValue="127507=Small shipyard" NewValue="127507=Civil shipyard" Index="3">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\eng\txt\interface.txt" Group="Edit Shipyards" ElementGroup="Buildmenu Patricians 130000 - 132499" ElementValue="130001=Large shipyard" NewValue="130001=Navy shipyard" Index="4">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+</ListModules>

@@ -1,0 +1,111 @@
+﻿<ListModules Name="loca_ger_tt_pressed.txt" Index="8">
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Shipyards" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30132542=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Muss an der Küste errichtet werden.[CR]Ermöglicht den Bau verbesserter Handelsschiffe." Index="0">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Shipyards" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30132543=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Muss an der Küste errichtet werden.[CR]Ermöglicht den Bau verbesserter Kriegsschiffe." Index="1">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Shipyards" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30135500=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Muss an der Küste errichtet werden.[CR]Ermöglicht den Bau von Schiffen der Piraten." Index="2">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Edit File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="Edit Shipyards" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30127507=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Muss an der Küste errichtet werden.[CR]Ermöglicht den Bau von Kleinen Handels- und Kriegsschiffen." NewValue="30127507=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Muss an der Küste errichtet werden.[CR]Ermöglicht den Bau vonHandelsschiffen." Index="3">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="Edit Shipyards" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30130001=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Muss an der Küste errichtet werden.[CR]Ermöglicht den Bau  von Großen Handels- und Kriegsschiffen." NewValue="30130001=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Muss an der Küste errichtet werden.[CR]Ermöglicht den Bau von Kriegsschiffen." Index="4">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157480=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 4[CR][MILITARY_OBJECT_STRENGTH]" Index="5">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157481=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 2[CR][MILITARY_OBJECT_STRENGTH]" Index="6">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157490=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 2[CR][MILITARY_OBJECT_STRENGTH]" Index="7">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157491=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 3[CR][MILITARY_OBJECT_STRENGTH]" Index="8">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157492=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 6[CR][MILITARY_OBJECT_STRENGTH]" Index="9">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157482=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 2[CR][MILITARY_OBJECT_STRENGTH]" Index="10">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157483=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 4[CR][MILITARY_OBJECT_STRENGTH]" Index="11">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157484=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 6[CR][MILITARY_OBJECT_STRENGTH]" Index="12">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157485=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 1[CR][MILITARY_OBJECT_STRENGTH]" Index="13">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157486=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 2[CR][MILITARY_OBJECT_STRENGTH]" Index="14">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157487=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 3[CR][MILITARY_OBJECT_STRENGTH]" Index="15">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Tooltipps" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30125042=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Verschönert den Hafen.[CR]Muss auf eine Kaimauer gesetzt werden." Index="0">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Tooltipps" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30125043=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Verschönert die Wirtschaft." Index="1">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Tooltipps" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="10125044=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Verschönert die Siedlung.[CR]Kann in mehreren Variationen gebaut werden." Index="2">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Tooltipps" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30125045=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Zäune und Mäuerchen zum Abgrenzen des eigenen Besitzes. [CR]Zum Abreissen markieren und Entf drücken." Index="3">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Tooltipps" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30125046=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Viele kleine und wesentlich grössere, gefährliche und niedliche Tiere für den häuslichen Gebrauch. [CR]Nicht zur Weiterverarbeitung gedacht!" Index="4">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Tooltipps" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30125047=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Viele kleine und wesentlich grössere, gefährliche und niedliche Tiere für den häuslichen Gebrauch. [CR]Nicht zur Weiterverarbeitung gedacht!" Index="5">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Tooltipps" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30132540=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Verschönert das Leben.[CR]Besser, als garkein Schloss zu haben." Index="6">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Tooltipps" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30130046=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Verschönert die Siedlung.[CR]Würde sie auch bilden und züchtigen, gäbe es nicht so gutee Getränke." Index="7">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Tooltipps" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="10135034=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]In drei Akademien erleben ihre Untertanen geistige Höhenflüge:[CR]-Akademie der Naturwissenschaften [CR]-Handelsakademie [CR]-Akademie der Erfinder" Index="8">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Tooltipps" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="10132496=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Verschönern die militärische Verteidigungstärke einer Siedlung. [CR]Nicht für den Ernstfall geeignet!" Index="9">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Edit File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="Edited Tooltipps" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30125039=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Verschönert die Siedlung." NewValue="30125039=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Verschönert die Siedlung.[CR]In mehreren Variationen baubar." Index="10">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="Edited Tooltipps" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30127527=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Verschönert die Siedlung." NewValue="30127527=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Verschönert die Siedlung.[CR]In mehreren Variationen baubar." Index="11">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="Edited Tooltipps" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30127533=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Verschönert die Siedlung." NewValue="30127533=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Verschönert die Siedlung.[CR]In mehreren Variationen baubar." Index="12">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="Edited Tooltipps" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30127535=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Verschönert die Siedlung." NewValue="30127535=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Verschönert den Hafen.[CR]Muss auf einer Kaimauer gebaut werden." Index="13">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="Edited Tooltipps" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30135032=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Verschönert die Siedlung." NewValue="30135032=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Verschönert die Siedlung.[CR]In mehreren Variationen baubar." Index="14">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="Edited Tooltipps" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30135015=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Verschönert die Siedlung." NewValue="30135015=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Verschönert die Siedlung.[CR]Kann in mehreren Variationen gepflanzt werden." Index="15">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="Edited Tooltipps" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30132533=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Muss im Hafenbereich errichtet werden.[CR]Verschönert die Siedlung." NewValue="30132533=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Muss auf einer Kaimauer errichtet werden.[CR]Verschönert die Siedlung." Index="16">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+</ListModules>

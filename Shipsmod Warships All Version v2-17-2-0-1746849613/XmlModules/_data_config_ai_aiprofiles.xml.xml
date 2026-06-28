@@ -1,0 +1,7 @@
+﻿<XmlModules Name="_data_config_ai_aiprofiles.xml" Index="9">
+  <ModuleList>
+    <Edit Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Template=&quot;Corsair&quot;]/Values/HonourTradeData/LevelTradeData/Nobleman/Products/Item[3]" Deselector="" File="maindata;data\config\ai\aiprofiles.xml" Group="General" OldValue="&lt;Product&gt;SupplyPackage&lt;/Product&gt;&lt;ProductionTimeMin&gt;480000&lt;/ProductionTimeMin&gt;&lt;ProductionTimeMax&gt;900000&lt;/ProductionTimeMax&gt;&lt;ProductCount&gt;30&lt;/ProductCount&gt;&lt;ProductCountAtStart&gt;30&lt;/ProductCountAtStart&gt;" NewValue="&lt;Product&gt;Gold&lt;/Product&gt;&lt;ProductionTimeMin&gt;480000&lt;/ProductionTimeMin&gt;&lt;ProductionTimeMax&gt;900000&lt;/ProductionTimeMax&gt;&lt;ProductCount&gt;20&lt;/ProductCount&gt;&lt;ProductCountAtStart&gt;5&lt;/ProductCountAtStart&gt;" Index="0">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+</XmlModules>

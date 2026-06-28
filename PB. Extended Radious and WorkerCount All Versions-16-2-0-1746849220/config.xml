@@ -1,0 +1,33 @@
+<ModificationInfo>
+  <Version Major="2" Minor="0" Build="0" Revision="0" />
+  <InternalName>Public and Produce Radious</InternalName>
+  <InternalCategory>Cheat</InternalCategory>
+  <Author>CryHAX</Author>
+  <Website>
+  </Website>
+  <Documentation>
+  </Documentation>
+  <RDASupport>True</RDASupport>
+  <AnnoVersions>
+    <AnnoVersion>All</AnnoVersion>
+  </AnnoVersions>
+  <Images />
+  <Labels>
+    <Label Name="Name">
+      <German>Erweiterte Radien öffentlicher Gebäude</German>
+      <English>Public Buildings extended Radious</English>
+    </Label>
+    <Label Name="Description">
+      <German>All Versionen kompatibel
+ermöglicht es,  die Radien öffentlicher Gebäude um bis zu 150% zu erweitern.
+damit Änderungen an den Radien nach Instalation des Mods in geladenen Spielständen wirksam werden, müssen die entsprechenden Gebäude abgerissen, und neu gebaut werden.</German>
+      <English>All versions compatible
+makes it possible to expand the radii of public buildings by up to 150%.
+In order for changes to the radii to take effect in loaded savegames after installing the mod, the corresponding buildings must be demolished and rebuilt.</English>
+    </Label>
+    <Label Name="Category">
+      <German>Cheats</German>
+      <English>Cheats</English>
+    </Label>
+  </Labels>
+</ModificationInfo>

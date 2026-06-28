@@ -1,0 +1,10 @@
+﻿<Groups>
+  <Group InternalName="Schiffe">
+    <Labels>
+      <Label Name="">
+        <German>Schiffe</German>
+        <English>Schiffe</English>
+      </Label>
+    </Labels>
+  </Group>
+</Groups>

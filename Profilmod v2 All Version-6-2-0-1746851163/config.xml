@@ -1,0 +1,37 @@
+<ModificationInfo>
+  <Version Major="2" Minor="0" Build="0" Revision="0" />
+  <InternalName>Profilmod</InternalName>
+  <InternalCategory>Sonstiges</InternalCategory>
+  <Author>CryHAX</Author>
+  <Website>
+  </Website>
+  <Documentation>
+  </Documentation>
+  <RDASupport>True</RDASupport>
+  <AnnoVersions>
+    <AnnoVersion>All</AnnoVersion>
+  </AnnoVersions>
+  <Images>
+    <Image>preview.jpg</Image>
+  </Images>
+  <Labels>
+    <Label Name="Name">
+      <German>Profilmod</German>
+      <English>Profile mod</English>
+    </Label>
+    <Label Name="Description">
+      <German>- Alle Ziergebäude werden freigeschaltet
+- Wappen können freigeschaltet werden (Kosten: -1)
+- Alle Profilbilder werden freigeschaltet
+- Alle Spielerfarben werden freigeschaltet</German>
+      <English>- All ornament buildings are unlocked
+- Crests can be unlocked (Cost: -1)
+- All profile pictures are unlocked
+- All player colors are unlocked</English>
+    </Label>
+    <Label Name="Category">
+      <German>Freischaltung</German>
+      <English>Unlocking</English>
+    </Label>
+  </Labels>
+</ModificationInfo>

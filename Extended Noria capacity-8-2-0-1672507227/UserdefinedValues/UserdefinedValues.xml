@@ -1,0 +1,222 @@
+﻿<UserdefinedValues>
+  <UserdefinedValue Name="SmallNoria_NoUpgrade" Index="0" Group="SmallNoria" Type="ComboBox" Current="1000">
+    <Labels>
+      <Label Name="Name">
+        <German>Kein Upgrade</German>
+        <English>No Upgrade</English>
+      </Label>
+      <Label Name="Description">
+        <German>Standard: 500</German>
+        <English>Default: 500</English>
+      </Label>
+    </Labels>
+    <ComboBoxItems>
+      <Item Value="600">
+        <Label Name="Element">
+          <German>600</German>
+          <English></English>
+        </Label>
+      </Item>
+      <Item Value="750">
+        <Label Name="Element">
+          <German>750</German>
+          <English></English>
+        </Label>
+      </Item>
+      <Item Value="1000">
+        <Label Name="Element">
+          <German>1000</German>
+          <English></English>
+        </Label>
+      </Item>
+      <Item Value="1500">
+        <Label Name="Element">
+          <German>1500</German>
+          <English></English>
+        </Label>
+      </Item>
+      <Item Value="2000">
+        <Label Name="Element">
+          <German>2000</German>
+          <English></English>
+        </Label>
+      </Item>
+      <Item Value="3000">
+        <Label Name="Element">
+          <German>3000</German>
+          <English></English>
+        </Label>
+      </Item>
+    </ComboBoxItems>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Noria_NoUpgrade" Index="1" Group="BigNoria" Type="ComboBox" Current="6000">
+    <Labels>
+      <Label Name="Name">
+        <German>Kein Upgrade</German>
+        <English>No Upgrade</English>
+      </Label>
+      <Label Name="Description">
+        <German>Standard: 5000</German>
+        <English>Default: 5000</English>
+      </Label>
+    </Labels>
+    <ComboBoxItems>
+      <Item Value="5100">
+        <Label Name="Element">
+          <German>5100</German>
+          <English></English>
+        </Label>
+      </Item>
+      <Item Value="5500">
+        <Label Name="Element">
+          <German>5500</German>
+          <English></English>
+        </Label>
+      </Item>
+      <Item Value="6000">
+        <Label Name="Element">
+          <German>6000</German>
+          <English></English>
+        </Label>
+      </Item>
+      <Item Value="6500">
+        <Label Name="Element">
+          <German>6500</German>
+          <English></English>
+        </Label>
+      </Item>
+      <Item Value="8000">
+        <Label Name="Element">
+          <German>8000</German>
+          <English></English>
+        </Label>
+      </Item>
+      <Item Value="8500">
+        <Label Name="Element">
+          <German>8500</German>
+          <English></English>
+        </Label>
+      </Item>
+      <Item Value="9000">
+        <Label Name="Element">
+          <German>9000</German>
+          <English></English>
+        </Label>
+      </Item>
+    </ComboBoxItems>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Noria_Upgrade1" Index="2" Group="General" Type="ComboBox" Current="1000">
+    <Labels>
+      <Label Name="Name">
+        <German>1. Upgrade</German>
+        <English>1. Upgrade</English>
+      </Label>
+      <Label Name="Description">
+        <German>Standard: +500 Kapazität</German>
+        <English>Default: +500 Capacity</English>
+      </Label>
+    </Labels>
+    <ComboBoxItems>
+      <Item Value="600">
+        <Label Name="Element">
+          <German>+600 Kapazität</German>
+          <English>+600 Capacity</English>
+        </Label>
+      </Item>
+      <Item Value="750">
+        <Label Name="Element">
+          <German>+750 Kapazität</German>
+          <English>+750 Capacity</English>
+        </Label>
+      </Item>
+      <Item Value="1000">
+        <Label Name="Element">
+          <German>+1000 Kapazität</German>
+          <English>+1000 Capacity</English>
+        </Label>
+      </Item>
+    </ComboBoxItems>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Noria_Upgrade2" Index="3" Group="General" Type="ComboBox" Current="2000">
+    <Labels>
+      <Label Name="Name">
+        <German>2. Upgrade</German>
+        <English>2. Upgrade</English>
+      </Label>
+      <Label Name="Description">
+        <German>Standard: +1000 Kapazität</German>
+        <English>Default: +1000 Capacity</English>
+      </Label>
+    </Labels>
+    <ComboBoxItems>
+      <Item Value="1100">
+        <Label Name="Element">
+          <German>+1100 Kapazität</German>
+          <English>+1100 Capacity</English>
+        </Label>
+      </Item>
+      <Item Value="1200">
+        <Label Name="Element">
+          <German>+1200 Kapazität</German>
+          <English>+1200 Capacity</English>
+        </Label>
+      </Item>
+      <Item Value="1500">
+        <Label Name="Element">
+          <German>+1500 Kapazität</German>
+          <English>+1500 Capacity</English>
+        </Label>
+      </Item>
+      <Item Value="1800">
+        <Label Name="Element">
+          <German>+1800 Kapazität</German>
+          <English>+1800 Capacity</English>
+        </Label>
+      </Item>
+    </ComboBoxItems>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Noria_Upgrade3" Index="4" Group="General" Type="ComboBox" Current="3000">
+    <Labels>
+      <Label Name="Name">
+        <German>3. Upgrade</German>
+        <English>3. Upgrade</English>
+      </Label>
+      <Label Name="Description">
+        <German>Standard: +2000 Kapazität</German>
+        <English>Default: +2000 Capacity</English>
+      </Label>
+    </Labels>
+    <ComboBoxItems>
+      <Item Value="2100">
+        <Label Name="Element">
+          <German>+2100 Kapazität</German>
+          <English>+2100 Capacity</English>
+        </Label>
+      </Item>
+      <Item Value="2200">
+        <Label Name="Element">
+          <German>+2200 Kapazität</German>
+          <English>+2200 Capacity</English>
+        </Label>
+      </Item>
+      <Item Value="2500">
+        <Label Name="Element">
+          <German>+2500 Kapazität</German>
+          <English>+2500 Capacity</English>
+        </Label>
+      </Item>
+      <Item Value="2800">
+        <Label Name="Element">
+          <German>+2800 Kapazität</German>
+          <English>+2800 Capacity</English>
+        </Label>
+      </Item>
+      <Item Value="3000">
+        <Label Name="Element">
+          <German>+3000 Kapazität</German>
+          <English>+3000 Capacity</English>
+        </Label>
+      </Item>
+    </ComboBoxItems>
+  </UserdefinedValue>
+</UserdefinedValues>

@@ -1,0 +1,16 @@
+﻿<ListModules Name="_data_loca_ger_txt_tt_disabled.txt" Index="3">
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="General" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20132544=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="0">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="General" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20134998=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="1">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="General" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20137498=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="2">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="General" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20133518=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="3">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+</ListModules>

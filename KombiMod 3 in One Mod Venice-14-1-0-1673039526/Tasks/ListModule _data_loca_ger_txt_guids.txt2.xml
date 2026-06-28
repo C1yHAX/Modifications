@@ -1,0 +1,4 @@
+<TaskList>
+  <Task Name="Convert Textmodule (%Anno%\data\loca\ger\txt\guids.txt)" Message="Insert Message" Original="36024=Orientalische Statue&#xD;&#xA;36025=Orientalisches Gauklerlager&#xD;&#xA;36026=Hafenstatue&#xD;&#xA;" Modified="36024=Orientalische Statue&#xD;&#xA;36025=Orientalisches Gauklerlager&#xD;&#xA;36026=Hafenstatue&#xD;&#xA;36989=Waren&#xD;&#xA;36988=Waren&#xD;&#xA;36987=Garten&#xD;&#xA;" Done="True" Type="TextModule" />
+  <Task Name="Convert Textmodule (%Anno%\data\loca\ger\txt\guids.txt)" Message="Insert Message" Original="36007=Palme&#xD;&#xA;36008=Zypresse&#xD;&#xA;" Modified="36007=Zierpflanzen&#xD;&#xA;36008=Zierpflanzen&#xD;&#xA;" Done="True" Type="TextModule" />
+</TaskList>

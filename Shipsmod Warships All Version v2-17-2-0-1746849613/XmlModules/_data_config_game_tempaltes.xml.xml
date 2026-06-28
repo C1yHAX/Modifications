@@ -1,0 +1,13 @@
+﻿<XmlModules Name="_data_config_game_tempaltes.xml" Index="8">
+  <ModuleList>
+    <Add Selector="/*/Group/Template[Name=&quot;MarineBuilding&quot;]/Properties" Deselector="" File="maindata;data\config\game\templates.xml" Group="General" TagName="Monument" Value="&lt;FinischedBonus /&gt;" Index="0" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Group/Template[Name=&quot;WarShip&quot;]/Properties/BuildCost" Deselector="" File="maindata;data\config\game\templates.xml" Group="General" TagName="HonourCost" Index="1" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Group/Template[Name=&quot;WarShip&quot;]/Properties/BuildCost" Deselector="" File="maindata;data\config\game\templates.xml" Group="General" TagName="Honour" Index="2" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+</XmlModules>

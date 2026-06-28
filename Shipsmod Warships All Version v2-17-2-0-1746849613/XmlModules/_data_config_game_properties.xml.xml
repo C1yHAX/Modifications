@@ -1,0 +1,138 @@
+﻿<XmlModules Name="_data_config_game_properties.xml" Index="3">
+  <ModuleList>
+    <Add Selector="//BuildingConstructionSettings/Nobleman/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Noblemenu" TagName="Item" Value="&lt;BuildingGUID&gt;38001&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132542&lt;/BuildButtonTooltip&gt;" Index="0" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Nobleman/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Noblemenu" TagName="Item" Value="&lt;BuildingGUID&gt;38002&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132543&lt;/BuildButtonTooltip&gt;" Index="1" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Nobleman/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Noblemenu" TagName="Item" Value="&lt;BuildingGUID&gt;38001&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132542&lt;/BuildButtonTooltip&gt;" Index="2" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Nobleman/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Noblemenu" TagName="Item" Value="&lt;BuildingGUID&gt;38002&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132543&lt;/BuildButtonTooltip&gt;" Index="3" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//FactionBuildingConstructionSettings/Item[LevelTooltip=&quot;147510&quot;]/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Amabassador" TagName="Item" Value="&lt;BuildingGUID&gt;38003&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;135500&lt;/BuildButtonTooltip&gt;" Index="4" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//FactionBuildingConstructionSettings/Item[LevelTooltip=&quot;147510&quot;]/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Amabassador" TagName="Îtem" Value="&lt;BuildingGUID&gt;38003&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;135500&lt;/BuildButtonTooltip&gt;" Index="5" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15001&lt;/Object&gt;" Index="6" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15002&lt;/Object&gt;" Index="7" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15003&lt;/Object&gt;" Index="8" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15004&lt;/Object&gt;" Index="9" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15005&lt;/Object&gt;" Index="10" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15006&lt;/Object&gt;" Index="11" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15007&lt;/Object&gt;" Index="12" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15008&lt;/Object&gt;" Index="13" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15013&lt;/Object&gt;" Index="14" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15014&lt;/Object&gt;" Index="15" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15015&lt;/Object&gt;" Index="16" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15001&lt;/Object&gt;" Index="17" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15002&lt;/Object&gt;" Index="18" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15003&lt;/Object&gt;" Index="19" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15004&lt;/Object&gt;" Index="20" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15005&lt;/Object&gt;" Index="21" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15006&lt;/Object&gt;" Index="22" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15007&lt;/Object&gt;" Index="23" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15008&lt;/Object&gt;" Index="24" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15013&lt;/Object&gt;" Index="25" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15014&lt;/Object&gt;" Index="26" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15015&lt;/Object&gt;" Index="27" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//BuildingConstructionSettings/Military/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Military" TagName="Item" Value="&lt;BuildingGUID&gt;38001&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132542&lt;/BuildButtonTooltip&gt;" Index="28" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Military/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Military" TagName="Item" Value="&lt;BuildingGUID&gt;38002&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132543&lt;/BuildButtonTooltip&gt;" Index="29" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Military/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Military" TagName="Item" Value="&lt;BuildingGUID&gt;38003&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;135500&lt;/BuildButtonTooltip&gt;" Index="30" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Military/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Military" TagName="Item" Value="&lt;BuildingGUID&gt;38001&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132542&lt;/BuildButtonTooltip&gt;" Index="31" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Military/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Military" TagName="Item" Value="&lt;BuildingGUID&gt;38002&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132543&lt;/BuildButtonTooltip&gt;" Index="32" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Military/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Military" TagName="Item" Value="&lt;BuildingGUID&gt;38003&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;135500&lt;/BuildButtonTooltip&gt;" Index="33" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//ItemTargetCategories/HarbourBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="HarbourBuildings" TagName="Item" Value="&lt;Object&gt;38001&lt;/Object&gt;" Index="34" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/HarbourBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="HarbourBuildings" TagName="Item" Value="&lt;Object&gt;38002&lt;/Object&gt;" Index="35" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/HarbourBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="HarbourBuildings" TagName="Item" Value="&lt;Object&gt;38003&lt;/Object&gt;" Index="36" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/HarbourBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="HarbourBuildings" TagName="Item" Value="&lt;Object&gt;38005&lt;/Object&gt;" Index="37" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/HarbourBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="HarbourBuildings" TagName="item" Value="&lt;Object&gt;38001&lt;/Object&gt;" Index="38" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/HarbourBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="HarbourBuildings" TagName="Item" Value="&lt;Object&gt;38002&lt;/Object&gt;" Index="39" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/HarbourBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="HarbourBuildings" TagName="Item" Value="&lt;Object&gt;38003&lt;/Object&gt;" Index="40" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/HarbourBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="HarbourBuildings" TagName="Item" Value="&lt;Object&gt;38005&lt;/Object&gt;" Index="41" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+</XmlModules>

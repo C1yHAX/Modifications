@@ -1,0 +1,28 @@
+﻿<XmlModules Name="Properties" Index="1">
+  <ModuleList>
+    <Edit Selector="//PlayerEmblems/Item/Costs" Deselector="" File="maindata;data\config\game\properties.xml" Group="General" OldValue="20" NewValue="-1" Index="0">
+      <UserdefinedValues />
+    </Edit>
+    <Edit Selector="//PlayerColors/Item/Costs" Deselector="" File="maindata;data\config\game\properties.xml" Group="General" OldValue="10" NewValue="0" Index="1">
+      <UserdefinedValues />
+    </Edit>
+    <Edit Selector="//PlayerOrnaments/Item/Costs" Deselector="" File="maindata;data\config\game\properties.xml" Group="General" OldValue="200" NewValue="0" Index="2">
+      <UserdefinedValues />
+    </Edit>
+    <Edit Selector="//PlayerPortraits/Item/Costs" Deselector="" File="maindata;data\config\game\properties.xml" Group="General" OldValue="100" NewValue="0" Index="3">
+      <UserdefinedValues />
+    </Edit>
+    <Edit Selector="//PlayerEmblems/Item/Costs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="General" OldValue="-1" NewValue="-1" Index="4">
+      <UserdefinedValues />
+    </Edit>
+    <Edit Selector="//PlayerColors/Item/Costs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="General" OldValue="0" NewValue="0" Index="5">
+      <UserdefinedValues />
+    </Edit>
+    <Edit Selector="//PlayerOrnaments/Item/Costs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="General" OldValue="0" NewValue="0" Index="6">
+      <UserdefinedValues />
+    </Edit>
+    <Edit Selector="//PlayerPortraits/Item/Costs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="General" OldValue="0" NewValue="0" Index="7">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+</XmlModules>

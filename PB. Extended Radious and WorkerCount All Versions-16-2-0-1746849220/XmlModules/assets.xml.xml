@@ -1,0 +1,376 @@
+﻿<XmlModules Name="assets.xml" Index="0">
+  <ModuleList>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34000&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="occident" OldValue="20" NewValue="{Marketplace}" Index="0">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Marketplace" Math="{value}" Key="{Marketplace}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34020&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="occident" OldValue="16" NewValue="{Chapel}" Index="1">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Chapel" Math="{value}" Key="{Chapel}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34010&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="occident" OldValue="22" NewValue="{Tavern}" Index="2">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Tavern" Math="{value}" Key="{Tavern}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34024&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="occident" OldValue="26" NewValue="{Church}" Index="3">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Church" Math="{value}" Key="{Church}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34027&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="occident" OldValue="26" NewValue="{DebtorsPrison}" Index="4">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="DebtorsPrison" Math="{value}" Key="{DebtorsPrison}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34032&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="occident" OldValue="17" NewValue="{CarpenterHouse}" Index="5">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="CarpenterHouse" Math="{value}" Key="{CarpenterHouse}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;35100&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="occident" OldValue="20" NewValue="{Markethouse01}" Index="6">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Markethouse01" Math="{value}" Key="{Markethouse01}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;35110&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="occident" OldValue="20" NewValue="{Markethouse02}" Index="7">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Markethouse02" Math="{value}" Key="{Markethouse02}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;35120&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="occident" OldValue="20" NewValue="{Markethouse03}" Index="8">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Markethouse03" Math="{value}" Key="{Markethouse03}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34034&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="occident" OldValue="20" NewValue="{Surgery}" Index="9">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Surgery" Math="{value}" Key="{Surgery}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34033&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="occident" OldValue="20" NewValue="{FireStation}" Index="10">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="FireStation" Math="{value}" Key="{FireStation}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34000&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="occident" OldValue="20" NewValue="{Marketplace}" Index="11">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Marketplace" Math="{value}" Key="{Marketplace}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34020&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="occident" OldValue="16" NewValue="{Chapel}" Index="12">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Chapel" Math="{value}" Key="{Chapel}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34010&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="occident" OldValue="22" NewValue="{Tavern}" Index="13">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Tavern" Math="{value}" Key="{Tavern}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34024&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="occident" OldValue="26" NewValue="{Church}" Index="14">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Church" Math="{value}" Key="{Church}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34027&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="occident" OldValue="26" NewValue="{DebtorsPrison}" Index="15">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="DebtorsPrison" Math="{value}" Key="{DebtorsPrison}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34032&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="occident" OldValue="17" NewValue="{CarpenterHouse}" Index="16">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="CarpenterHouse" Math="{value}" Key="{CarpenterHouse}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;35100&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="occident" OldValue="20" NewValue="{Markethouse01}" Index="17">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Markethouse01" Math="{value}" Key="{Markethouse01}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;35110&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="occident" OldValue="20" NewValue="{Markethouse02}" Index="18">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Markethouse02" Math="{value}" Key="{Markethouse02}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;35120&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="occident" OldValue="20" NewValue="{Markethouse03}" Index="19">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Markethouse03" Math="{value}" Key="{Markethouse03}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34034&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="occident" OldValue="20" NewValue="{Surgery}" Index="20">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="{Surgery}" Math="{value}" Key="{Surgery}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34033&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="occident" OldValue="20" NewValue="{FireStation}" Index="21">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="FireStation" Math="{value}" Key="{FireStation}" />
+      </UserdefinedValues>
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Edit Selector="//Asset[Values/Standard/Name=&quot;Bazaar&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="orient" OldValue="20" NewValue="{Bazaar}" Index="22">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Bazaar" Math="{value}" Key="{Bazaar}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/Name=&quot;Mosque&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="orient" OldValue="24" NewValue="{Mosque}" Index="23">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Mosque" Math="{value}" Key="{Mosque}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34022&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="orient" OldValue="25" NewValue="{BathHouse}" Index="24">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="BathHouse" Math="{value}" Key="{BathHouse}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;35341&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="orient" OldValue="20" NewValue="{Oriental_Markethouse}" Index="25">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Oriental_Markethouse" Math="{value}" Key="{Oriental_Markethouse}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34023&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="orient" OldValue="20" NewValue="{CoffeeHouse}" Index="26">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="CoffeeHouse" Math="{value}" Key="{CoffeeHouse}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/Name=&quot;Bazaar&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="orient" OldValue="20" NewValue="{Bazaar}" Index="27">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Bazaar" Math="{value}" Key="{Bazaar}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/Name=&quot;Mosque&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="orient" OldValue="24" NewValue="{Mosque}" Index="28">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Mosque" Math="{value}" Key="{Mosque}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34022&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="orient" OldValue="25" NewValue="{BathHouse}" Index="29">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="BathHouse" Math="{value}" Key="{BathHouse}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;35341&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="orient" OldValue="20" NewValue="{Oriental_Markethouse}" Index="30">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Oriental_Markethouse" Math="{value}" Key="{Oriental_Markethouse}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34023&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="orient" OldValue="20" NewValue="{CoffeeHouse}" Index="31">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="CoffeeHouse" Math="{value}" Key="{CoffeeHouse}" />
+      </UserdefinedValues>
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34031&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="noria" OldValue="24" NewValue="{Noria}" Index="32">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Noria" Math="{value}" Key="{Noria}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34031&quot;]/Values/Noria/NoriaConfig/Moisture/NoriaEndRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="noria" OldValue="26" NewValue="{Noria}" Index="33">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Noria" Math="{value}" Key="{Noria}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34031&quot;]/Values/Noria/NoriaConfig/Saturated/NoriaEndRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="noria" OldValue="24" NewValue="{Noria}" Index="34">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Noria" Math="{value}" Key="{Noria}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34031&quot;]/Values/Noria/NoriaConfig/Green/NoriaEndRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="noria" OldValue="25" NewValue="{Noria}" Index="35">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Noria" Math="{value}" Key="{Noria}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34031&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="noria" OldValue="24" NewValue="{Noria}" Index="36">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Noria" Math="{value}" Key="{Noria}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34031&quot;]/Values/Noria/NoriaConfig/Moisture/NoriaEndRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="noria" OldValue="26" NewValue="{Noria}" Index="37">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Noria" Math="{value}" Key="{Noria}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34031&quot;]/Values/Noria/NoriaConfig/Saturated/NoriaEndRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="noria" OldValue="24" NewValue="{Noria}" Index="38">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Noria" Math="{value}" Key="{Noria}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34031&quot;]/Values/Noria/NoriaConfig/Green/NoriaEndRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="noria" OldValue="25" NewValue="{Noria}" Index="39">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Noria" Math="{value}" Key="{Noria}" />
+      </UserdefinedValues>
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34021&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="smallnoria" OldValue="14" NewValue="{SmallNoria}" Index="40">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="SmallNoria" Math="{value}" Key="{SmallNoria}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34021&quot;]/Values/Noria/NoriaConfig/Moisture/NoriaEndRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="smallnoria" OldValue="16" NewValue="{SmallNoria}" Index="41">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="SmallNoria" Math="{value}" Key="{SmallNoria}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34021&quot;]/Values/Noria/NoriaConfig/Saturated/NoriaEndRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="smallnoria" OldValue="14" NewValue="{SmallNoria}" Index="42">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="SmallNoria" Math="{value}" Key="{SmallNoria}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34021&quot;]/Values/Noria/NoriaConfig/Green/NoriaEndRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="smallnoria" OldValue="15" NewValue="{SmallNoria}" Index="43">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="SmallNoria" Math="{value}" Key="{SmallNoria}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34021&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="smallnoria" OldValue="14" NewValue="{SmallNoria}" Index="44">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="SmallNoria" Math="{value}" Key="{SmallNoria}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34021&quot;]/Values/Noria/NoriaConfig/Moisture/NoriaEndRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="smallnoria" OldValue="16" NewValue="{SmallNoria}" Index="45">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="SmallNoria" Math="{value}" Key="{SmallNoria}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34021&quot;]/Values/Noria/NoriaConfig/Green/NoriaEndRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="smallnoria" OldValue="15" NewValue="{SmallNoria}" Index="46">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="SmallNoria" Math="{value}" Key="{SmallNoria}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34021&quot;]/Values/Noria/NoriaConfig/Saturated/NoriaEndRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="smallnoria" OldValue="14" NewValue="{SmallNoria}" Index="47">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="SmallNoria" Math="{value}" Key="{SmallNoria}" />
+      </UserdefinedValues>
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34026&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="imp_cathedral" OldValue="36" NewValue="{cathedral}" Index="48">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="cathedral" Math="{value}" Key="{cathedral}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34038&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="imp_cathedral" OldValue="36" NewValue="{cathedral}" Index="49">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="cathedral" Math="{value}" Key="{cathedral}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34039&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="imp_cathedral" OldValue="36" NewValue="{cathedral}" Index="50">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="cathedral" Math="{value}" Key="{cathedral}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34040&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="imp_cathedral" OldValue="36" NewValue="{cathedral}" Index="51">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="cathedral" Math="{value}" Key="{cathedral}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34026&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="imp_cathedral" OldValue="36" NewValue="{cathedral}" Index="52">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="cathedral" Math="{value}" Key="{cathedral}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34038&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="imp_cathedral" OldValue="36" NewValue="{cathedral}" Index="53">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="cathedral" Math="{value}" Key="{cathedral}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34039&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="imp_cathedral" OldValue="36" NewValue="{cathedral}" Index="54">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="cathedral" Math="{value}" Key="{cathedral}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34040&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="imp_cathedral" OldValue="36" NewValue="{cathedral}" Index="55">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="cathedral" Math="{value}" Key="{cathedral}" />
+      </UserdefinedValues>
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34041&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="sultans_mosque" OldValue="36" NewValue="{smosque}" Index="56">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="smosque" Math="{value}" Key="{smosque}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34042&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="sultans_mosque" OldValue="36" NewValue="{smosque}" Index="57">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="smosque" Math="{value}" Key="{smosque}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34043&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="sultans_mosque" OldValue="36" NewValue="{smosque}" Index="58">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="smosque" Math="{value}" Key="{smosque}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34044&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="addon;addondata\config\game\assets.xml" Group="sultans_mosque" OldValue="36" NewValue="{smosque}" Index="59">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="smosque" Math="{value}" Key="{smosque}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34041&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="sultans_mosque" OldValue="36" NewValue="{smosque}" Index="60">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="smosque" Math="{value}" Key="{smosque}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34042&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="sultans_mosque" OldValue="36" NewValue="{smosque}" Index="61">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="smosque" Math="{value}" Key="{smosque}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34043&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="sultans_mosque" OldValue="36" NewValue="{smosque}" Index="62">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="smosque" Math="{value}" Key="{smosque}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34044&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="sultans_mosque" OldValue="36" NewValue="{smosque}" Index="63">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="smosque" Math="{value}" Key="{smosque}" />
+      </UserdefinedValues>
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//Asset[Values/Standard/GUID=&quot;35100&quot;]/Values/Building" Deselector="" File="addon;addondata\config\game\assets.xml" Group="WorkerCount" TagName="WorkerCount" Value="{Markethouse01}" Index="64" InsertBeforeIndex="-1">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Markethouse01" Math="{value}" Key="{Markethouse01}" />
+      </UserdefinedValues>
+    </Add>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;35110&quot;]/Values/Building/WorkerCount" Deselector="" File="addon;addondata\config\game\assets.xml" Group="WorkerCount" OldValue="2" NewValue="{Markethouse02}" Index="65">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Markethouse02" Math="{value}" Key="{Markethouse02}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;35120&quot;]/Values/Building/WorkerCount" Deselector="" File="addon;addondata\config\game\assets.xml" Group="WorkerCount" OldValue="3" NewValue="{Markethouse03}" Index="66">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Markethouse03" Math="{value}" Key="{Markethouse03}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;35341&quot;]/Values/Building/WorkerCount" Deselector="" File="addon;addondata\config\game\assets.xml" Group="WorkerCount" OldValue="3" NewValue="{Oriental_Markethouse}" Index="67">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Oriental_Markethouse" Math="{value}" Key="{Oriental_Markethouse}" />
+      </UserdefinedValues>
+    </Edit>
+    <Add Selector="//Asset[Values/Standard/GUID=&quot;35100&quot;]/Values/Building" Deselector="" File="maindata;data\config\game\assets.xml" Group="WorkerCount" TagName="WorkerCount" Value="{Markethouse01}" Index="68" InsertBeforeIndex="-1">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Markethouse01" Math="{value}" Key="{Markethouse01}" />
+      </UserdefinedValues>
+    </Add>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;35110&quot;]/Values/Building/WorkerCount" Deselector="" File="maindata;data\config\game\assets.xml" Group="WorkerCount" OldValue="2" NewValue="{Markethouse02}" Index="69">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Markethouse02" Math="{value}" Key="{Markethouse02}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;35120&quot;]/Values/Building/WorkerCount" Deselector="" File="maindata;data\config\game\assets.xml" Group="WorkerCount" OldValue="3" NewValue="{Markethouse03}" Index="70">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Markethouse03" Math="{value}" Key="{Markethouse03}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;35341&quot;]/Values/Building/WorkerCount" Deselector="" File="maindata;data\config\game\assets.xml" Group="WorkerCount" OldValue="3" NewValue="{Oriental_Markethouse}" Index="71">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Oriental_Markethouse" Math="{value}" Key="{Oriental_Markethouse}" />
+      </UserdefinedValues>
+    </Edit>
+  </ModuleList>
+</XmlModules>

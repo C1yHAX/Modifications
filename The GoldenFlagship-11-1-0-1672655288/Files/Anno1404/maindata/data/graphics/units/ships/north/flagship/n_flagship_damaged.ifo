@@ -1,0 +1,27 @@
+<Info>
+  <BoundingBox>
+    <Name>BoundingBox</Name>
+    <Position>
+      <x>557</x>
+      <y>-1680</y>
+      <z>-1432</z>
+    </Position>
+    <Rotation>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+      <w>4096</w>
+      <Direction>0</Direction>
+    </Rotation>
+    <Extents>
+      <x>29557</x>
+      <y>21668</y>
+      <z>20260</z>
+    </Extents>
+  </BoundingBox>
+  <Sequence>
+    <Id>3000</Id>
+    <Duration>8000</Duration>
+    <Speed>4096</Speed>
+  </Sequence>
+</Info>

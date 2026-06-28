@@ -1,0 +1,20 @@
+﻿<ListModules Name="_data_loca_ger_txt_interface.txt" Index="1">
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="General" ElementGroup="Buildmenu Nomads&amp;Ambassadors 135000 - 137499" ElementValue="137498=Zuckerwindmühle" Index="0">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="BM Patrc." ElementGroup="Buildmenu Patricians 130000 - 132499" ElementValue="134998=Gerberhütte" Index="1">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="BM Patrc." ElementGroup="Buildmenu Patricians 130000 - 132499" ElementValue="132544=Papierwindmühle" Index="2">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="BM Noble." ElementGroup="Buildmenu Noblemen 132500 - 134999" ElementValue="133518=Kürschnerei II" Index="3">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+</ListModules>

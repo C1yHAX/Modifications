@@ -1,0 +1,26 @@
+﻿<Groups>
+  <Group InternalName="SmallNoria">
+    <Labels>
+      <Label Name="">
+        <German>Kleine Noria</German>
+        <English>Small Noria</English>
+      </Label>
+    </Labels>
+  </Group>
+  <Group InternalName="BigNoria">
+    <Labels>
+      <Label Name="">
+        <German>Große Noria</German>
+        <English>Big Noria</English>
+      </Label>
+    </Labels>
+  </Group>
+  <Group InternalName="General">
+    <Labels>
+      <Label Name="">
+        <German>Noria Upgrades</German>
+        <English>Noria Upgrades</English>
+      </Label>
+    </Labels>
+  </Group>
+</Groups>

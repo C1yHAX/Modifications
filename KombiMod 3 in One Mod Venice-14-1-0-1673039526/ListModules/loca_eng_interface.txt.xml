@@ -1,0 +1,58 @@
+﻿<ListModules Name="loca_eng_interface.txt" Index="3">
+  <ModuleList>
+    <Add File="maindata;data\loca\eng\txt\interface.txt" Group="New Shipyards" ElementGroup="Buildmenu Nomads&amp;Ambassadors 135000 - 137499" ElementValue="135500=Pirate Shipyard" Index="0">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\interface.txt" Group="New Shipyards" ElementGroup="Buildmenu Peasants 125000 - 127499" ElementValue="132542=Improved Hanseatic Shipyard" Index="1">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\interface.txt" Group="New Shipyards" ElementGroup="Buildmenu Peasants 125000 - 127499" ElementValue="132543=Imperial Navy Shipyard" Index="2">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\interface.txt" Group="New Shipyards" ElementGroup="Buildmenu Peasants 125000 - 127499" ElementValue="132541=Venetian Shipyard" Index="3">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Edit File="maindata;data\loca\eng\txt\interface.txt" Group="Edit Shipyards" ElementGroup="Buildmenu Citizens 127500 - 129999" ElementValue="127507=Small shipyard" NewValue="127507=Civil shipyard" Index="4">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\eng\txt\interface.txt" Group="Edit Shipyards" ElementGroup="Buildmenu Patricians 130000 - 132499" ElementValue="130001=Large shipyard" NewValue="130001=Navy shipyard" Index="5">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\eng\txt\interface.txt" Group="Buildmenu Peasants" ElementGroup="Buildmenu Peasants 125000 - 127499" ElementValue="125042=Goods" Index="0">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\interface.txt" Group="Buildmenu Peasants" ElementGroup="Buildmenu Peasants 125000 - 127499" ElementValue="125043=Goods" Index="1">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\interface.txt" Group="Buildmenu Peasants" ElementGroup="Buildmenu Peasants 125000 - 127499" ElementValue="125044=Gardens" Index="2">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\interface.txt" Group="Buildmenu Peasants" ElementGroup="Buildmenu Peasants 125000 - 127499" ElementValue="130046=Monastery" Index="3">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Edit File="maindata;data\loca\eng\txt\interface.txt" Group="Buildmenu Citizen" ElementGroup="Buildmenu Citizens 127500 - 129999" ElementValue="127535=Market stall 02" NewValue="127535=Harbour Market stalls" Index="4">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\eng\txt\interface.txt" Group="Buildmenu Patrician" ElementGroup="Buildmenu Patricians 130000 - 132499" ElementValue="132496=Cannon and Trebuchet" Index="5">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\eng\txt\interface.txt" Group="Buildmenu Nobleman" ElementGroup="Buildmenu Noblemen 132500 - 134999" ElementValue="132540=Manor house" Index="6">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\eng\txt\interface.txt" Group="Ambassador 1" ElementGroup="Buildmenu Nomads&amp;Ambassadors 135000 - 137499" ElementValue="135034=Academies" Index="7">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+</ListModules>

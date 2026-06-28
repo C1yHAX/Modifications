@@ -1,0 +1,20 @@
+﻿<ListModules Name="_data_loca_ger_txt_guids.txt" Index="0">
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="General" ElementGroup="factory buildings 32000 - 32999" ElementValue="32045=Gerberhütte" Index="0">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New GUIDs" ElementGroup="factory buildings 32000 - 32999" ElementValue="32046=Zuckerwindmühle" Index="1">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New GUIDs" ElementGroup="factory buildings 32000 - 32999" ElementValue="32047=Kürschnerei II" Index="2">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New GUIDs - Farm Buildings" ElementGroup="farm buildings 30000 - 30499" ElementValue="30079=Papierwindmühle" Index="3">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+</ListModules>

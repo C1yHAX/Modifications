@@ -1,0 +1,4 @@
+<TaskList>
+  <Task Name="Convert Textmodule (%Anno%\data\loca\ger\txt\guids.txt)" Message="Insert Message" Original="32044=Glasschmelze&#xD;&#xA;" Modified="32044=Glasschmelze&#xD;&#xA;32045=Gerberhütte&#xD;&#xA;32046=Zuckerwindmühle&#xD;&#xA;" Done="True" Type="TextModule" />
+  <Task Name="Convert Textmodule (%Anno%\data\loca\ger\txt\guids.txt)" Message="Insert Message" Original="30078=Dattelplantage&#xD;&#xA;" Modified="30078=Dattelplantage&#xD;&#xA;30079=Papierwindmühle&#xD;&#xA;" Done="True" Type="TextModule" />
+</TaskList>

@@ -1,0 +1,10 @@
+﻿<Groups>
+  <Group InternalName="UValues">
+    <Labels>
+      <Label Name="">
+        <German>Benutzerdefinierte Werte</German>
+        <English>Userdefined Values</English>
+      </Label>
+    </Labels>
+  </Group>
+</Groups>

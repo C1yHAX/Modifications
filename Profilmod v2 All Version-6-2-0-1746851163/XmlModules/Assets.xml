@@ -1,0 +1,10 @@
+﻿<XmlModules Name="Assets" Index="0">
+  <ModuleList>
+    <Edit Selector="//IsAchievable" Deselector="" File="maindata;data\config\game\assets.xml" Group="General" OldValue="1" NewValue="0" Index="0">
+      <UserdefinedValues />
+    </Edit>
+    <Edit Selector="//IsAchievable" Deselector="" File="addon;addondata\config\game\assets.xml" Group="General" OldValue="0" NewValue="0" Index="1">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+</XmlModules>

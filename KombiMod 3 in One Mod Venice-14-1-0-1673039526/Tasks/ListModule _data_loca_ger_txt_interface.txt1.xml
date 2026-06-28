@@ -1,0 +1,3 @@
+<TaskList>
+  <Task Name="Convert Textmodule (%Anno%\data\loca\ger\txt\interface.txt)" Message="Insert Message" Original="125039=Brunnen 01125040=Marienbild&#xD;&#xA;" Modified="125039=Brunnen 01&#xD;&#xA;125040=Marienbild&#xD;&#xA;125042=Waren&#xD;&#xA;125043=Waren&#xD;&#xA;125044=Garten&#xD;&#xA;" Done="True" Type="TextModule" />
+</TaskList>

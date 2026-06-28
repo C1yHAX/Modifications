@@ -1,0 +1,35 @@
+<ModificationInfo>
+  <Version Major="1" Minor="0" Build="0" Revision="1" />
+  <InternalName>Kombimod</InternalName>
+  <InternalCategory>General</InternalCategory>
+  <Author>CryHAX</Author>
+  <Website>
+  </Website>
+  <Documentation>Kombimod_Addon_Documentation.pdf</Documentation>
+  <RDASupport>True</RDASupport>
+  <AnnoVersions>
+    <AnnoVersion>Addon1</AnnoVersion>
+    <AnnoVersion>Addon1_Patch1</AnnoVersion>
+  </AnnoVersions>
+  <Images>
+    <Image>harbour_preview.jpg</Image>
+    <Image>orna_preview.jpg</Image>
+    <Image>ship_preview.jpg</Image>
+  </Images>
+  <Labels>
+    <Label Name="Name">
+      <German>Kombimod</German>
+      <English>Kombimod</English>
+    </Label>
+    <Label Name="Description">
+      <German>Dieser Mod kombiniert die Texturen der drei Mods "neue Ziergebäude", "Hafengebäude" und "Schiffsmod - Kriegsschiffe" in einer neuen patch0.rda.
+damit sind alle neuen Texturen aus diesen Mods im Spiel sichtbar.</German>
+      <English>This mod combines the textures of the three mods "new decorative buildings", "port buildings" and "ship mod - warships" in a new patch0.rda.
+with this, all new textures from these mods are visible in the game.</English>
+    </Label>
+    <Label Name="Category">
+      <German>Allgemein</German>
+      <English>General</English>
+    </Label>
+  </Labels>
+</ModificationInfo>

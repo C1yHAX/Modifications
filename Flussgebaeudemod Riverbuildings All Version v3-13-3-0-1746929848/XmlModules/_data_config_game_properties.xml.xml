@@ -1,0 +1,158 @@
+﻿<XmlModules Name="_data_config_game_properties.xml" Index="3">
+  <ModuleList>
+    <Add Selector="//BuildingConstructionSettings/Patrician/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Menu - Patrician" TagName="Item" Value="&lt;BuildingGUID&gt;32045&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;134998&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateLetherJerkins&lt;/VisibleFromIntermediatelevel&gt;" Index="0" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Patrician/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Menu - Patrician" TagName="Item" Value="&lt;BuildingGUID&gt;30079&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132544&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateBooks&lt;/VisibleFromIntermediatelevel&gt;" Index="1" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Patrician/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Menu - Patrician" TagName="Item" Value="&lt;BuildingGUID&gt;32045&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;134998&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateLetherJerkins&lt;/VisibleFromIntermediatelevel&gt;" Index="2" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Patrician/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Menu - Patrician" TagName="Item" Value="&lt;BuildingGUID&gt;30079&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132544&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateBooks&lt;/VisibleFromIntermediatelevel&gt;" Index="3" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//BuildingConstructionSettings/Nobleman/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Noblemen Menu" TagName="Item" Value="&lt;BuildingGUID&gt;32047&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;133518&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateFurCoat&lt;/VisibleFromIntermediatelevel&gt;" Index="4" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Nobleman/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Noblemen Menu" TagName="Item" Value="&lt;BuildingGUID&gt;32047&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;133518&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateFurCoat&lt;/VisibleFromIntermediatelevel&gt;" Index="5" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//FactionBuildingConstructionSettings/Item[LevelTooltip=&quot;147512&quot;]/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ambassador Menu" TagName="Item" Value="&lt;BuildingGUID&gt;32046&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;137498&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateMarzipan&lt;/VisibleFromIntermediatelevel&gt;" Index="6" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//FactionBuildingConstructionSettings/Item[LevelTooltip=&quot;147512&quot;]/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ambassador Menu" TagName="Item" Value="&lt;BuildingGUID&gt;32046&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;137498&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateMarzipan&lt;/VisibleFromIntermediatelevel&gt;" Index="7" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//ItemTargetCategories/ClothingChainBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="ItemTargetCategories_Cloth" TagName="Item" Value="&lt;Object&gt;32045&lt;/Object&gt;" Index="8" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/ClothingChainBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="ItemTargetCategories_Cloth" TagName="Item" Value="&lt;Object&gt;32047&lt;/Object&gt;" Index="9" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/ClothingChainBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="ItemTargetCategories_Cloth" TagName="Item" Value="&lt;Object&gt;32045&lt;/Object&gt;" Index="10" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/ClothingChainBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="ItemTargetCategories_Cloth" TagName="Item" Value="&lt;Object&gt;32047&lt;/Object&gt;" Index="11" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//ItemTargetCategories/FoodChainBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="ItemTargetCategories_Food" TagName="Item" Value="&lt;Object&gt;32046&lt;/Object&gt;" Index="12" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/FoodChainBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="ItemTargetCategories_Food" TagName="Item" Value="&lt;Object&gt;32046&lt;/Object&gt;" Index="13" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//ItemTargetCategories/PropertyChainBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="ItemTargetCategories_Properties" TagName="Item" Value="&lt;Object&gt;30079&lt;/Object&gt;" Index="14" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/PropertyChainBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="ItemTargetCategories_Properties" TagName="Item" Value="&lt;Object&gt;30079&lt;/Object&gt;" Index="15" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//ItemTargetCategories/ProductionBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="ItemTargetCategories_ProductionBuildings" TagName="Item" Value="&lt;Object&gt;32046&lt;/Object&gt;" Index="16" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/ProductionBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="ItemTargetCategories_ProductionBuildings" TagName="Item" Value="&lt;Object&gt;32045&lt;/Object&gt;" Index="17" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/ProductionBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="ItemTargetCategories_ProductionBuildings" TagName="Item" Value="&lt;Object&gt;30079&lt;/Object&gt;" Index="18" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/ProductionBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="ItemTargetCategories_ProductionBuildings" TagName="Item" Value="&lt;Object&gt;32047&lt;/Object&gt;" Index="19" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/ProductionBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="ItemTargetCategories_ProductionBuildings" TagName="Item" Value="&lt;Object&gt;32046&lt;/Object&gt;" Index="20" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/ProductionBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="ItemTargetCategories_ProductionBuildings" TagName="Item" Value="&lt;Object&gt;32045&lt;/Object&gt;" Index="21" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/ProductionBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="ItemTargetCategories_ProductionBuildings" TagName="Item" Value="&lt;Object&gt;30079&lt;/Object&gt;" Index="22" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/ProductionBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="ItemTargetCategories_ProductionBuildings" TagName="Item" Value="&lt;Object&gt;32047&lt;/Object&gt;" Index="23" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//ItemTargetCategories/ClothChainEndBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="ItemTargetCategories_ClothEndBuildings" TagName="Item" Value="&lt;Object&gt;32045&lt;/Object&gt;" Index="24" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/ClothChainEndBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="ItemTargetCategories_ClothEndBuildings" TagName="Item" Value="&lt;Object&gt;32047&lt;/Object&gt;" Index="25" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/ClothChainEndBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="ItemTargetCategories_ClothEndBuildings" TagName="Item" Value="&lt;Object&gt;32045&lt;/Object&gt;" Index="26" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/ClothChainEndBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="ItemTargetCategories_ClothEndBuildings" TagName="Item" Value="&lt;Object&gt;32047&lt;/Object&gt;" Index="27" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//ItemTargetCategories/ProductionBuildingsOrient/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="ITC_ProductionBuildings_Orient" TagName="Item" Value="&lt;Object&gt;32046&lt;/Object&gt;" Index="28" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/ProductionBuildingsOrient/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="ITC_ProductionBuildings_Orient" TagName="Item" Value="&lt;Object&gt;32046&lt;/Object&gt;" Index="29" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//Intermediatelevel[count(./Level)=0]" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Intermediatelevel" TagName="IntermediateMühle" Value="&lt;Level&gt;Ambassador&lt;/Level&gt;&lt;ResidentCount&gt;2500&lt;/ResidentCount&gt;" Index="30" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//Intermediatelevel[count(./Level)=0]" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Intermediatelevel" TagName="IntermediateLeather" Value="&lt;Level&gt;Patrician&lt;/Level&gt;&lt;ResidentCount&gt;690&lt;/ResidentCount&gt;" Index="31" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//Intermediatelevel[count(./Level)=0]" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Intermediatelevel" TagName="IntermediateFurCoat" Value="&lt;Level&gt;Noblemen&lt;/Level&gt;&lt;ResidentCount&gt;950&lt;/ResidentCount&gt;" Index="32" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//Intermediatelevel[count(./Level)=0]" Deselector="" File="maindata;data\config\game\properties.xml" Group="Intermediatelevel" TagName="IntermediateMühle" Value="&lt;Level&gt;Ambassador&lt;/Level&gt;&lt;ResidentCount&gt;2500&lt;/ResidentCount&gt;" Index="33" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//Intermediatelevel[count(./Level)=0]" Deselector="" File="maindata;data\config\game\properties.xml" Group="Intermediatelevel" TagName="IntermediateLeather" Value="&lt;Level&gt;Patrician&lt;/Level&gt;&lt;ResidentCount&gt;690&lt;/ResidentCount&gt;" Index="34" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//Intermediatelevel[count(./Level)=0]" Deselector="" File="maindata;data\config\game\properties.xml" Group="Intermediatelevel" TagName="IntermediateFurCoat" Value="&lt;Level&gt;Noblemen&lt;/Level&gt;&lt;ResidentCount&gt;950&lt;/ResidentCount&gt;" Index="35" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//BuildingConstructionSettings/Production1/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="BCSettings - Production1" TagName="Item" Value="&lt;BuildingGUID&gt;32046&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;137498&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateMarzipan&lt;/VisibleFromIntermediatelevel&gt;" Index="36" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Production1/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="BCSettings - Production1" TagName="Item" Value="&lt;BuildingGUID&gt;30079&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132544&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateBooks&lt;/VisibleFromIntermediatelevel&gt;" Index="37" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Production1/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="BCSettings - Production1" TagName="Item" Value="&lt;BuildingGUID&gt;32045&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;134998&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateLetherJerkins&lt;/VisibleFromIntermediatelevel&gt;" Index="38" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Production1/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="BCSettings - Production1" TagName="Item" Value="&lt;BuildingGUID&gt;32046&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;137498&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateMarzipan&lt;/VisibleFromIntermediatelevel&gt;" Index="39" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Production1/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="BCSettings - Production1" TagName="Item" Value="&lt;BuildingGUID&gt;30079&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132544&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateBooks&lt;/VisibleFromIntermediatelevel&gt;" Index="40" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Production1/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="BCSettings - Production1" TagName="Item" Value="&lt;BuildingGUID&gt;32045&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;134998&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateLetherJerkins&lt;/VisibleFromIntermediatelevel&gt;" Index="41" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//BuildingConstructionSettings/Production2/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="BCSettings - Production2" TagName="Item" Value="&lt;BuildingGUID&gt;32047&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;133518&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateFurCoat&lt;/VisibleFromIntermediatelevel&gt;" Index="42" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Production2/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="BCSettings - Production2" TagName="Item" Value="&lt;BuildingGUID&gt;32047&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;133518&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateFurCoat&lt;/VisibleFromIntermediatelevel&gt;" Index="43" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+</XmlModules>

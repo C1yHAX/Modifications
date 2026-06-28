@@ -1,0 +1,56 @@
+﻿<ListModules Name="loca_ger_tt_pressed.txt" Index="3">
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Shipyards" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30132542=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Muss an der Küste errichtet werden.[CR]Ermöglicht den Bau verbesserter Handelsschiffe." Index="0">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Shipyards" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30132543=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Muss an der Küste errichtet werden.[CR]Ermöglicht den Bau verbesserter Kriegsschiffe." Index="1">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Shipyards" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30135500=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Muss an der Küste errichtet werden.[CR]Ermöglicht den Bau von Schiffen der Piraten." Index="2">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Edit File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="Edit Shipyards" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30127507=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Muss an der Küste errichtet werden.[CR]Ermöglicht den Bau von Kleinen Handels- und Kriegsschiffen." NewValue="30127507=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Muss an der Küste errichtet werden.[CR]Ermöglicht den Bau vonHandelsschiffen." Index="3">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="Edit Shipyards" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30130001=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Muss an der Küste errichtet werden.[CR]Ermöglicht den Bau  von Großen Handels- und Kriegsschiffen." NewValue="30130001=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Muss an der Küste errichtet werden.[CR]Ermöglicht den Bau von Kriegsschiffen." Index="4">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157480=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 4[CR][MILITARY_OBJECT_STRENGTH]" Index="5">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157481=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 2[CR][MILITARY_OBJECT_STRENGTH]" Index="6">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157490=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 2[CR][MILITARY_OBJECT_STRENGTH]" Index="7">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157491=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 3[CR][MILITARY_OBJECT_STRENGTH]" Index="8">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157492=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 6[CR][MILITARY_OBJECT_STRENGTH]" Index="9">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157482=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 2[CR][MILITARY_OBJECT_STRENGTH]" Index="10">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157483=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 4[CR][MILITARY_OBJECT_STRENGTH]" Index="11">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157484=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 6[CR][MILITARY_OBJECT_STRENGTH]" Index="12">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157485=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 1[CR][MILITARY_OBJECT_STRENGTH]" Index="13">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157486=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 2[CR][MILITARY_OBJECT_STRENGTH]" Index="14">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_pressed.txt" Group="New Ships" ElementGroup="ToolTipp (Aktiviert), valid guid range: 30000000 - 39999999" ElementValue="30157487=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 3[CR][MILITARY_OBJECT_STRENGTH]" Index="15">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+</ListModules>

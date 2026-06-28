@@ -1,0 +1,30 @@
+﻿<XmlModules Name="_data_config_game_icons.xml" Index="2">
+  <ModuleList>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="[Addon] New Icons" TagName="i" Value="&lt;GUID&gt;30079&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;54&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="0" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="[Addon] New Icons" TagName="i" Value="&lt;GUID&gt;32045&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;46&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="1" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="[Addon] New Icons" TagName="i" Value="&lt;GUID&gt;32046&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;30&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="2" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="[Addon] New Icons" TagName="i" Value="&lt;GUID&gt;32047&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;390&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="3" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="[Main] New Icons" TagName="i" Value="&lt;GUID&gt;30079&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;54&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="4" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="[Main] New Icons" TagName="i" Value="&lt;GUID&gt;32045&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;46&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="5" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="[Main] New Icons" TagName="i" Value="&lt;GUID&gt;32046&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;30&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="6" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="[Main] New Icons" TagName="i" Value="&lt;GUID&gt;32047&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;390&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="7" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+</XmlModules>

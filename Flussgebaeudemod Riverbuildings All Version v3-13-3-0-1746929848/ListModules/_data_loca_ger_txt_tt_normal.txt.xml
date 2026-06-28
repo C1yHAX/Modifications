@@ -1,0 +1,18 @@
+﻿<ListModules Name="_data_loca_ger_txt_tt_normal.txt" Index="2">
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\tt_normal.txt" Group="General" ElementGroup="ToolTipp (Standard), valid guid range: 10000000 - 19999999" ElementValue="10132544=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Benötigt Holz.[CR]Produziert Papier." Index="0">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_normal.txt" Group="General" ElementGroup="ToolTipp (Standard), valid guid range: 10000000 - 19999999" ElementValue="10133518=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Benötigt keinen Flussbauplatz um errichtet zu werden.[CR]Benötigt Pelz und Salz.[CR]Produziert Pelzmäntel.[CR]Stillt das Bedürfnis nach Kleidung." Index="1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\tt_normal.txt" Group="New Tooltipps" ElementGroup="ToolTipp (Standard), valid guid range: 10000000 - 19999999" ElementValue="10134998=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Benötigt Salz und Tierhäute.[CR]Produziert Lederwämser.[CR]Stillt das Bedürfnis nach Kleidung." Index="2">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_normal.txt" Group="New Tooltipps" ElementGroup="ToolTipp (Standard), valid guid range: 10000000 - 19999999" ElementValue="10137498=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Benötigt Zuckerrohr.[CR]Produziert Zucker." Index="3">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+</ListModules>

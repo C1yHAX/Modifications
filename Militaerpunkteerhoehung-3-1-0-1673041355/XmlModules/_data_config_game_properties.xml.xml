@@ -1,0 +1,14 @@
+﻿<XmlModules Name="_data_config_game_properties.xml" Index="0">
+  <ModuleList>
+    <Edit Selector="//MilitaryClaimMax" Deselector="" File="addon;addondata\config\game\properties.xml" Group="General" OldValue="170" NewValue="{0}" Index="0">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="MilitaryPointCount" Math="{value}" Key="{0}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//MilitaryClaimMax" Deselector="" File="maindata;data\config\game\properties.xml" Group="General" OldValue="170" NewValue="{0}" Index="1">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="MilitaryPointCount" Math="{value}" Key="{0}" />
+      </UserdefinedValues>
+    </Edit>
+  </ModuleList>
+</XmlModules>

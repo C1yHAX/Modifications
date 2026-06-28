@@ -1,0 +1,3 @@
+<TaskList>
+  <Task Name="Convert Textmodule (%Anno%\data\config\game\properties.xml)" Message="Insert Message" Original="&lt;ShipClaimMax&gt;85&lt;/ShipClaimMax&gt;&#xD;&#xA;" Modified="&lt;ShipClaimMax&gt;{ShipClaimMax}&lt;/ShipClaimMax&gt;&#xD;&#xA;" Done="True" Type="TextModule" />
+</TaskList>

@@ -1,0 +1,33 @@
+<ModificationInfo>
+  <Version Major="1" Minor="0" Build="0" Revision="0" />
+  <InternalName>Militärpunkteerhöhung</InternalName>
+  <InternalCategory>Cheats</InternalCategory>
+  <Author>CryHAX</Author>
+  <Website>
+  </Website>
+  <Documentation>
+  </Documentation>
+  <RDASupport>True</RDASupport>
+  <AnnoVersions>
+    <AnnoVersion>All</AnnoVersion>
+  </AnnoVersions>
+  <Images>
+    <Image>preview.jpg</Image>
+  </Images>
+  <Labels>
+    <Label Name="Name">
+      <German>Militärpunkteerhöhung</German>
+      <English>Increase military points</English>
+    </Label>
+    <Label Name="Description">
+      <German>Erhöht die maximalen Militärpunkte.
+Diese Mod ist auch für Schönbauer geeignet, da jedes Stadttor auch Militärpunkte verbraucht.</German>
+      <English>Increases maximum military points.
+This mod is also suitable for beautiful builders, since each city gate also consumes military points.</English>
+    </Label>
+    <Label Name="Category">
+      <German>Cheats</German>
+      <English>Cheats</English>
+    </Label>
+  </Labels>
+</ModificationInfo>

@@ -1,0 +1,339 @@
+﻿WORLD_EDITOR_2=WorldEditor²
+
+M_FILE=&Datei
+M_NEW=&Neu
+M_NEW_MAP=Neue &Karte...
+M_NEW_MAP_TEMPLATE=Neue Karten&vorlage
+M_NEW_RANDOM_MAP=Neue Zufallskarte erstellen...
+M_OPEN=Öffnen...
+M_OPEN_TEMPLATE=Kartenvorlage öffnen...
+M_SAVE=Speichern
+M_SAVE_AS=Speichern unter..
+M_CLOSE=Schließen
+M_MAP_PROPERTIES=Karten&eigenschaften
+RECENT_FILES=Zuletzt verwendete Dateien
+M_QUIT=&Beenden
+
+M_EDIT=&Bearbeiten
+M_UNDO=&Rückgängig
+M_REDO=&Wiederherstellen
+M_CUT=Ausschneiden
+M_COPY=Kopieren
+M_PASTE=Einfügen
+M_INSERT_ISLAND=&Insel einfügen
+M_RANDOM_RESOURCES=&Zufällige Ressourcen
+
+M_RANDOM_MAPS=&Zufallskarten
+M_RANDOM_MAP_SETTINGS=&Einstellungen
+M_CREATE_RANDOM_MAP=&Zufallskarte erstellen
+M_RANDOM_MAP_CREATION_SETTINGS=&Parameter Zufallskartenerstellung
+M_ISLANDS_EASY=Leichte Inseln
+M_ISLANDS_MEDIUM=Mittlere Inseln
+M_ISLANDS_HARD=Schwere Inseln
+M_FERTILITIES_LOW=Wenig Fruchtbarkeiten
+M_FERTILITIES_MEDIUM=Mittlere Fruchtbarkeiten
+M_FERTILITIES_HIGH=Viele Fruchtbarkeiten
+M_RESOURCES_LOW=Wenig Ressourcen
+M_RESOURCES_MEDIUM=Mittlere Ressourcen
+M_RESOURCES_HIGH=Viele Ressourcen
+M_RANDOM_MAP_STATS_TOOL=Zufallskarten-&Statistiken
+
+M_OPTIONS=&Optionen
+M_SHOW_FERTILITIES=&Fruchtbarkeiten anzeigen
+M_SHOW_RESOURCES=&Resourcen anzeigen
+M_SHOW_THIRD_PARTY_SLOTS=Dritte Parteien Slots anzeigen
+M_SHOW_AREAS=Areas anzeigen
+M_SHOW_AREANAMES=Areanamen anzeigen
+
+M_WINDOWS=&Fenster
+M_MAPVIEW=Weltkarte
+M_MAPTEMPLATEVIEW=Zufallskartenvorlage
+M_ISLANDLIST=Insel&liste
+M_ISLANDDATA=&Inseldaten
+M_AUTOBUILD=Vorgebaute Insel
+M_RESOURCES=&Ressourcen
+M_AREAS=&Areas
+M_GAME_SETTINGS=&Spieleinstellungen
+
+M_HELP=&Hilfe
+M_ABOUT=Über...
+
+###
+
+M_EDIT_AREAS=Areas editieren
+M_ROTATE_CW=Im Uhrzeigersinn rotieren
+M_ROTATE_CCW=Gegen den Uhrzeigersinn rotieren
+
+###
+
+OK=Ok
+CANCEL=Abbruch
+NOTHING=
+
+###
+
+MAP_FILE_FILTER=Karten (*.www)|*.www
+MAP_FILE_FILTER_ENDUSER=Benutzerdefinierte Karten (*.rdu)|*.rdu
+MAP_FILE_FILTER_ENDUSER_ADDON=Benutzerdefinierte AddOn Karten (*.rdv)|*.rdv
+MAP_TEMPLATE_FILE_FILTER=Zufallskartenvorlagen (*.tww)|*.tww
+ALL_FILE_FILTER=Alle Dateien (*.*)|*.*
+ISLAND_FILE_FILTER=Inseln (*.isd)|*.isd
+IMAGE_FILE_FILTER=Bilder (*.bmp; *.jpg; *.png)|*.bmp;*.jpg;*.png
+
+###
+
+UNSAVED_CHANGES=Nicht gespeicherte Änderungen
+WANT_TO_SAVE_CHANGES=Sollen die Änderungen gespeichert werden?
+
+###
+
+ERROR=Fehler
+MSGBOX_CHECKOUT_FAILED=Checkout von {0} fehlgeschlagen!
+MSGBOX_LOAD_FAILED=Fehler beim Laden von {0}!
+MSGBOX_SAVE_FAILED=Fehler beim Speichern von {0}!
+MSGBOX_WRONG_USERCONTENT_VERSION=Fehler beim Laden von {0}. Falsche Dateiversion!
+
+###
+
+IslandListForm=Inselliste
+ID=Id
+NAME=Name
+CLIME=Klima
+
+###
+
+IslandForm=Inseldaten
+NewRandomMapForm=Neue Zufallkarte erstellen..
+FILENAME=Dateiname
+POSITION=Position
+SIZE=Größe
+ISLAND_SIZE=Inselgröße
+THIRDPARTY=Neutrale Kräfte
+CORSAIRS=Korsaren
+SEED=Kartennummer
+FERTILITIES=Fruchtbarkeiten
+VEGETABLE=Gemüse
+CIDER=Most
+HERBS=Kräuter
+ROSE=Rosen
+HEMP=Hanf
+WHEAT=Weizen
+GRAPE=Trauben
+BEES=Bienen
+CLAY=Lehm
+COFFEE=Kaffee
+INDIGO=Indigo
+SILK=Seide
+ALMOND=Mandeln
+SUGARCANE=Zuckerrohr
+DATES=Datteln
+SPICES=Gewürze
+WILDCARD=Platzhalter
+LIGHT=Beleuchtung
+ISLAND_TYPE=Inseltyp
+TYPE_REGULAR_ISLAND=Normale Insel
+TYPE_MAIN_ISLAND=Hauptinsel
+TYPE_START_ISLAND=Okzident / Orient Starthafen
+TYPE_CORSAIR_ISLAND=Korsareninsel
+TYPE_DECO_ISLAND=Zierinsel
+TYPE_VENETIAN_ISLAND=Venezianer
+TYPE_VOLCANO_ISLAND=Vulkaninsel
+T_LIGHT_AMBIENT_COLOR=Farbe Ambient
+T_LIGHT_DIFFUSE_COLOR=Farbe Diffuse
+T_LIGHT_WATER_COLOR=Farbe Wasser
+
+###
+
+MapSettingsForm=Karteneigenschaften
+DESCRIPTION=Beschreibung
+PREVIEW=Vorschaubild
+DIFFICULTY=Schwierigkeit
+EASY=Leicht
+MEDIUM=Mittel
+HARD=Schwer
+NONE=Keine
+STANDARD=Standart
+FULL=Alle
+RESOURCES=Ressourcen
+LIGHTS=Beleuchtung
+LOW=Wenig
+HIGH=Viel
+NORTH=Nord
+SOUTH=Süd
+NORMAL=Normal
+ENABLED=Aktiviert
+DISABLED=Deaktiviert
+BROWSE=Datei ...
+ADD=Hinzufügen
+REMOVE=Entfernen
+
+###
+
+IslandTemplateForm=Inseltemplate
+TYPE=Typ
+SMALL_ISLAND=Kleine Insel
+MEDIUM_ISLAND=Mittlere Insel
+LARGE_ISLAND=Große Insel
+REGULAR_ISLAND=Normale Insel
+MAIN_ISLAND=Hauptinsel
+START_INSEL=Starthafen
+CORSAIR_ISLAND=Korsareninsel
+VENETIAN_ISLAND=Venezianerinsel
+NORTH=Nord
+SOUTH=Süd
+ALL=Alle
+
+###
+
+ResourceForm=Ressourcen
+RESOURCE/FERTILITY=Ressource/Fruchtbarkeit
+COUNT=Anzahl
+TOTAL=Gesamt
+
+###
+
+AreaForm=Areas
+AREA=Area
+
+###
+
+AutoBuildForm=Vorgebaute Insel
+PLAYER=Spieler
+BUILDING=Gebäude
+RESOURCE_ISLAND=Ressourceninsel
+MAIN_ISLAND_NORTH=Okzidentsiedlung
+MAIN_ISLAND_SOUTH=Orientsiedlung
+---=--------------------
+
+###
+
+ResourceConfigForm=Ressourcenkonfiguration
+RESOURCE=Ressource
+AMOUNT=Menge
+REFILL_MIN=Refill-Min
+REFILL_MAX=Refill-Max
+
+###
+
+NativeSlotConfigForm=Dritte Partei
+NATIVE_TYPE=Typ
+
+###
+
+RandomMapSettingsForm=Einstellungen Zufallskarten
+MIN=Min
+MAX=Max
+SMALL=Klein
+LARGE=Groß
+Huge=Riesig
+UP=Hoch
+DOWN=Runter
+ATTRACTION=Attraktivität
+AVAILABLE=Verfügbar
+CATEGORIES=Kategorien
+ELEMENTS=Zugeordnet
+ASSIGNED=Zugeordnet
+DECO_ISLANDS_SMALL_WORLD=Zierinseln in kleiner Welt
+DECO_ISLANDS_MEDIUM_WORLD=Zierinseln in mittlerer Welt
+DECO_ISLANDS_LARGE_WORLD=Zierinseln in großer Welt
+DECO_ISLANDS_VERYLARGE_WORLD=Zierinseln in sehr großer Welt
+DECO_ISLAND_DISTANCE_TO_OTHER=Min. Abstand Zierinsel zu anderer
+ISLAND_DISTANCE_TO_OTHER=Min. Abstand zwischen Inseln
+ISLAND_MAX_MOVE_DISTANCE=Max. Inselverschiebung
+GLOBAL=Global
+
+ISLANDLISTS=Insellisten
+TEMPLATELISTS=Templatelisten
+MULTIPLAYER_TEMPLATELISTS=Multiplayer Templatelisten
+FERTILITY_RATES=Fruchtbarkeiten - Verteilungsraten
+FERTILITY_ATTRACTIONS=Fruchtbarkeiten - Attraktivitäten
+FERTILITY_LIMITS=Fruchtbarkeiten - Grenzen
+FERTILITY_PER_ISLAND_SIZE=Fruchtbarkeiten - pro Inselgröße
+FERTILITY_FORCED=Fruchtbarkeiten - Erzwungen
+FERTILITY_MUTUAL_EXCLUSION=Fruchtbarkeiten - Ausschluß
+RESOURCE_RATES=Ressourcen - Verteilungsraten
+RESOURCE_ATTRACTIONS=Ressourcen - Attraktivitäten
+RESOURCE_LIMITS=Ressourcen - Grenzen
+RESOURCE_AMOUNT_LIMITS=Ressourcen - Inhaltslimits
+RESOURCE_FORCED=Ressourcen - Erzwungen
+RESOURCE_MUTUAL_EXCLUSION=Ressourcen - Ausschluß
+RIVER_RATES=Flüsse - Untere Grenzen
+NATIVE_RATES=Dritte - Verteilungsraten
+NATIVE_ATTRACTIONS=Dritte - Attraktivitäten
+NATIVE_LIMITS=Dritte - Grenzen
+FERTILITY_ORDER=Fruchtbarkeiten - Verteilungsreihenfolge
+RESOURCE_ORDER=Ressourcen - Verteilungsreihenfolge
+MISC_SETTINGS=Sonstige Einstellungen
+
+ISLAND_LIST_START=Starthäfen
+ISLAND_LIST_CORSAIR=Korsareninseln
+ISLAND_LIST_DECORATION=Zierinseln
+ISLAND_LIST_MAIN_EASY=Hauptinseln (leicht)
+ISLAND_LIST_MAIN_MEDIUM=Hauptinseln (mittel)
+ISLAND_LIST_MAIN_HARD=Hauptinseln (schwer)
+ISLAND_LIST_REGULAR_EASY=Normale Inseln (leicht)
+ISLAND_LIST_REGULAR_MEDIUM=Normale Inseln (mittel)
+ISLAND_LIST_REGULAR_HARD=Normale Inseln (schwer)
+ISLAND_LIST_VENETIAN=Venezianerinseln
+
+TEMPLATE_LIST_SMALL_ISLANDS=Kleine Inseln
+TEMPLATE_LIST_MEDIUM_ISLANDS=Mittlere Inseln
+TEMPLATE_LIST_LARGE_ISLANDS=Große Inseln
+
+RESOURCES_LOW=Wenig Ressourcen
+RESOURCES_MEDIUM=Mittlere Ressourcen
+RESOURCES_HIGH=Viele Ressourcen
+
+WORLD_SIZE_SMALL=Kleine Welt
+WORLD_SIZE_MEDIUM=Mittlere Welt
+WORLD_SIZE_LARGE=Große Welt
+WORLD_SIZE_VERY_LARGE=Riesige Welt
+
+LIST=Liste
+ADD_LIST=Liste hinzufügen
+DELETE_LIST=Liste löschen
+
+###
+
+GameSettingsForm=Spieleinstellungen
+PLAYER1=Spieler 0
+PLAYER2=Spieler 1
+PLAYER3=Spieler 2
+PLAYER4=Spieler 3
+PLAYER5=Spieler 4
+PLAYER6=Spieler 5
+PLAYER7=Spieler 6
+PLAYER8=Spieler 7
+HUMAN=Menschlicher Spieler
+
+###
+
+RandomMapStatsForm=Zufallskarten-Statistiken
+RANDOM_MAP_TEMPLATE=Zufallskartenvorlage
+ISLAND_DIFFICULTY=Inselschwierigkeit
+FERTILITY_AMOUNT=Fruchtbarkeitenmenge
+RESOURCE_AMOUNT=Ressourcenmenge
+NUMBER_OF_MAPS_TO_CREATE=Anzahl zu erzeugender Karten
+CREATE_STATS=Statistik erzeugen
+STATS=Statistik
+AVG=Mittel
+NORTH_MIN=Nord Min
+NORTH_MAX=Nord Max
+NORTH_AVG=Nord Mittel
+SOUTH_MIN=Süd Min
+SOUTH_MAX=Süd Max
+SOUTH_AVG=Süd Mittel
+DETAILS=Details
+WORLD=Welt
+NATIVE_SLOTS=Slots
+NATIVES=Dritte Parteien
+
+###
+
+ImportIslandDialog=Insel einfügen
+NORTH_ISLANDS=Nordinsel
+SOUTH_ISLANDS=Südinsel
+NORTH_ISLANDS_ADDON=Nordinsel Addon
+SOUTH_ISLANDS_ADDON=Südinsel Addon
+
+EULA=Endbenutzer-Lizenzvereinbarung

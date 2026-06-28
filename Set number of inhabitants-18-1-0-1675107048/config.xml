@@ -1,0 +1,33 @@
+<ModificationInfo>
+  <Version Major="1" Minor="0" Build="0" Revision="0" />
+  <InternalName>House size</InternalName>
+  <InternalCategory>
+  </InternalCategory>
+  <Author>Ivan Moc</Author>
+  <Website>
+  </Website>
+  <Documentation>
+  </Documentation>
+  <RDASupport>True</RDASupport>
+  <AnnoVersions>
+    <AnnoVersion>All</AnnoVersion>
+    <AnnoVersion>Addon1</AnnoVersion>
+    <AnnoVersion>Addon1_Patch1</AnnoVersion>
+  </AnnoVersions>
+  <Images />
+  <Labels>
+    <Label Name="Name">
+      <German>
+      </German>
+      <English>Extra people in houses</English>
+    </Label>
+    <Label Name="Description">
+      <German>Beschreibung</German>
+      <English>Set how many people can fit in house, up to 3x</English>
+    </Label>
+    <Label Name="Category">
+      <German>Allgemein</German>
+      <English>General</English>
+    </Label>
+  </Labels>
+</ModificationInfo>

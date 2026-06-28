@@ -1,0 +1,38 @@
+﻿<XmlModules Name="_data_config_features_features.xml" Index="0">
+  <ModuleList>
+    <Edit Selector="//Asset[Values/Standard/Name=&quot;Orient Noria Upgrade 01&quot;]/Values/ProductionUpgrade/ProductionCapacity/Value" Deselector="" File="addon;addondata\config\features\features.xml" Group="General" OldValue="500" NewValue="{0}" Index="0">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Noria_Upgrade1" Math="{value}" Key="{0}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/Name=&quot;Orient Noria Upgrade 01&quot;]/Values/ProductionUpgrade/ProductionCapacity/Value" Deselector="" File="maindata;data\config\features\features.xml" Group="General" OldValue="500" NewValue="{0}" Index="1">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Noria_Upgrade1" Math="{value}" Key="{0}" />
+      </UserdefinedValues>
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Edit Selector="//Asset[Values/Standard/Name=&quot;Orient Noria Upgrade 02&quot;]/Values/ProductionUpgrade/ProductionCapacity/Value" Deselector="" File="addon;addondata\config\features\features.xml" Group="Noria Upgrade 2" OldValue="1000" NewValue="{0}" Index="2">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Noria_Upgrade2" Math="{value}" Key="{0}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/Name=&quot;Orient Noria Upgrade 02&quot;]/Values/ProductionUpgrade/ProductionCapacity/Value" Deselector="" File="maindata;data\config\features\features.xml" Group="Noria Upgrade 2" OldValue="1000" NewValue="{0}" Index="3">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Noria_Upgrade2" Math="{value}" Key="{0}" />
+      </UserdefinedValues>
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Edit Selector="//Asset[Values/Standard/Name=&quot;Orient Noria Upgrade 03&quot;]/Values/ProductionUpgrade/ProductionCapacity/Value" Deselector="" File="addon;addondata\config\features\features.xml" Group="Noria Upgrade 3" OldValue="2000" NewValue="{0}" Index="4">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Noria_Upgrade3" Math="{value}" Key="{0}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/Name=&quot;Orient Noria Upgrade 03&quot;]/Values/ProductionUpgrade/ProductionCapacity/Value" Deselector="" File="maindata;data\config\features\features.xml" Group="Noria Upgrade 3" OldValue="2000" NewValue="{0}" Index="5">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Noria_Upgrade3" Math="{value}" Key="{0}" />
+      </UserdefinedValues>
+    </Edit>
+  </ModuleList>
+</XmlModules>

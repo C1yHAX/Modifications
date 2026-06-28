@@ -1,0 +1,268 @@
+﻿<XmlModules Name="_data_config_features_features.xml" Index="0">
+  <ModuleList>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15001&lt;/UpgradeGUID&gt;" Index="0" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15002&lt;/UpgradeGUID&gt;" Index="1" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15003&lt;/UpgradeGUID&gt;" Index="2" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15004&lt;/UpgradeGUID&gt;" Index="3" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15005&lt;/UpgradeGUID&gt;" Index="4" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15006&lt;/UpgradeGUID&gt;" Index="5" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15007&lt;/UpgradeGUID&gt;" Index="6" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15008&lt;/UpgradeGUID&gt;" Index="7" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15013&lt;/UpgradeGUID&gt;" Index="8" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15014&lt;/UpgradeGUID&gt;" Index="9" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15015&lt;/UpgradeGUID&gt;" Index="10" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15001&lt;/UpgradeGUID&gt;" Index="11" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15002&lt;/UpgradeGUID&gt;" Index="12" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15003&lt;/UpgradeGUID&gt;" Index="13" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15004&lt;/UpgradeGUID&gt;" Index="14" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15005&lt;/UpgradeGUID&gt;" Index="15" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15006&lt;/UpgradeGUID&gt;" Index="16" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15007&lt;/UpgradeGUID&gt;" Index="17" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15008&lt;/UpgradeGUID&gt;" Index="18" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15013&lt;/UpgradeGUID&gt;" Index="19" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15014&lt;/UpgradeGUID&gt;" Index="20" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53235&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Storehouse Town Upgrade" TagName="Item" Value="&lt;UpgradeGUID&gt;15015&lt;/UpgradeGUID&gt;" Index="21" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53229&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Occident Tradingship Upgrade 1" TagName="Item" Value="&lt;UpgradeGUID&gt;15001&lt;/UpgradeGUID&gt;" Index="22" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53229&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Occident Tradingship Upgrade 1" TagName="Item" Value="&lt;UpgradeGUID&gt;15003&lt;/UpgradeGUID&gt;" Index="23" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53229&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Occident Tradingship Upgrade 1" TagName="Item" Value="&lt;UpgradeGUID&gt;15004&lt;/UpgradeGUID&gt;" Index="24" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53229&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Occident Tradingship Upgrade 1" TagName="Item" Value="&lt;UpgradeGUID&gt;15005&lt;/UpgradeGUID&gt;" Index="25" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53229&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Occident Tradingship Upgrade 1" TagName="Item" Value="&lt;UpgradeGUID&gt;15001&lt;/UpgradeGUID&gt;" Index="26" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53229&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Occident Tradingship Upgrade 1" TagName="Item" Value="&lt;UpgradeGUID&gt;15003&lt;/UpgradeGUID&gt;" Index="27" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53229&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Occident Tradingship Upgrade 1" TagName="Item" Value="&lt;UpgradeGUID&gt;15004&lt;/UpgradeGUID&gt;" Index="28" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53229&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Occident Tradingship Upgrade 1" TagName="Item" Value="&lt;UpgradeGUID&gt;15005&lt;/UpgradeGUID&gt;" Index="29" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53230&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Occident Tradingship Update 2" TagName="Item" Value="&lt;UpgradeGUID&gt;15001&lt;/UpgradeGUID&gt;" Index="30" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53230&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Occident Tradingship Update 2" TagName="Item" Value="&lt;UpgradeGUID&gt;15003&lt;/UpgradeGUID&gt;" Index="31" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53230&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Occident Tradingship Update 2" TagName="Item" Value="&lt;UpgradeGUID&gt;15004&lt;/UpgradeGUID&gt;" Index="32" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53230&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Occident Tradingship Update 2" TagName="Item" Value="&lt;UpgradeGUID&gt;15005&lt;/UpgradeGUID&gt;" Index="33" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53230&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Occident Tradingship Update 2" TagName="Item" Value="&lt;UpgradeGUID&gt;15001&lt;/UpgradeGUID&gt;" Index="34" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53230&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Occident Tradingship Update 2" TagName="Item" Value="&lt;UpgradeGUID&gt;15003&lt;/UpgradeGUID&gt;" Index="35" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53230&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Occident Tradingship Update 2" TagName="Item" Value="&lt;UpgradeGUID&gt;15004&lt;/UpgradeGUID&gt;" Index="36" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53230&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Occident Tradingship Update 2" TagName="Item" Value="&lt;UpgradeGUID&gt;15005&lt;/UpgradeGUID&gt;" Index="37" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53231&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Occident Tradingship Upgrade 3" TagName="Item" Value="&lt;UpgradeGUID&gt;15001&lt;/UpgradeGUID&gt;" Index="38" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53231&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Occident Tradingship Upgrade 3" TagName="Item" Value="&lt;UpgradeGUID&gt;15003&lt;/UpgradeGUID&gt;" Index="39" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53231&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Occident Tradingship Upgrade 3" TagName="Item" Value="&lt;UpgradeGUID&gt;15004&lt;/UpgradeGUID&gt;" Index="40" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53231&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Occident Tradingship Upgrade 3" TagName="Item" Value="&lt;UpgradeGUID&gt;15005&lt;/UpgradeGUID&gt;" Index="41" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53231&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Occident Tradingship Upgrade 3" TagName="Item" Value="&lt;UpgradeGUID&gt;15001&lt;/UpgradeGUID&gt;" Index="42" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53231&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Occident Tradingship Upgrade 3" TagName="Item" Value="&lt;UpgradeGUID&gt;15003&lt;/UpgradeGUID&gt;" Index="43" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53231&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Occident Tradingship Upgrade 3" TagName="Item" Value="&lt;UpgradeGUID&gt;15004&lt;/UpgradeGUID&gt;" Index="44" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53231&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Occident Tradingship Upgrade 3" TagName="Item" Value="&lt;UpgradeGUID&gt;15005&lt;/UpgradeGUID&gt;" Index="45" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53223&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Corsair Warship Upgrade 1" TagName="Item" Value="&lt;UpgradeGUID&gt;15002&lt;/UpgradeGUID&gt;" Index="46" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53223&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Corsair Warship Upgrade 1" TagName="Item" Value="&lt;UpgradeGUID&gt;15006&lt;/UpgradeGUID&gt;" Index="47" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53223&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Corsair Warship Upgrade 1" TagName="Item" Value="&lt;UpgradeGUID&gt;15007&lt;/UpgradeGUID&gt;" Index="48" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53223&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Corsair Warship Upgrade 1" TagName="Item" Value="&lt;UpgradeGUID&gt;15008&lt;/UpgradeGUID&gt;" Index="49" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53223&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Corsair Warship Upgrade 1" TagName="Item" Value="&lt;UpgradeGUID&gt;15002&lt;/UpgradeGUID&gt;" Index="50" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53223&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Corsair Warship Upgrade 1" TagName="Item" Value="&lt;UpgradeGUID&gt;15006&lt;/UpgradeGUID&gt;" Index="51" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53223&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Corsair Warship Upgrade 1" TagName="Item" Value="&lt;UpgradeGUID&gt;15007&lt;/UpgradeGUID&gt;" Index="52" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53223&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Corsair Warship Upgrade 1" TagName="Item" Value="&lt;UpgradeGUID&gt;15008&lt;/UpgradeGUID&gt;" Index="53" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53224&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Corsair Warship Upgrade 2" TagName="Item" Value="&lt;UpgradeGUID&gt;15002&lt;/UpgradeGUID&gt;" Index="54" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53224&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Corsair Warship Upgrade 2" TagName="Item" Value="&lt;UpgradeGUID&gt;15006&lt;/UpgradeGUID&gt;" Index="55" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53224&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Corsair Warship Upgrade 2" TagName="Item" Value="&lt;UpgradeGUID&gt;15007&lt;/UpgradeGUID&gt;" Index="56" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53224&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Corsair Warship Upgrade 2" TagName="Item" Value="&lt;UpgradeGUID&gt;15008&lt;/UpgradeGUID&gt;" Index="57" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53224&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Corsair Warship Upgrade 2" TagName="Item" Value="&lt;UpgradeGUID&gt;15002&lt;/UpgradeGUID&gt;" Index="58" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53224&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Corsair Warship Upgrade 2" TagName="Item" Value="&lt;UpgradeGUID&gt;15006&lt;/UpgradeGUID&gt;" Index="59" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53224&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Corsair Warship Upgrade 2" TagName="Item" Value="&lt;UpgradeGUID&gt;15007&lt;/UpgradeGUID&gt;" Index="60" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53224&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Corsair Warship Upgrade 2" TagName="Item" Value="&lt;UpgradeGUID&gt;15008&lt;/UpgradeGUID&gt;" Index="61" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53225&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Corsair Warship Upgrade 3" TagName="Item" Value="&lt;UpgradeGUID&gt;15002&lt;/UpgradeGUID&gt;" Index="62" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53225&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Corsair Warship Upgrade 3" TagName="Item" Value="&lt;UpgradeGUID&gt;15006&lt;/UpgradeGUID&gt;" Index="63" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53225&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Corsair Warship Upgrade 3" TagName="Item" Value="&lt;UpgradeGUID&gt;15007&lt;/UpgradeGUID&gt;" Index="64" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53225&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="Corsair Warship Upgrade 3" TagName="Item" Value="&lt;UpgradeGUID&gt;15008&lt;/UpgradeGUID&gt;" Index="65" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53225&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Corsair Warship Upgrade 3" TagName="Item" Value="&lt;UpgradeGUID&gt;15002&lt;/UpgradeGUID&gt;" Index="66" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53225&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Corsair Warship Upgrade 3" TagName="Item" Value="&lt;UpgradeGUID&gt;15006&lt;/UpgradeGUID&gt;" Index="67" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53225&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Corsair Warship Upgrade 3" TagName="Item" Value="&lt;UpgradeGUID&gt;15007&lt;/UpgradeGUID&gt;" Index="68" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Assets/Asset[Values/Standard/GUID=&quot;53225&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="Corsair Warship Upgrade 3" TagName="Item" Value="&lt;UpgradeGUID&gt;15008&lt;/UpgradeGUID&gt;" Index="69" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="/*/Groups/Group/Groups/Group/Groups/Group/Groups/Group[Name=&quot;Marine&quot;]/Assets" Deselector="" File="addon;addondata\config\features\features.xml" Group="New Ship Items" TagName="Asset" Value="&lt;Template&gt;ShipItem&lt;/Template&gt;&lt;Values&gt;&lt;CostUpgrade /&gt;&lt;HitpointUpgrade&gt;&lt;MaxHitpoints&gt;&lt;Value&gt;45&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/MaxHitpoints&gt;&lt;/HitpointUpgrade&gt;&lt;Item&gt;&lt;ItemHonourPrice&gt;1000&lt;/ItemHonourPrice&gt;&lt;ItemType&gt;ExpertMarine&lt;/ItemType&gt;&lt;/Item&gt;&lt;ShipCombatUpgrade&gt;&lt;DamagePerSecond&gt;&lt;Value&gt;35&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/DamagePerSecond&gt;&lt;/ShipCombatUpgrade&gt;&lt;ShipRepairUpgrade&gt;&lt;SelfHealingPointsPerMinute&gt;&lt;Value&gt;400&lt;/Value&gt;&lt;/SelfHealingPointsPerMinute&gt;&lt;/ShipRepairUpgrade&gt;&lt;ShipUpgrade /&gt;&lt;Standard&gt;&lt;Name&gt;Captain Woolf&lt;/Name&gt;&lt;GUID&gt;8111&lt;/GUID&gt;&lt;/Standard&gt;&lt;TransportUpgrade /&gt;&lt;UnitUpgrade&gt;&lt;WalkingSpeed&gt;&lt;Value&gt;15&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/WalkingSpeed&gt;&lt;/UnitUpgrade&gt;&lt;Upgrade /&gt;&lt;/Values&gt;" Index="70" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Groups/Group/Groups/Group[Name=&quot;Marine&quot;]/Assets" Deselector="" File="addon;addondata\config\features\features.xml" Group="New Ship Items" TagName="Asset" Value="&lt;Template&gt;ShipItem&lt;/Template&gt;&lt;Values&gt;&lt;CostUpgrade /&gt;&lt;HitpointUpgrade&gt;&lt;MaxHitpoints&gt;&lt;Value&gt;50&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/MaxHitpoints&gt;&lt;/HitpointUpgrade&gt;&lt;Item&gt;&lt;ItemHonourPrice&gt;1000&lt;/ItemHonourPrice&gt;&lt;ItemType&gt;ExpertMarine&lt;/ItemType&gt;&lt;/Item&gt;&lt;ShipCombatUpgrade&gt;&lt;DamagePerSecond&gt;&lt;Value&gt;40&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/DamagePerSecond&gt;&lt;/ShipCombatUpgrade&gt;&lt;ShipRepairUpgrade&gt;&lt;SelfHealingPointsPerMinute&gt;&lt;Value&gt;500&lt;/Value&gt;&lt;/SelfHealingPointsPerMinute&gt;&lt;/ShipRepairUpgrade&gt;&lt;ShipUpgrade /&gt;&lt;Standard&gt;&lt;Name&gt;Captain Tera&lt;/Name&gt;&lt;GUID&gt;8110&lt;/GUID&gt;&lt;/Standard&gt;&lt;TransportUpgrade /&gt;&lt;UnitUpgrade&gt;&lt;WalkingSpeed&gt;&lt;Value&gt;20&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/WalkingSpeed&gt;&lt;/UnitUpgrade&gt;&lt;Upgrade /&gt;&lt;/Values&gt;" Index="71" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Groups/Group/Groups/Group[Name=&quot;Marine&quot;]/Assets" Deselector="" File="maindata;data\config\features\features.xml" Group="New Ship Items" TagName="Asset" Value="&lt;Template&gt;ShipItem&lt;/Template&gt;&lt;Values&gt;&lt;CostUpgrade /&gt;&lt;HitpointUpgrade&gt;&lt;MaxHitpoints&gt;&lt;Value&gt;45&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/MaxHitpoints&gt;&lt;/HitpointUpgrade&gt;&lt;Item&gt;&lt;ItemHonourPrice&gt;1000&lt;/ItemHonourPrice&gt;&lt;ItemType&gt;ExpertMarine&lt;/ItemType&gt;&lt;/Item&gt;&lt;ShipCombatUpgrade&gt;&lt;DamagePerSecond&gt;&lt;Value&gt;35&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/DamagePerSecond&gt;&lt;/ShipCombatUpgrade&gt;&lt;ShipRepairUpgrade&gt;&lt;SelfHealingPointsPerMinute&gt;&lt;Value&gt;400&lt;/Value&gt;&lt;/SelfHealingPointsPerMinute&gt;&lt;/ShipRepairUpgrade&gt;&lt;ShipUpgrade /&gt;&lt;Standard&gt;&lt;Name&gt;Captain Woolf&lt;/Name&gt;&lt;GUID&gt;8111&lt;/GUID&gt;&lt;/Standard&gt;&lt;TransportUpgrade /&gt;&lt;UnitUpgrade&gt;&lt;WalkingSpeed&gt;&lt;Value&gt;15&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/WalkingSpeed&gt;&lt;/UnitUpgrade&gt;&lt;Upgrade /&gt;&lt;/Values&gt;" Index="72" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Groups/Group/Groups/Group[Name=&quot;Marine&quot;]/Assets" Deselector="" File="maindata;data\config\features\features.xml" Group="New Ship Items" TagName="Asset" Value="&lt;Template&gt;ShipItem&lt;/Template&gt;&lt;Values&gt;&lt;CostUpgrade /&gt;&lt;HitpointUpgrade&gt;&lt;MaxHitpoints&gt;&lt;Value&gt;50&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/MaxHitpoints&gt;&lt;/HitpointUpgrade&gt;&lt;Item&gt;&lt;ItemHonourPrice&gt;1000&lt;/ItemHonourPrice&gt;&lt;ItemType&gt;ExpertMarine&lt;/ItemType&gt;&lt;/Item&gt;&lt;ShipCombatUpgrade&gt;&lt;DamagePerSecond&gt;&lt;Value&gt;40&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/DamagePerSecond&gt;&lt;/ShipCombatUpgrade&gt;&lt;ShipRepairUpgrade&gt;&lt;SelfHealingPointsPerMinute&gt;&lt;Value&gt;500&lt;/Value&gt;&lt;/SelfHealingPointsPerMinute&gt;&lt;/ShipRepairUpgrade&gt;&lt;ShipUpgrade /&gt;&lt;Standard&gt;&lt;Name&gt;Captain Tera&lt;/Name&gt;&lt;GUID&gt;8110&lt;/GUID&gt;&lt;/Standard&gt;&lt;TransportUpgrade /&gt;&lt;UnitUpgrade&gt;&lt;WalkingSpeed&gt;&lt;Value&gt;20&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/WalkingSpeed&gt;&lt;/UnitUpgrade&gt;&lt;Upgrade /&gt;&lt;/Values&gt;" Index="73" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="/*/Groups/Group/Groups/Group/Groups/Group/Groups/Group[Name=&quot;Experte MilitÃ¤r&quot;]/Assets" Deselector="" File="addon;addondata\config\features\features.xml" Group="New Kontor Item" TagName="Asset" Value="&lt;Template&gt;MilitaryUpgrade&lt;/Template&gt;&lt;Values&gt;&lt;CostUpgrade&gt;&lt;ActiveCost&gt;&lt;Value&gt;-50&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/ActiveCost&gt;&lt;/CostUpgrade&gt;&lt;HitpointUpgrade&gt;&lt;MaxHitpoints&gt;&lt;Value&gt;30&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/MaxHitpoints&gt;&lt;/HitpointUpgrade&gt;&lt;Item&gt;&lt;UtilizationCount&gt;0&lt;/UtilizationCount&gt;&lt;EffectDuration&gt;0&lt;/EffectDuration&gt;&lt;Passive&gt;1&lt;/Passive&gt;&lt;ItemHonourPrice&gt;1000&lt;/ItemHonourPrice&gt;&lt;ItemType&gt;ExpertMilitaryCastle&lt;/ItemType&gt;&lt;/Item&gt;&lt;MilitaryUnitUpgrade&gt;&lt;DamageRangeCombatMax&gt;&lt;Value&gt;70&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/DamageRangeCombatMax&gt;&lt;DamageRangeCombatMin&gt;&lt;Value&gt;70&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/DamageRangeCombatMin&gt;&lt;AttackDelayRangeCombat&gt;&lt;Value&gt;-20&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/AttackDelayRangeCombat&gt;&lt;/MilitaryUnitUpgrade&gt;&lt;Standard&gt;&lt;Name&gt;Lord Maglor&lt;/Name&gt;&lt;GUID&gt;8270&lt;/GUID&gt;&lt;/Standard&gt;&lt;UnitUpgrade /&gt;&lt;Upgrade&gt;&lt;TargetGUIDs&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;38000&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;38010&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;38024&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;38032&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;38033&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;38034&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;38035&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;39015&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;39500&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;/TargetGUIDs&gt;&lt;TargetCategories&gt;MilitaryFortification&lt;/TargetCategories&gt;&lt;ShowTargetInTooltip&gt;0&lt;/ShowTargetInTooltip&gt;&lt;/Upgrade&gt;&lt;/Values&gt;" Index="74" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Groups/Group/Groups/Group[Name=&quot;Experte MilitÃ¤r&quot;]/Assets" Deselector="" File="maindata;data\config\features\features.xml" Group="New Kontor Item" TagName="Asset" Value="&lt;Template&gt;MilitaryUpgrade&lt;/Template&gt;&lt;Values&gt;&lt;CostUpgrade&gt;&lt;ActiveCost&gt;&lt;Value&gt;-50&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/ActiveCost&gt;&lt;/CostUpgrade&gt;&lt;HitpointUpgrade&gt;&lt;MaxHitpoints&gt;&lt;Value&gt;30&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/MaxHitpoints&gt;&lt;/HitpointUpgrade&gt;&lt;Item&gt;&lt;UtilizationCount&gt;0&lt;/UtilizationCount&gt;&lt;EffectDuration&gt;0&lt;/EffectDuration&gt;&lt;Passive&gt;1&lt;/Passive&gt;&lt;ItemHonourPrice&gt;1000&lt;/ItemHonourPrice&gt;&lt;ItemType&gt;ExpertMilitaryCastle&lt;/ItemType&gt;&lt;/Item&gt;&lt;MilitaryUnitUpgrade&gt;&lt;DamageRangeCombatMax&gt;&lt;Value&gt;70&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/DamageRangeCombatMax&gt;&lt;DamageRangeCombatMin&gt;&lt;Value&gt;70&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/DamageRangeCombatMin&gt;&lt;AttackDelayRangeCombat&gt;&lt;Value&gt;-20&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/AttackDelayRangeCombat&gt;&lt;/MilitaryUnitUpgrade&gt;&lt;Standard&gt;&lt;Name&gt;Lord Maglor&lt;/Name&gt;&lt;GUID&gt;8270&lt;/GUID&gt;&lt;/Standard&gt;&lt;UnitUpgrade /&gt;&lt;Upgrade&gt;&lt;TargetGUIDs&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;38000&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;38010&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;38024&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;38032&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;38033&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;38034&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;38035&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;39015&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;39500&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;/TargetGUIDs&gt;&lt;TargetCategories&gt;MilitaryFortification&lt;/TargetCategories&gt;&lt;ShowTargetInTooltip&gt;0&lt;/ShowTargetInTooltip&gt;&lt;/Upgrade&gt;&lt;/Values&gt;" Index="75" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="/*/Groups/Group/Groups/Group[Name=&quot;Occident&quot;]/Assets" Deselector="" File="addon;addondata\config\features\features.xml" Group="New Upgrades" TagName="Asset" Value="&lt;Template&gt;GlobalTradingShipUpgrade&lt;/Template&gt;&lt;Values&gt;&lt;HitpointUpgrade /&gt;&lt;ShipCombatUpgrade /&gt;&lt;ShipRepairUpgrade /&gt;&lt;ShipUpgrade&gt;&lt;LoadDamageCap&gt;&lt;Value&gt;-10&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/LoadDamageCap&gt;&lt;/ShipUpgrade&gt;&lt;Standard&gt;&lt;Name&gt;ImprovedHanseShipyard Upgrade&lt;/Name&gt;&lt;GUID&gt;54100&lt;/GUID&gt;&lt;/Standard&gt;&lt;TransportUpgrade&gt;&lt;SlotCapacity&gt;&lt;Value&gt;10&lt;/Value&gt;&lt;/SlotCapacity&gt;&lt;/TransportUpgrade&gt;&lt;UnitUpgrade /&gt;&lt;Upgrade&gt;&lt;TargetGUIDs&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15010&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15910&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15913&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15914&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15001&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15003&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15004&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15005&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15013&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;/TargetGUIDs&gt;&lt;/Upgrade&gt;&lt;/Values&gt;" Index="76" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group[Name=&quot;Occident&quot;]/Assets" Deselector="" File="addon;addondata\config\features\features.xml" Group="New Upgrades" TagName="Asset" Value="&lt;Template&gt;GlobalWarShipUpgrade&lt;/Template&gt;&lt;Values&gt;&lt;HitpointUpgrade&gt;&lt;MaxHitpoints&gt;&lt;Value&gt;100&lt;/Value&gt;&lt;/MaxHitpoints&gt;&lt;/HitpointUpgrade&gt;&lt;ShipCombatUpgrade /&gt;&lt;ShipRepairUpgrade&gt;&lt;SelfHealingPointsPerMinute&gt;&lt;Value&gt;50&lt;/Value&gt;&lt;/SelfHealingPointsPerMinute&gt;&lt;/ShipRepairUpgrade&gt;&lt;ShipUpgrade /&gt;&lt;Standard&gt;&lt;Name&gt;ImperialNavyShipyard Upgrade&lt;/Name&gt;&lt;GUID&gt;54101&lt;/GUID&gt;&lt;/Standard&gt;&lt;UnitUpgrade /&gt;&lt;Upgrade&gt;&lt;TargetGUIDs&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15911&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15915&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15916&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15923&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15951&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15006&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15007&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15008&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15014&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;/TargetGUIDs&gt;&lt;/Upgrade&gt;&lt;/Values&gt;" Index="77" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group[Name=&quot;Occident&quot;]/Assets" Deselector="" File="addon;addondata\config\features\features.xml" Group="New Upgrades" TagName="Asset" Value="&lt;Template&gt;GlobalWarShipUpgrade&lt;/Template&gt;&lt;Values&gt;&lt;HitpointUpgrade /&gt;&lt;ShipCombatUpgrade&gt;&lt;DamagePerSecond&gt;&lt;Value&gt;5&lt;/Value&gt;&lt;/DamagePerSecond&gt;&lt;AttackSpeed&gt;&lt;Value&gt;-20&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/AttackSpeed&gt;&lt;/ShipCombatUpgrade&gt;&lt;ShipRepairUpgrade /&gt;&lt;ShipUpgrade&gt;&lt;VisionRadius&gt;&lt;Value&gt;50&lt;/Value&gt;&lt;/VisionRadius&gt;&lt;/ShipUpgrade&gt;&lt;Standard&gt;&lt;Name&gt;TerroroftheSeas Upgrade&lt;/Name&gt;&lt;GUID&gt;54102&lt;/GUID&gt;&lt;/Standard&gt;&lt;TransportUpgrade /&gt;&lt;UnitUpgrade /&gt;&lt;Upgrade&gt;&lt;TargetGUIDs&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15911&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15912&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15915&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15916&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15923&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15951&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15006&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15007&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15008&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15014&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;/TargetGUIDs&gt;&lt;/Upgrade&gt;&lt;/Values&gt;" Index="78" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group[Name=&quot;Occident&quot;]/Assets" Deselector="" File="maindata;data\config\features\features.xml" Group="New Upgrades" TagName="Asset" Value="&lt;Template&gt;GlobalTradingShipUpgrade&lt;/Template&gt;&lt;Values&gt;&lt;HitpointUpgrade /&gt;&lt;ShipCombatUpgrade /&gt;&lt;ShipRepairUpgrade /&gt;&lt;ShipUpgrade&gt;&lt;LoadDamageCap&gt;&lt;Value&gt;-10&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/LoadDamageCap&gt;&lt;/ShipUpgrade&gt;&lt;Standard&gt;&lt;Name&gt;ImprovedHanseShipyard Upgrade&lt;/Name&gt;&lt;GUID&gt;54100&lt;/GUID&gt;&lt;/Standard&gt;&lt;TransportUpgrade&gt;&lt;SlotCapacity&gt;&lt;Value&gt;10&lt;/Value&gt;&lt;/SlotCapacity&gt;&lt;/TransportUpgrade&gt;&lt;UnitUpgrade /&gt;&lt;Upgrade&gt;&lt;TargetGUIDs&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15010&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15910&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15913&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15914&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15001&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15003&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15004&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15005&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15013&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;/TargetGUIDs&gt;&lt;/Upgrade&gt;&lt;/Values&gt;" Index="79" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group[Name=&quot;Occident&quot;]/Assets" Deselector="" File="maindata;data\config\features\features.xml" Group="New Upgrades" TagName="Asset" Value="&lt;Template&gt;GlobalWarShipUpgrade&lt;/Template&gt;&lt;Values&gt;&lt;HitpointUpgrade&gt;&lt;MaxHitpoints&gt;&lt;Value&gt;100&lt;/Value&gt;&lt;/MaxHitpoints&gt;&lt;/HitpointUpgrade&gt;&lt;ShipCombatUpgrade /&gt;&lt;ShipRepairUpgrade&gt;&lt;SelfHealingPointsPerMinute&gt;&lt;Value&gt;50&lt;/Value&gt;&lt;/SelfHealingPointsPerMinute&gt;&lt;/ShipRepairUpgrade&gt;&lt;ShipUpgrade /&gt;&lt;Standard&gt;&lt;Name&gt;ImperialNavyShipyard Upgrade&lt;/Name&gt;&lt;GUID&gt;54101&lt;/GUID&gt;&lt;/Standard&gt;&lt;UnitUpgrade /&gt;&lt;Upgrade&gt;&lt;TargetGUIDs&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15911&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15915&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15916&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15923&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15951&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15006&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15007&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15008&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15014&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;/TargetGUIDs&gt;&lt;/Upgrade&gt;&lt;/Values&gt;" Index="80" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group[Name=&quot;Occident&quot;]/Assets" Deselector="" File="maindata;data\config\features\features.xml" Group="New Upgrades" TagName="Asset" Value="&lt;Template&gt;GlobalWarShipUpgrade&lt;/Template&gt;&lt;Values&gt;&lt;HitpointUpgrade /&gt;&lt;ShipCombatUpgrade&gt;&lt;DamagePerSecond&gt;&lt;Value&gt;5&lt;/Value&gt;&lt;/DamagePerSecond&gt;&lt;AttackSpeed&gt;&lt;Value&gt;-20&lt;/Value&gt;&lt;Percental&gt;1&lt;/Percental&gt;&lt;/AttackSpeed&gt;&lt;/ShipCombatUpgrade&gt;&lt;ShipRepairUpgrade /&gt;&lt;ShipUpgrade&gt;&lt;VisionRadius&gt;&lt;Value&gt;50&lt;/Value&gt;&lt;/VisionRadius&gt;&lt;/ShipUpgrade&gt;&lt;Standard&gt;&lt;Name&gt;TerroroftheSeas Upgrade&lt;/Name&gt;&lt;GUID&gt;54102&lt;/GUID&gt;&lt;/Standard&gt;&lt;TransportUpgrade /&gt;&lt;UnitUpgrade /&gt;&lt;Upgrade&gt;&lt;TargetGUIDs&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15911&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15912&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15915&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15916&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15923&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15951&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15006&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15007&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15008&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;Item&gt;&lt;UpgradeGUID&gt;15014&lt;/UpgradeGUID&gt;&lt;/Item&gt;&lt;/TargetGUIDs&gt;&lt;/Upgrade&gt;&lt;/Values&gt;" Index="81" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+</XmlModules>

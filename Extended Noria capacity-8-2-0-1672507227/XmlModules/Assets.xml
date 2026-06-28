@@ -1,0 +1,26 @@
+﻿<XmlModules Name="Assets" Index="1">
+  <ModuleList>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34021&quot;]/Values/WareProduction/ProductionCapacity" Deselector="" File="addon;addondata\config\game\assets.xml" Group="SmallNoria" OldValue="500" NewValue="{SmallNoria}" Index="0">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="SmallNoria_NoUpgrade" Math="{value}" Key="{SmallNoria}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34021&quot;]/Values/WareProduction/ProductionCapacity" Deselector="" File="maindata;data\config\game\assets.xml" Group="SmallNoria" OldValue="500" NewValue="{SmallNoria}" Index="1">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="SmallNoria_NoUpgrade" Math="{value}" Key="{SmallNoria}" />
+      </UserdefinedValues>
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34031&quot;]/Values/WareProduction/ProductionCapacity" Deselector="" File="addon;addondata\config\game\assets.xml" Group="Noria" OldValue="5000" NewValue="{Noria}" Index="2">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Noria_NoUpgrade" Math="{value}" Key="{Noria}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/GUID=&quot;34031&quot;]/Values/WareProduction/ProductionCapacity" Deselector="" File="maindata;data\config\game\assets.xml" Group="Noria" OldValue="5000" NewValue="{Noria}" Index="3">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Noria_NoUpgrade" Math="{value}" Key="{Noria}" />
+      </UserdefinedValues>
+    </Edit>
+  </ModuleList>
+</XmlModules>

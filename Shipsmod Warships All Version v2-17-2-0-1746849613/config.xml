@@ -1,0 +1,41 @@
+<ModificationInfo>
+  <Version Major="2" Minor="0" Build="0" Revision="0" />
+  <InternalName>Shipmod Warships</InternalName>
+  <InternalCategory>Ships, Items</InternalCategory>
+  <Author>CryHAX</Author>
+  <Website>
+  </Website>
+  <Documentation>Shipmod_Patch_Documentation.pdf</Documentation>
+  <RDASupport>True</RDASupport>
+  <AnnoVersions>
+    <AnnoVersion>All</AnnoVersion>
+  </AnnoVersions>
+  <Images>
+    <Image>preview_t.jpg</Image>
+    <Image>screenshot0174.jpg</Image>
+    <Image>screenshot0179.jpg</Image>
+    <Image>screenshot0180.jpg</Image>
+  </Images>
+  <Labels>
+    <Label Name="Name">
+      <German>Schiffsmod - Kriegsschiffe</German>
+      <English>Shipmod - Warships</English>
+    </Label>
+    <Label Name="Description">
+      <German>Revolutioniert die Schiffswelt von Anno 1404. (Bitte die Dokumentation beachten!)
+im Gegensatz zum Schiffsmod - das Original, werden in dieser verbesserten Marine Werft drei komplett neue, verbesserte Kriegsschiffe gebaut:
+-ein schnelles Kriegsschiff, in Form des Preorder Flagschiffes, das an Geschwindigkeit sogar mit dem Geisterschiff mithalten kann, dafür aber sehr schwach bestückt ist.
+-ein verstärktes Kriegsschiff stellt eine mächtige Waffe dar, ist aber äusserst langsam.
+-und das bereits bekannte verbesserte, goldverzierte Grosse Kriegsschiff, das nun tatsächlich verbessert wurde.</German>
+      <English>Revolutionizes the ship world of Anno 1404. (Please note the documentation!)
+in contrast to the ship mod - the original, three completely new, improved warships are built in this improved naval shipyard:
+-a fast warship, in the form of the silver-decorated flagship, which can even match the ghost ship in terms of speed, but is very weakly equipped.
+-a reinforced warship is a powerful weapon, but is extremely slow.
+-and the well-known improved, gold-decorated Great Warship, which has actually been improved.</English>
+    </Label>
+    <Label Name="Category">
+      <German>Schiffe, Items</German>
+      <English>Ships, Items</English>
+    </Label>
+  </Labels>
+</ModificationInfo>

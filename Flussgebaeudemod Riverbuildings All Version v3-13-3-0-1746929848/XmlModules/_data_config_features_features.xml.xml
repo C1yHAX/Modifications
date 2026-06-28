@@ -1,0 +1,32 @@
+﻿<XmlModules Name="_data_config_features_features.xml" Index="0">
+  <ModuleList>
+    <Add Selector="//Asset[Values/Standard/Name=&quot;ProdCount Kleidung&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="TargetGUIDs - Cloth" TagName="Item" Value="&lt;UpgradeGUID&gt;32045&lt;/UpgradeGUID&gt;" Index="0" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//Asset[Values/Standard/Name=&quot;ProdCount Kleidung&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="TargetGUIDs - Cloth" TagName="Item" Value="&lt;UpgradeGUID&gt;32045&lt;/UpgradeGUID&gt;" Index="1" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//Asset[Values/Standard/Name=&quot;ProdCount Kleidung&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="TargetGUIDs - Cloth" TagName="Item" Value="&lt;UpgradeGUID&gt;32047&lt;/UpgradeGUID&gt;" Index="2" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//Asset[Values/Standard/Name=&quot;ProdCount Kleidung&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="TargetGUIDs - Cloth" TagName="Item" Value="&lt;UpgradeGUID&gt;32047&lt;/UpgradeGUID&gt;" Index="3" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//Asset[Values/Standard/Name=&quot;ProdCount Gerberei&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="TargetGUIDs - Gerberei" TagName="Item" Value="&lt;UpgradeGUID&gt;32045&lt;/UpgradeGUID&gt;" Index="4" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//Asset[Values/Standard/Name=&quot;ProdCount Gerberei&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="TargetGUIDs - Gerberei" TagName="Item" Value="&lt;UpgradeGUID&gt;32045&lt;/UpgradeGUID&gt;" Index="5" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//Asset[Values/Standard/Name=&quot;ProdCount KÃ¼rschnerei&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="maindata;data\config\features\features.xml" Group="ProdCount Kürschnerei" TagName="item" Value="&lt;UpgradeGUID&gt;32047&lt;/UpgradeGUID&gt;" Index="6" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//Asset[Values/Standard/Name=&quot;ProdCount KÃ¼rschnerei&quot;]/Values/Upgrade/TargetGUIDs" Deselector="" File="addon;addondata\config\features\features.xml" Group="ProdCount Kürschnerei" TagName="Item" Value="&lt;UpgradeGUID&gt;32047&lt;/UpgradeGUID&gt;" Index="7" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+</XmlModules>

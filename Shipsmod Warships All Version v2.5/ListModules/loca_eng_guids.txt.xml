@@ -1,0 +1,93 @@
+﻿<ListModules Name="loca_eng_guids.txt" Index="5">
+  <ModuleList>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15001=Medium Trading ship" Index="0">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15002=Medium Warship" Index="1">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15003=Hanseatic ship" Index="2">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15004=Medium Hanseatic ship" Index="3">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15005=Large Hanseatic ship" Index="4">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15006=Fast Warship" Index="5">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15007=Reinforced Warship" Index="6">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15008=Improved Warship" Index="7">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15013=Coffin ship" Index="8">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15014=Corsair ship" Index="9">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15015=Ghost ship" Index="10">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Shipyards" ElementGroup="military buildings 38000 - 38999" ElementValue="38001=Improved Hanse Shipyard" Index="11">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Shipyards" ElementGroup="military buildings 38000 - 38999" ElementValue="38000=Imperial Navy Shipyard" Index="12">
+      <UserdefinedValues />
+    </Add>
+    <Edit File="maindata;data\loca\eng\txt\guids.txt" Group="New Shipyards" ElementGroup="military buildings 38000 - 38999" ElementValue="38021=Small shipyard" NewValue="38021=Civil shipyard" Index="13">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\eng\txt\guids.txt" Group="New Shipyards" ElementGroup="military buildings 38000 - 38999" ElementValue="38022=Large shipyard" NewValue="38022=Navy shipyard" Index="14">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Achivements" ElementGroup="Occident -1 - -1" ElementValue="54100=Shipbuilding of the Hanseatic League" Index="15">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Achivements" ElementGroup="Occident -1 - -1" ElementValue="54101=Imperial War technology II" Index="16">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Achivements" ElementGroup="Occident -1 - -1" ElementValue="54102=Terror of the Seven Seas" Index="17">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Achivements" ElementGroup="Occident -1 - -1" ElementValue="61100=Shipbuilding of the Hanseatic League" Index="18">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Achivements" ElementGroup="Occident -1 - -1" ElementValue="61101=Imperial War technology II" Index="19">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Achivements" ElementGroup="Occident -1 - -1" ElementValue="61102=Terror of the Seven Seas" Index="20">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Edit File="maindata;data\loca\eng\txt\guids.txt" Group="Edited Achievements" ElementGroup="Occident -1 - -1" ElementValue="60073=Imperial War technology" NewValue="60073=Imperial War technology I" Index="21">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\eng\txt\guids.txt" Group="Edited Achievements" ElementGroup="Occident -1 - -1" ElementValue="60074=Imperial War technology" NewValue="60074=Imperial War technology I" Index="22">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\eng\txt\guids.txt" Group="Edited Achievements" ElementGroup="Occident -1 - -1" ElementValue="60075=Imperial War technology" NewValue="60075=Imperial War technology I" Index="23">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Items" ElementGroup="Items 8000 - 9999" ElementValue="8110=Captain Tera, Leader of Nobody's Fools" Index="24">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Items" ElementGroup="Items 8000 - 9999" ElementValue="8111=Captain Woolf The Honourable" Index="25">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\guids.txt" Group="New Items" ElementGroup="Items 8000 - 9999" ElementValue="8270=Lord Maglor The Master Architect" Index="26">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+</ListModules>

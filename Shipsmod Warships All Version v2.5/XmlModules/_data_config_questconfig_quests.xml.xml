@@ -1,0 +1,46 @@
+﻿<XmlModules Name="_data_config_questconfig_quests.xml" Index="4">
+  <ModuleList>
+    <Add Selector="/*/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Assets/Asset/Values[Standard/GUID=&quot;500686&quot;]/RewardPool/Items/Nobleman/Items" Deselector="" File="addon;addondata\config\questconfig\quests.xml" Group="Pool 500686" TagName="Item" Value="&lt;Item&gt;8111&lt;/Item&gt;&lt;Priority&gt;E&lt;/Priority&gt;" Index="0" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Assets/Asset/Values[Standard/GUID=&quot;500686&quot;]/RewardPool/Items/Nobleman/Items" Deselector="" File="addon;addondata\config\questconfig\quests.xml" Group="Pool 500686" TagName="Item" Value="&lt;Item&gt;8270&lt;/Item&gt;&lt;Priority&gt;E&lt;/Priority&gt;" Index="1" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Assets/Asset/Values[Standard/GUID=&quot;500686&quot;]/RewardPool/Items/Nobleman/Items" Deselector="" File="maindata;data\config\questconfig\quests.xml" Group="Pool 500686" TagName="Item" Value="&lt;Item&gt;8111&lt;/Item&gt;&lt;Priority&gt;E&lt;/Priority&gt;" Index="2" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Assets/Asset/Values[Standard/GUID=&quot;500686&quot;]/RewardPool/Items/Nobleman/Items" Deselector="" File="maindata;data\config\questconfig\quests.xml" Group="Pool 500686" TagName="item" Value="&lt;Item&gt;8270&lt;/Item&gt;&lt;Priority&gt;E&lt;/Priority&gt;" Index="3" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="/*/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Assets/Asset/Values[Standard/GUID=&quot;500845&quot;]/RewardPool/Items/Nobleman/Items" Deselector="" File="addon;addondata\config\questconfig\quests.xml" Group="500845 - Kaiseritems" TagName="Item" Value="&lt;Item&gt;8111&lt;/Item&gt;&lt;Priority&gt;E&lt;/Priority&gt;" Index="4" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Assets/Asset/Values[Standard/GUID=&quot;500845&quot;]/RewardPool/Items/Nobleman/Items" Deselector="" File="addon;addondata\config\questconfig\quests.xml" Group="500845 - Kaiseritems" TagName="Item" Value="&lt;Item&gt;8270&lt;/Item&gt;&lt;Priority&gt;E&lt;/Priority&gt;" Index="5" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Assets/Asset/Values[Standard/GUID=&quot;500845&quot;]/RewardPool/Items/Nobleman/Items" Deselector="" File="maindata;data\config\questconfig\quests.xml" Group="500845 - Kaiseritems" TagName="Item" Value="&lt;Item&gt;8111&lt;/Item&gt;&lt;Priority&gt;E&lt;/Priority&gt;" Index="6" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Assets/Asset/Values[Standard/GUID=&quot;500845&quot;]/RewardPool/Items/Nobleman/Items" Deselector="" File="maindata;data\config\questconfig\quests.xml" Group="500845 - Kaiseritems" TagName="Item" Value="&lt;Item&gt;8270&lt;/Item&gt;&lt;Priority&gt;E&lt;/Priority&gt;" Index="7" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="/*/Groups/Group/Groups/Group/Groups/Group/Assets/Asset/Values[Standard/GUID=&quot;500731&quot;]/RewardPool/Items/Nobleman/Items" Deselector="" File="addon;addondata\config\questconfig\quests.xml" Group="500731 - Expedition" TagName="Item" Value="&lt;Item&gt;8110&lt;/Item&gt;&lt;Priority&gt;F&lt;/Priority&gt;" Index="8" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Groups/Group/Assets/Asset/Values[Standard/GUID=&quot;500731&quot;]/RewardPool/Items/Nobleman/Items" Deselector="" File="maindata;data\config\questconfig\quests.xml" Group="500731 - Expedition" TagName="Item" Value="&lt;Item&gt;8110&lt;/Item&gt;&lt;Priority&gt;F&lt;/Priority&gt;" Index="9" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="/*/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Assets/Asset/Values[Standard/GUID=&quot;500156&quot;]/RewardPool/Items/Nobleman/Items" Deselector="" File="addon;addondata\config\questconfig\quests.xml" Group="500156 - Korsar mittlere Slot" TagName="Item" Value="&lt;Item&gt;8110&lt;/Item&gt;&lt;Priority&gt;F&lt;/Priority&gt;" Index="10" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Groups/Group/Assets/Asset/Values[Standard/GUID=&quot;500156&quot;]/RewardPool/Items/Nobleman/Items" Deselector="" File="maindata;data\config\questconfig\quests.xml" Group="500156 - Korsar mittlere Slot" TagName="Item" Value="&lt;Item&gt;8110&lt;/Item&gt;&lt;Priority&gt;F&lt;/Priority&gt;" Index="11" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+</XmlModules>

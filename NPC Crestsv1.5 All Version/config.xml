@@ -1,0 +1,31 @@
+<ModificationInfo>
+  <Version Major="1" Minor="0" Build="0" Revision="0" />
+  <InternalName>npcsymbols</InternalName>
+  <InternalCategory>crests</InternalCategory>
+  <Author>C1yHAX &amp; VanDerx0x</Author>
+  <Website>
+  </Website>
+  <Documentation>
+  </Documentation>
+  <RDASupport>True</RDASupport>
+  <AnnoVersions>
+    <AnnoVersion>All</AnnoVersion>
+  </AnnoVersions>
+  <Images>
+    <Image>npc_wappen_preview.jpg</Image>
+  </Images>
+  <Labels>
+    <Label Name="Name">
+      <German>NPC Wappen</German>
+      <English>NPC Crests</English>
+    </Label>
+    <Label Name="Description">
+      <German>Ersetzt die Wappen mit denen der Computergegner, das Kaiserwappen und die Piratenflagge.</German>
+      <English>Replaces the coats of arms with those of the computer opponents, the imperial coat of arms and the pirate flag.</English>
+    </Label>
+    <Label Name="Category">
+      <German>Wappen</German>
+      <English>Crests</English>
+    </Label>
+  </Labels>
+</ModificationInfo>

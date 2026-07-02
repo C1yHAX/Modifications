@@ -1,0 +1,13 @@
+﻿<ListModules Name="loca_eng_tt_disabled.txt" Index="8">
+  <ModuleList>
+    <Add File="maindata;data\loca\eng\txt\tt_disabled.txt" Group="New Shipyards" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20132542=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]You need: [INHABITANT_PRECONDITION] to access this Building." Index="0">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\tt_disabled.txt" Group="New Shipyards" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20132543=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]You need: [INHABITANT_PRECONDITION] to access this Building." Index="1">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\eng\txt\tt_disabled.txt" Group="New Shipyards" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20135500=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]You need: [INHABITANT_PRECONDITION] to access this Building." Index="2">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+</ListModules>

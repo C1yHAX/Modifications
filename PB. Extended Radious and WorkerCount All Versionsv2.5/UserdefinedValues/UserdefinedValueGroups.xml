@@ -1,0 +1,50 @@
+﻿<Groups>
+  <Group InternalName="occident">
+    <Labels>
+      <Label Name="Name">
+        <German>Okzident</German>
+        <English>Occident</English>
+      </Label>
+    </Labels>
+  </Group>
+  <Group InternalName="orient">
+    <Labels>
+      <Label Name="Name">
+        <German>Orient</German>
+        <English>Orient</English>
+      </Label>
+    </Labels>
+  </Group>
+  <Group InternalName="noria">
+    <Labels>
+      <Label Name="Name">
+        <German>Noria</German>
+        <English>Noria</English>
+      </Label>
+    </Labels>
+  </Group>
+  <Group InternalName="smallnoria">
+    <Labels>
+      <Label Name="Name">
+        <German>Kleine Noria</German>
+        <English>SmallNoria</English>
+      </Label>
+    </Labels>
+  </Group>
+  <Group InternalName="monuments">
+    <Labels>
+      <Label Name="Name">
+        <German>Monumente</German>
+        <English>Monuments</English>
+      </Label>
+    </Labels>
+  </Group>
+  <Group InternalName="WorkerCount">
+    <Labels>
+      <Label Name="Name">
+        <German>ArbeiterZahl</German>
+        <English>WorkerCount</English>
+      </Label>
+    </Labels>
+  </Group>
+</Groups>

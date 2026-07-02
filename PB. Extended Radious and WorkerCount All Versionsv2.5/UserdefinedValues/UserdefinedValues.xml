@@ -1,0 +1,362 @@
+﻿<UserdefinedValues>
+  <UserdefinedValue Name="Marketplace" Index="0" Group="occident" Type="Numeric" Current="20" Numeric_Min="20" Numeric_Max="50">
+    <Labels>
+      <Label Name="Name">
+        <German>Martkplatz</German>
+        <English>Marketplace</English>
+      </Label>
+      <Label Name="Description">
+        <German>20 - 50</German>
+        <English>20 - 50</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Chapel" Index="1" Group="occident" Type="Numeric" Current="16" Numeric_Min="16" Numeric_Max="40">
+    <Labels>
+      <Label Name="Name">
+        <German>Kapelle</German>
+        <English>Chapel</English>
+      </Label>
+      <Label Name="Description">
+        <German>16 - 40</German>
+        <English>16 - 40</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Tavern" Index="2" Group="occident" Type="Numeric" Current="22" Numeric_Min="22" Numeric_Max="50">
+    <Labels>
+      <Label Name="Name">
+        <German>Schenke</German>
+        <English>Tavern</English>
+      </Label>
+      <Label Name="Description">
+        <German>22 - 50</German>
+        <English>22 - 50</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Church" Index="3" Group="occident" Type="Numeric" Current="26" Numeric_Min="26" Numeric_Max="50">
+    <Labels>
+      <Label Name="Name">
+        <German>Kirche</German>
+        <English>Church</English>
+      </Label>
+      <Label Name="Description">
+        <German>26 - 50</German>
+        <English>26 - 50</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="DebtorsPrison" Index="4" Group="occident" Type="Numeric" Current="26" Numeric_Min="26" Numeric_Max="70">
+    <Labels>
+      <Label Name="Name">
+        <German>Schuldturm</German>
+        <English>DebtorsPrison</English>
+      </Label>
+      <Label Name="Description">
+        <German>26 - 70</German>
+        <English>26 - 70</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="CarpenterHouse" Index="5" Group="occident" Type="Numeric" Current="17" Numeric_Min="17" Numeric_Max="50">
+    <Labels>
+      <Label Name="Name">
+        <German>Zimmermannshaus</German>
+        <English>CarpenterHouse</English>
+      </Label>
+      <Label Name="Description">
+        <German>17 - 50</German>
+        <English>17 - 50</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Markethouse01" Index="6" Group="occident" Type="Numeric" Current="20" Numeric_Min="20" Numeric_Max="50">
+    <Labels>
+      <Label Name="Name">
+        <German>Kleines Markthaus</German>
+        <English>Small market building</English>
+      </Label>
+      <Label Name="Description">
+        <German>20 - 50</German>
+        <English>20 - 50</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Markethouse02" Index="7" Group="occident" Type="Numeric" Current="20" Numeric_Min="20" Numeric_Max="50">
+    <Labels>
+      <Label Name="Name">
+        <German>Mittleres Markthaus</German>
+        <English>Medium market building</English>
+      </Label>
+      <Label Name="Description">
+        <German>20 - 50</German>
+        <English>20 - 50</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Markethouse03" Index="8" Group="occident" Type="Numeric" Current="20" Numeric_Min="20" Numeric_Max="50">
+    <Labels>
+      <Label Name="Name">
+        <German>Großes Markthaus</German>
+        <English>Large market building</English>
+      </Label>
+      <Label Name="Description">
+        <German>20 - 50</German>
+        <English>20 - 50</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Surgery" Index="9" Group="occident" Type="Numeric" Current="20" Numeric_Min="20" Numeric_Max="50">
+    <Labels>
+      <Label Name="Name">
+        <German>Medikus</German>
+        <English>Surgery</English>
+      </Label>
+      <Label Name="Description">
+        <German>20 - 50</German>
+        <English>20 - 50</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="FireStation" Index="10" Group="occident" Type="Numeric" Current="20" Numeric_Min="20" Numeric_Max="50">
+    <Labels>
+      <Label Name="Name">
+        <German>Feuerwache</German>
+        <English>FireStation</English>
+      </Label>
+      <Label Name="Description">
+        <German>20 - 50</German>
+        <English>20 - 50</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Bazaar" Index="11" Group="orient" Type="Numeric" Current="20" Numeric_Min="20" Numeric_Max="50">
+    <Labels>
+      <Label Name="Name">
+        <German>Basar</German>
+        <English>Bazaar</English>
+      </Label>
+      <Label Name="Description">
+        <German>20 - 50</German>
+        <English>20 - 50</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Mosque" Index="12" Group="orient" Type="Numeric" Current="24" Numeric_Min="24" Numeric_Max="50">
+    <Labels>
+      <Label Name="Name">
+        <German>Moschee</German>
+        <English>Mosque</English>
+      </Label>
+      <Label Name="Description">
+        <German>24 - 50</German>
+        <English>24 - 50</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="BathHouse" Index="13" Group="orient" Type="Numeric" Current="25" Numeric_Min="25" Numeric_Max="50">
+    <Labels>
+      <Label Name="Name">
+        <German>Badehaus</German>
+        <English>Bath House</English>
+      </Label>
+      <Label Name="Description">
+        <German>25 - 50</German>
+        <English>25 - 50</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Oriental_Markethouse" Index="14" Group="orient" Type="Numeric" Current="20" Numeric_Min="20" Numeric_Max="50">
+    <Labels>
+      <Label Name="Name">
+        <German>Orientalisches Markthaus</German>
+        <English>Oriental Markethouse</English>
+      </Label>
+      <Label Name="Description">
+        <German>20 - 50</German>
+        <English>20 - 50</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="CoffeeHouse" Index="15" Group="orient" Type="Numeric" Current="20" Numeric_Min="20" Numeric_Max="50">
+    <Labels>
+      <Label Name="Name">
+        <German>Kaffeehaus</German>
+        <English>CoffeeHouse</English>
+      </Label>
+      <Label Name="Description">
+        <German>20 - 50</German>
+        <English>20 - 50</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Noria" Index="16" Group="noria" Type="Numeric" Current="24" Numeric_Min="24" Numeric_Max="50">
+    <Labels>
+      <Label Name="Name">
+        <German>Noria</German>
+        <English>Noria</English>
+      </Label>
+      <Label Name="Description">
+        <German>24 - 50</German>
+        <English>24 - 50</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Noria" Index="17" Group="noria" Type="Numeric" Current="26" Numeric_Min="26" Numeric_Max="50">
+    <Labels>
+      <Label Name="Name">
+        <German>Feuchtigkeit NoriaEndRadius</German>
+        <English>Moisture NoriaEndRadius</English>
+      </Label>
+      <Label Name="Description">
+        <German>26 - 50</German>
+        <English>26 - 50</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Noria" Index="18" Group="noria" Type="Numeric" Current="25" Numeric_Min="25" Numeric_Max="49">
+    <Labels>
+      <Label Name="Name">
+        <German>Grün NoriaEndRadius</German>
+        <English>Green NoriaEndRadius</English>
+      </Label>
+      <Label Name="Description">
+        <German>25 - 49</German>
+        <English>25 - 49</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Noria" Index="19" Group="noria" Type="Numeric" Current="24" Numeric_Min="24" Numeric_Max="48">
+    <Labels>
+      <Label Name="Name">
+        <German>Gesättigt NoriaEndRadius</German>
+        <English>Saturated NoriaEndRadius</English>
+      </Label>
+      <Label Name="Description">
+        <German>24 - 48</German>
+        <English>24 - 48</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="SmallNoria" Index="20" Group="smallnoria" Type="Numeric" Current="14" Numeric_Min="14" Numeric_Max="28">
+    <Labels>
+      <Label Name="Name">
+        <German>Kleine Noria</German>
+        <English>SmallNoria</English>
+      </Label>
+      <Label Name="Description">
+        <German>14 - 28</German>
+        <English>14 - 28</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="SmallNoria" Index="21" Group="smallnoria" Type="Numeric" Current="16" Numeric_Min="16" Numeric_Max="32">
+    <Labels>
+      <Label Name="Name">
+        <German>Feuchtigkeit NoriaEndRadius</German>
+        <English>Moisture NoriaEndRadius</English>
+      </Label>
+      <Label Name="Description">
+        <German>16 - 32</German>
+        <English>16 - 32</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="SmallNoria" Index="22" Group="smallnoria" Type="Numeric" Current="15" Numeric_Min="15" Numeric_Max="31">
+    <Labels>
+      <Label Name="Name">
+        <German>Grün NoriaEndRadius</German>
+        <English>Green NoriaEndRadius</English>
+      </Label>
+      <Label Name="Description">
+        <German>15 - 31</German>
+        <English>15- 31</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="SmallNoria" Index="23" Group="smallnoria" Type="Numeric" Current="14" Numeric_Min="14" Numeric_Max="28">
+    <Labels>
+      <Label Name="Name">
+        <German>Gesättigt NoriaEndRadius</German>
+        <English>Saturated NoriaEndRadius</English>
+      </Label>
+      <Label Name="Description">
+        <German>14 - 28</German>
+        <English>14 - 28</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="cathedral" Index="24" Group="monuments" Type="Numeric" Current="36" Numeric_Min="36" Numeric_Max="150">
+    <Labels>
+      <Label Name="Name">
+        <German>Kaiser Dom</German>
+        <English>Imperial Cathedral</English>
+      </Label>
+      <Label Name="Description">
+        <German>36 - 150</German>
+        <English>36 - 150</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="smosque" Index="25" Group="monuments" Type="Numeric" Current="36" Numeric_Min="36" Numeric_Max="150">
+    <Labels>
+      <Label Name="Name">
+        <German>Sultans Moschee</German>
+        <English>Sultan's Mosque</English>
+      </Label>
+      <Label Name="Description">
+        <German>36 - 150</German>
+        <English>36 - 150</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Markethouse01" Index="26" Group="WorkerCount" Type="Numeric" Current="1" Numeric_Min="1" Numeric_Max="5">
+    <Labels>
+      <Label Name="Name">
+        <German>Markthaus01</German>
+        <English>Markethouse01</English>
+      </Label>
+      <Label Name="Description">
+        <German>1 - 5</German>
+        <English>1 - 5</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Markethouse02" Index="27" Group="WorkerCount" Type="Numeric" Current="2" Numeric_Min="2" Numeric_Max="7">
+    <Labels>
+      <Label Name="Name">
+        <German>Markthaus02</German>
+        <English>Markethouse02</English>
+      </Label>
+      <Label Name="Description">
+        <German>2 - 7</German>
+        <English>2 - 7</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Markethouse03" Index="28" Group="WorkerCount" Type="Numeric" Current="3" Numeric_Min="3" Numeric_Max="10">
+    <Labels>
+      <Label Name="Name">
+        <German>Markthaus03</German>
+        <English>Markethouse03</English>
+      </Label>
+      <Label Name="Description">
+        <German>3 - 10</German>
+        <English>3 - 10</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Oriental_Markethouse" Index="29" Group="WorkerCount" Type="Numeric" Current="3" Numeric_Min="3" Numeric_Max="10">
+    <Labels>
+      <Label Name="Name">
+        <German>Orientalisches Markthaus</German>
+        <English>Oriental Markethouse</English>
+      </Label>
+      <Label Name="Description">
+        <German>3 - 10</German>
+        <English>3 - 10</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+</UserdefinedValues>

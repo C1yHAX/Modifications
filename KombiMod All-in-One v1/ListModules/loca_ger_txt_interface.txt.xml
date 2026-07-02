@@ -1,0 +1,99 @@
+﻿<ListModules Name="loca_ger_txt_interface.txt" Index="0">
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="Citizen Menu" ElementGroup="Buildmenu Citizens 127500 - 129999" ElementValue="129998=Kleines Lagerhaus" Index="0">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="Citizen Menu" ElementGroup="Buildmenu Citizens 127500 - 129999" ElementValue="129997=Hansekontor" Index="1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="Patrician Menu" ElementGroup="Buildmenu Patricians 130000 - 132499" ElementValue="130047=Mittleres Lagerhaus" Index="2">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="Patrician Menu" ElementGroup="Buildmenu Patricians 130000 - 132499" ElementValue="132499=Mittlers Landlagerhaus" Index="3">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="Patrician Menu" ElementGroup="Buildmenu Patricians 130000 - 132499" ElementValue="132498=Hansekontor II" Index="4">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="Noblemen Menu" ElementGroup="Buildmenu Noblemen 132500 - 134999" ElementValue="134999=Großes Landlagerhaus" Index="5">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="Nomad Menu" ElementGroup="Buildmenu Nomads&amp;Ambassadors 135000 - 137499" ElementValue="135037=Kleines orientalisches Lagerhaus" Index="6">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="Nomad Menu" ElementGroup="Buildmenu Nomads&amp;Ambassadors 135000 - 137499" ElementValue="135038=Großes orientalisches Lagerhaus" Index="7">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="Nomad Menu" ElementGroup="Buildmenu Nomads&amp;Ambassadors 135000 - 137499" ElementValue="135039=Orientalischer Hafenwehrturm" Index="8">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="Nomad Menu" ElementGroup="Buildmenu Nomads&amp;Ambassadors 135000 - 137499" ElementValue="137497=Kleines Orientalisches Landlagerhaus" Index="9">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="Nomad Menu" ElementGroup="Buildmenu Nomads&amp;Ambassadors 135000 - 137499" ElementValue="137496=Großes orientalisches Landlagerhaus" Index="10">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="New Shipyards" ElementGroup="Buildmenu Peasants 125000 - 127499" ElementValue="132541=Venezianische Werft" Index="11">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="New Shipyards" ElementGroup="Buildmenu Nomads&amp;Ambassadors 135000 - 137499" ElementValue="135500=Piraten Werft" Index="20">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="New Shipyards" ElementGroup="Buildmenu Peasants 125000 - 127499" ElementValue="132542=Verbesserte Hanse Werft" Index="21">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="New Shipyards" ElementGroup="Buildmenu Peasants 125000 - 127499" ElementValue="132543=Imperiale Marine Werft" Index="22">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="Buildmenu Peasants" ElementGroup="Buildmenu Peasants 125000 - 127499" ElementValue="125042=Waren" Index="12">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="Buildmenu Peasants" ElementGroup="Buildmenu Peasants 125000 - 127499" ElementValue="125043=Waren" Index="13">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="Buildmenu Peasants" ElementGroup="Buildmenu Peasants 125000 - 127499" ElementValue="125044=Garten" Index="14">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="Buildmenu Peasants" ElementGroup="Buildmenu Peasants 125000 - 127499" ElementValue="130046=Kloster" Index="15">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Edit File="maindata;data\loca\ger\txt\interface.txt" Group="Buildmenu Citizen" ElementGroup="Buildmenu Citizens 127500 - 129999" ElementValue="127535=Marktstand 02" NewValue="127535=Hafenmarktstände" Index="16">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="Buildmenu Patrician" ElementGroup="Buildmenu Patricians 130000 - 132499" ElementValue="132496=Trebuchet und Kanone" Index="17">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="Buildmenu Nobleman" ElementGroup="Buildmenu Noblemen 132500 - 134999" ElementValue="132540=Residenz" Index="18">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\interface.txt" Group="Buildmenu Nomads/Ambassadors" ElementGroup="Buildmenu Nomads&amp;Ambassadors 135000 - 137499" ElementValue="135034=Akademien" Index="19">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Edit File="maindata;data\loca\ger\txt\interface.txt" Group="Edit Shipyards" ElementGroup="Buildmenu Citizens 127500 - 129999" ElementValue="127507=Kleine Werft" NewValue="127507=Zivile Werft" Index="23">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\interface.txt" Group="Edit Shipyards" ElementGroup="Buildmenu Patricians 130000 - 132499" ElementValue="130001=große Werft" NewValue="130001=Marine Werft" Index="24">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+</ListModules>

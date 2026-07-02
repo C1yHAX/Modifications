@@ -1,0 +1,62 @@
+﻿<UserdefinedValues>
+  <UserdefinedValue Name="SmallNoria_NoUpgrade" Index="0" Group="SmallNoria" Type="Numeric" Current="1000" Numeric_Min="100" Numeric_Max="99999">
+    <Labels>
+      <Label Name="Name">
+        <German>Kein Upgrade</German>
+        <English>No Upgrade</English>
+      </Label>
+      <Label Name="Description">
+        <German>Standard: 500</German>
+        <English>Default: 500</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Noria_NoUpgrade" Index="1" Group="BigNoria" Type="Numeric" Current="6000" Numeric_Min="6000" Numeric_Max="99999">
+    <Labels>
+      <Label Name="Name">
+        <German>Kein Upgrade</German>
+        <English>No Upgrade</English>
+      </Label>
+      <Label Name="Description">
+        <German>Standard: 5000</German>
+        <English>Default: 5000</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Noria_Upgrade1" Index="2" Group="General" Type="Numeric" Current="1000" Numeric_Min="1000" Numeric_Max="99999">
+    <Labels>
+      <Label Name="Name">
+        <German>1. Upgrade</German>
+        <English>1. Upgrade</English>
+      </Label>
+      <Label Name="Description">
+        <German>Standard: +500 Kapazität</German>
+        <English>Default: +500 Capacity</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Noria_Upgrade2" Index="3" Group="General" Type="Numeric" Current="2000" Numeric_Min="2000" Numeric_Max="99999">
+    <Labels>
+      <Label Name="Name">
+        <German>2. Upgrade</German>
+        <English>2. Upgrade</English>
+      </Label>
+      <Label Name="Description">
+        <German>Standard: +1000 Kapazität</German>
+        <English>Default: +1000 Capacity</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Noria_Upgrade3" Index="4" Group="General" Type="Numeric" Current="3000" Numeric_Min="3000" Numeric_Max="99999">
+    <Labels>
+      <Label Name="Name">
+        <German>3. Upgrade</German>
+        <English>3. Upgrade</English>
+      </Label>
+      <Label Name="Description">
+        <German>Standard: +2000 Kapazität</German>
+        <English>Default: +2000 Capacity</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+</UserdefinedValues>

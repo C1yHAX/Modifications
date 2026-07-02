@@ -1,0 +1,39 @@
+<ModificationInfo>
+  <Version Major="1" Minor="0" Build="0" Revision="0" />
+  <InternalName>KombiMod All-in-One</InternalName>
+  <InternalCategory>General</InternalCategory>
+  <Author>C1yHAX &amp; VanDer0x0</Author>
+  <Website>
+  </Website>
+  <Documentation>
+  </Documentation>
+  <RDASupport>True</RDASupport>
+  <AnnoVersions>
+    <AnnoVersion>All</AnnoVersion>
+  </AnnoVersions>
+  <Images>
+    <Image>harbour_preview.jpg</Image>
+    <Image>orna_preview.jpg</Image>
+    <Image>preview.jpg</Image>
+    <Image>preview_t.jpg</Image>
+    <Image>screenshot0021.jpg</Image>
+    <Image>screenshot0174.jpg</Image>
+    <Image>screenshot0179.jpg</Image>
+    <Image>screenshot0180.jpg</Image>
+    <Image>ship_preview.jpg</Image>
+  </Images>
+  <Labels>
+    <Label Name="Name">
+      <German>KombiMod All-in-One</German>
+      <English>KombiMod All-in-One</English>
+    </Label>
+    <Label Name="Description">
+      <German>Kombiniert: Venice-Ziergebaeude und Hafengebaeude (KombiMod), Shipsmod Warships v2 (Kriegsschiffe), Pier extends harbour, Schiffslimit, Militaerpunkteerhoehung und The Golden Flagship. Auf all-version umgestellt.</German>
+      <English>Combines: Venice decorative + harbour buildings (KombiMod), Shipsmod Warships v2, Pier extends harbour, ship limit, military points and The Golden Flagship. Converted to all-version.</English>
+    </Label>
+    <Label Name="Category">
+      <German>Allgemein</German>
+      <English>General</English>
+    </Label>
+  </Labels>
+</ModificationInfo>

@@ -1,0 +1,26 @@
+﻿<Groups>
+  <Group InternalName="Pier/Anlegestelle">
+    <Labels>
+      <Label Name="">
+        <German>Pier/Anlegestelle</German>
+        <English>Pier</English>
+      </Label>
+    </Labels>
+  </Group>
+  <Group InternalName="Schiffe">
+    <Labels>
+      <Label Name="">
+        <German>Schiffe</German>
+        <English>Schiffe</English>
+      </Label>
+    </Labels>
+  </Group>
+  <Group InternalName="UValues">
+    <Labels>
+      <Label Name="">
+        <German>Benutzerdefinierte Werte</German>
+        <English>Userdefined Values</English>
+      </Label>
+    </Labels>
+  </Group>
+</Groups>

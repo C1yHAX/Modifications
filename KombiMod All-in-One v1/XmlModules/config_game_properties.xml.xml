@@ -1,0 +1,350 @@
+﻿<XmlModules Name="config_game_properties.xml" Index="0">
+  <ModuleList>
+    <Add Selector="//BuildingConstructionSettings/Citizen/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Citizen" TagName="Item" Value="&lt;BuildingGUID&gt;38004&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132541&lt;/BuildButtonTooltip&gt;" Index="0" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Citizen/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Citizen" TagName="Item" Value="&lt;BuildingGUID&gt;38004&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132541&lt;/BuildButtonTooltip&gt;" Index="1" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//BuildingConstructionSettings/Ornament/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="New Menu Items" TagName="Item" Value="&lt;BuildingGUID&gt;36989&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;125042&lt;/BuildButtonTooltip&gt;" Index="2" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Ornament/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="New Menu Items" TagName="Item" Value="&lt;BuildingGUID&gt;36989&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;125042&lt;/BuildButtonTooltip&gt;" Index="3" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Ornament/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="New Menu Items" TagName="Item" Value="&lt;BuildingGUID&gt;36988&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;125043&lt;/BuildButtonTooltip&gt;" Index="4" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Ornament/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="New Menu Items" TagName="Item" Value="&lt;BuildingGUID&gt;36988&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;125043&lt;/BuildButtonTooltip&gt;" Index="5" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Ornament/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="New Menu Items" TagName="Item" Value="&lt;BuildingGUID&gt;36987&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;125044&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediatePeasantLevel&lt;/VisibleFromIntermediatelevel&gt;" Index="6" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Ornament/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="New Menu Items" TagName="Item" Value="&lt;BuildingGUID&gt;36987&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;125044&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediatePeasantLevel&lt;/VisibleFromIntermediatelevel&gt;" Index="7" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Ornament/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="New Menu Items" TagName="Item" Value="&lt;BuildingGUID&gt;36999&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132540&lt;/BuildButtonTooltip&gt;" Index="8" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Ornament/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="New Menu Items" TagName="Item" Value="&lt;BuildingGUID&gt;36999&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132540&lt;/BuildButtonTooltip&gt;" Index="9" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Ornament/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="New Menu Items" TagName="Item" Value="&lt;BuildingGUID&gt;36998&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;130046&lt;/BuildButtonTooltip&gt;" Index="10" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Ornament/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="New Menu Items" TagName="Item" Value="&lt;BuildingGUID&gt;36998&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;130046&lt;/BuildButtonTooltip&gt;" Index="11" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Ornament/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="New Menu Items" TagName="Item" Value="&lt;BuildingGUID&gt;36997&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;135034&lt;/BuildButtonTooltip&gt;" Index="12" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Ornament/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="New Menu Items" TagName="Item" Value="&lt;BuildingGUID&gt;36997&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;135034&lt;/BuildButtonTooltip&gt;" Index="13" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Edit Selector="//BuildingConstructionSettings/Ornament/Buildings/Item[9]" Deselector="" File="addon;addondata\config\game\properties.xml" Group="New Menu Items" OldValue="&lt;BuildingGUID&gt;36013&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;127535&lt;/BuildButtonTooltip&gt;" NewValue="&lt;BuildingGUID&gt;36990&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132541&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateHarbourMonumentPart1&lt;/VisibleFromIntermediatelevel&gt;" Index="14">
+      <UserdefinedValues />
+    </Edit>
+    <Edit Selector="//BuildingConstructionSettings/Ornament/Buildings/Item[9]" Deselector="" File="maindata;data\config\game\properties.xml" Group="New Menu Items" OldValue="&lt;BuildingGUID&gt;36013&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;127535&lt;/BuildButtonTooltip&gt;" NewValue="&lt;BuildingGUID&gt;36990&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132541&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateHarbourMonumentPart1&lt;/VisibleFromIntermediatelevel&gt;" Index="15">
+      <UserdefinedValues />
+    </Edit>
+    <Add Selector="//BuildingConstructionSettings/Ornament/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="New Menu Items" TagName="Item" Value="&lt;BuildingGUID&gt;36996&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132496&lt;/BuildButtonTooltip&gt;" Index="16" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Ornament/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="New Menu Items" TagName="Item" Value="&lt;BuildingGUID&gt;36996&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132496&lt;/BuildButtonTooltip&gt;" Index="17" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//BuildingConstructionSettings/Citizen/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Citizen Menu" TagName="Item" Value="&lt;BuildingGUID&gt;35997&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;129998&lt;/BuildButtonTooltip&gt;" Index="18" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Citizen/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Citizen Menu" TagName="Item" Value="&lt;BuildingGUID&gt;35997&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;129998&lt;/BuildButtonTooltip&gt;" Index="19" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Citizen/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Citizen Menu" TagName="Item" Value="&lt;BuildingGUID&gt;39034&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;129997&lt;/BuildButtonTooltip&gt;" Index="20" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Citizen/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Citizen Menu" TagName="Item" Value="&lt;BuildingGUID&gt;39034&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;129997&lt;/BuildButtonTooltip&gt;" Index="21" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Edit Selector="//BuildingConstructionSettings/Citizen/Buildings/Item[25]" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Citizen Menu" OldValue="&lt;BuildingGUID&gt;36013&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;127535&lt;/BuildButtonTooltip&gt;" NewValue="&lt;BuildingGUID&gt;36989&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;125042&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateHarbourCitizen&lt;/VisibleFromIntermediatelevel&gt;" Index="22">
+      <UserdefinedValues />
+    </Edit>
+    <Edit Selector="//BuildingConstructionSettings/Citizen/Buildings/Item[25]" Deselector="" File="maindata;data\config\game\properties.xml" Group="Citizen Menu" OldValue="&lt;BuildingGUID&gt;36013&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;127535&lt;/BuildButtonTooltip&gt;" NewValue="&lt;BuildingGUID&gt;36989&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;125042&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateHarbourCitizen&lt;/VisibleFromIntermediatelevel&gt;" Index="23">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//BuildingConstructionSettings/Patrician/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Patrician Menu" TagName="Item" Value="&lt;BuildingGUID&gt;39030&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;130047&lt;/BuildButtonTooltip&gt;" Index="24" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Patrician/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Patrician Menu" TagName="Item" Value="&lt;BuildingGUID&gt;39030&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;130047&lt;/BuildButtonTooltip&gt;" Index="25" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Patrician/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Patrician Menu" TagName="Item" Value="&lt;BuildingGUID&gt;35995&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132499&lt;/BuildButtonTooltip&gt;" Index="26" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Patrician/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Patrician Menu" TagName="Item" Value="&lt;BuildingGUID&gt;35995&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132499&lt;/BuildButtonTooltip&gt;" Index="27" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Patrician/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Patrician Menu" TagName="Item" Value="&lt;BuildingGUID&gt;39035&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132498&lt;/BuildButtonTooltip&gt;" Index="28" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Patrician/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Patrician Menu" TagName="Item" Value="&lt;BuildingGUID&gt;39035&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132498&lt;/BuildButtonTooltip&gt;" Index="29" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Patrician/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Patrician Menu" TagName="Item" Value="&lt;BuildingGUID&gt;36998&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;130046&lt;/BuildButtonTooltip&gt;" Index="30" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Patrician/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Patrician Menu" TagName="Item" Value="&lt;BuildingGUID&gt;36998&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;130046&lt;/BuildButtonTooltip&gt;" Index="31" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//BuildingConstructionSettings/Peasant/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Peasant menu" TagName="Item" Value="&lt;BuildingGUID&gt;36988&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;125043&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateChapel&lt;/VisibleFromIntermediatelevel&gt;" Index="32" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Peasant/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Peasant menu" TagName="Item" Value="&lt;BuildingGUID&gt;36988&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;125043&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediateChapel&lt;/VisibleFromIntermediatelevel&gt;" Index="33" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Peasant/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Peasant menu" TagName="Item" Value="&lt;BuildingGUID&gt;36987&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;125044&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediatePeasantLevel&lt;/VisibleFromIntermediatelevel&gt;" Index="34" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Peasant/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Peasant menu" TagName="Item" Value="&lt;BuildingGUID&gt;36987&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;125044&lt;/BuildButtonTooltip&gt;&lt;VisibleFromIntermediatelevel&gt;IntermediatePeasantLevel&lt;/VisibleFromIntermediatelevel&gt;" Index="35" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//FactionBuildingConstructionSettings/Item[LevelTooltip=&quot;147507&quot;]/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Nomad Menu 1" TagName="Item" Value="&lt;BuildingGUID&gt;39031&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;135037&lt;/BuildButtonTooltip&gt;" Index="36" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//FactionBuildingConstructionSettings/Item[LevelTooltip=&quot;147507&quot;]/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Nomad Menu 1" TagName="Item" Value="&lt;BuildingGUID&gt;39031&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;135037&lt;/BuildButtonTooltip&gt;" Index="37" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//FactionBuildingConstructionSettings/Item[LevelTooltip=&quot;147507&quot;]/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Nomad Menu 1" TagName="Item" Value="&lt;BuildingGUID&gt;35998&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;137497&lt;/BuildButtonTooltip&gt;" Index="38" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//FactionBuildingConstructionSettings/Item[LevelTooltip=&quot;147507&quot;]/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Nomad Menu 1" TagName="Item" Value="&lt;BuildingGUID&gt;35998&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;137497&lt;/BuildButtonTooltip&gt;" Index="39" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//FactionBuildingConstructionSettings/Item[LevelTooltip=&quot;147511&quot;]/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Nomad Menu 3" TagName="Item" Value="&lt;BuildingGUID&gt;39032&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;135038&lt;/BuildButtonTooltip&gt;" Index="40" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//FactionBuildingConstructionSettings/Item[LevelTooltip=&quot;147511&quot;]/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Nomad Menu 3" TagName="Item" Value="&lt;BuildingGUID&gt;39032&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;135038&lt;/BuildButtonTooltip&gt;" Index="41" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//FactionBuildingConstructionSettings/Item[LevelTooltip=&quot;147511&quot;]/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Nomad Menu 3" TagName="Item" Value="&lt;BuildingGUID&gt;35996&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;137496&lt;/BuildButtonTooltip&gt;" Index="42" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//FactionBuildingConstructionSettings/Item[LevelTooltip=&quot;147511&quot;]/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Nomad Menu 3" TagName="Item" Value="&lt;BuildingGUID&gt;35996&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;137496&lt;/BuildButtonTooltip&gt;" Index="43" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Edit Selector="//BuildingConstructionSettings/Nobleman/Buildings/Item[23]" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Nobleman Menu" OldValue="&lt;BuildingGUID&gt;36019&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132535&lt;/BuildButtonTooltip&gt;" NewValue="&lt;BuildingGUID&gt;36999&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132540&lt;/BuildButtonTooltip&gt;" Index="44">
+      <UserdefinedValues />
+    </Edit>
+    <Edit Selector="//BuildingConstructionSettings/Nobleman/Buildings/Item[23]" Deselector="" File="maindata;data\config\game\properties.xml" Group="Nobleman Menu" OldValue="&lt;BuildingGUID&gt;36019&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132535&lt;/BuildButtonTooltip&gt;" NewValue="&lt;BuildingGUID&gt;36999&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132540&lt;/BuildButtonTooltip&gt;" Index="45">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//FactionBuildingConstructionSettings/Item[4]/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ambassador 1" TagName="Item" Value="&lt;BuildingGUID&gt;36997&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;135034&lt;/BuildButtonTooltip&gt;" Index="46" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//FactionBuildingConstructionSettings/Item[4]/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ambassador 1" TagName="Item" Value="&lt;BuildingGUID&gt;36997&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;135034&lt;/BuildButtonTooltip&gt;" Index="47" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//ItemTargetCategories/MilitaryFortification/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="MilitaryFortification" TagName="Item" Value="&lt;Object&gt;39033&lt;/Object&gt;" Index="48" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/MilitaryFortification/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="MilitaryFortification" TagName="Item" Value="&lt;Object&gt;39033&lt;/Object&gt;" Index="49" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//ItemTargetCategories/StorageBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="StorageBuildings" TagName="Item" Value="&lt;Object&gt;39030&lt;/Object&gt;" Index="50" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/StorageBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="StorageBuildings" TagName="Item" Value="&lt;Object&gt;39030&lt;/Object&gt;" Index="51" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/StorageBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="StorageBuildings" TagName="Item" Value="&lt;Object&gt;39031&lt;/Object&gt;" Index="52" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/StorageBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="StorageBuildings" TagName="Item" Value="&lt;Object&gt;39031&lt;/Object&gt;" Index="53" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/StorageBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="StorageBuildings" TagName="Item" Value="&lt;Object&gt;39032&lt;/Object&gt;" Index="54" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/StorageBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="StorageBuildings" TagName="Item" Value="&lt;Object&gt;39032&lt;/Object&gt;" Index="55" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//BuildingConstructionSettings/Nobleman/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Noblemenu" TagName="Item" Value="&lt;BuildingGUID&gt;38001&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132542&lt;/BuildButtonTooltip&gt;" Index="56" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Nobleman/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Noblemenu" TagName="Item" Value="&lt;BuildingGUID&gt;38002&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132543&lt;/BuildButtonTooltip&gt;" Index="57" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Nobleman/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Noblemenu" TagName="Item" Value="&lt;BuildingGUID&gt;38001&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132542&lt;/BuildButtonTooltip&gt;" Index="58" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Nobleman/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Noblemenu" TagName="Item" Value="&lt;BuildingGUID&gt;38002&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132543&lt;/BuildButtonTooltip&gt;" Index="59" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//FactionBuildingConstructionSettings/Item[LevelTooltip=&quot;147510&quot;]/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Amabassador" TagName="Item" Value="&lt;BuildingGUID&gt;38003&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;135500&lt;/BuildButtonTooltip&gt;" Index="60" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//FactionBuildingConstructionSettings/Item[LevelTooltip=&quot;147510&quot;]/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Amabassador" TagName="Îtem" Value="&lt;BuildingGUID&gt;38003&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;135500&lt;/BuildButtonTooltip&gt;" Index="61" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15001&lt;/Object&gt;" Index="62" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15002&lt;/Object&gt;" Index="63" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15003&lt;/Object&gt;" Index="64" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15004&lt;/Object&gt;" Index="65" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15005&lt;/Object&gt;" Index="66" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15006&lt;/Object&gt;" Index="67" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15007&lt;/Object&gt;" Index="68" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15008&lt;/Object&gt;" Index="69" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15013&lt;/Object&gt;" Index="70" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15014&lt;/Object&gt;" Index="71" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15015&lt;/Object&gt;" Index="72" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15001&lt;/Object&gt;" Index="73" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15002&lt;/Object&gt;" Index="74" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15003&lt;/Object&gt;" Index="75" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15004&lt;/Object&gt;" Index="76" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15005&lt;/Object&gt;" Index="77" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15006&lt;/Object&gt;" Index="78" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15007&lt;/Object&gt;" Index="79" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15008&lt;/Object&gt;" Index="80" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15013&lt;/Object&gt;" Index="81" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15014&lt;/Object&gt;" Index="82" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/Ships/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="Ships" TagName="Item" Value="&lt;Object&gt;15015&lt;/Object&gt;" Index="83" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//BuildingConstructionSettings/Military/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Military" TagName="Item" Value="&lt;BuildingGUID&gt;38001&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132542&lt;/BuildButtonTooltip&gt;" Index="84" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Military/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Military" TagName="Item" Value="&lt;BuildingGUID&gt;38002&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132543&lt;/BuildButtonTooltip&gt;" Index="85" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Military/Buildings" Deselector="" File="addon;addondata\config\game\properties.xml" Group="Military" TagName="Item" Value="&lt;BuildingGUID&gt;38003&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;135500&lt;/BuildButtonTooltip&gt;" Index="86" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Military/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Military" TagName="Item" Value="&lt;BuildingGUID&gt;38001&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132542&lt;/BuildButtonTooltip&gt;" Index="87" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Military/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Military" TagName="Item" Value="&lt;BuildingGUID&gt;38002&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;132543&lt;/BuildButtonTooltip&gt;" Index="88" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//BuildingConstructionSettings/Military/Buildings" Deselector="" File="maindata;data\config\game\properties.xml" Group="Military" TagName="Item" Value="&lt;BuildingGUID&gt;38003&lt;/BuildingGUID&gt;&lt;BuildButtonTooltip&gt;135500&lt;/BuildButtonTooltip&gt;" Index="89" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="//ItemTargetCategories/HarbourBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="HarbourBuildings" TagName="Item" Value="&lt;Object&gt;38001&lt;/Object&gt;" Index="90" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/HarbourBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="HarbourBuildings" TagName="Item" Value="&lt;Object&gt;38002&lt;/Object&gt;" Index="91" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/HarbourBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="HarbourBuildings" TagName="Item" Value="&lt;Object&gt;38003&lt;/Object&gt;" Index="92" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/HarbourBuildings/GUIDs" Deselector="" File="addon;addondata\config\game\properties.xml" Group="HarbourBuildings" TagName="Item" Value="&lt;Object&gt;38005&lt;/Object&gt;" Index="93" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/HarbourBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="HarbourBuildings" TagName="item" Value="&lt;Object&gt;38001&lt;/Object&gt;" Index="94" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/HarbourBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="HarbourBuildings" TagName="Item" Value="&lt;Object&gt;38002&lt;/Object&gt;" Index="95" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/HarbourBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="HarbourBuildings" TagName="Item" Value="&lt;Object&gt;38003&lt;/Object&gt;" Index="96" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="//ItemTargetCategories/HarbourBuildings/GUIDs" Deselector="" File="maindata;data\config\game\properties.xml" Group="HarbourBuildings" TagName="Item" Value="&lt;Object&gt;38005&lt;/Object&gt;" Index="97" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Edit Selector="//ShipClaimMax" Deselector="" File="addon;addondata\config\game\properties.xml" Group="General" OldValue="85" NewValue="{0}" Index="98">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Schiffe orginal 85" Math="{value}" Key="{0}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//ShipClaimMax" Deselector="" File="maindata;data\config\game\properties.xml" Group="General" OldValue="85" NewValue="{0}" Index="99">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Schiffe orginal 85" Math="{value}" Key="{0}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//MilitaryClaimMax" Deselector="" File="addon;addondata\config\game\properties.xml" Group="General" OldValue="170" NewValue="{0}" Index="100">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="MilitaryPointCount" Math="{value}" Key="{0}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//MilitaryClaimMax" Deselector="" File="maindata;data\config\game\properties.xml" Group="General" OldValue="170" NewValue="{0}" Index="101">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="MilitaryPointCount" Math="{value}" Key="{0}" />
+      </UserdefinedValues>
+    </Edit>
+  </ModuleList>
+</XmlModules>

@@ -1,0 +1,194 @@
+﻿<ListModules Name="loca_ger_txt_guids.txt" Index="0">
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="Towers" ElementGroup="harborsystem 39000 - 39499" ElementValue="39033=Orientalischer Hafenwehrturm" Index="0">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="NewStore" ElementGroup="harborsystem 39000 - 39499" ElementValue="39030=Mittleres Hafenlagerhaus" Index="1">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="NewStore" ElementGroup="harborsystem 39000 - 39499" ElementValue="39031=Kleines orientalisches Hafenlagerhaus" Index="2">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="NewStore" ElementGroup="harborsystem 39000 - 39499" ElementValue="39032=Großes orientalisches Hafenlagerhaus" Index="3">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Edit File="maindata;data\loca\ger\txt\guids.txt" Group="EditStore" ElementGroup="harborsystem 39000 - 39499" ElementValue="39002=Kleines Lagerhaus" NewValue="39002=Kleines Hafenlagerhaus" Index="4">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\guids.txt" Group="EditStore" ElementGroup="harborsystem 39000 - 39499" ElementValue="39020=Großes Lagerhaus" NewValue="39020=Großes Hafenlagerhaus" Index="5">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="StoreLand" ElementGroup="trade and native buildings 35000 - 35999" ElementValue="35998=Kleines orientalisches Lagerhaus" Index="6">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="StoreLand" ElementGroup="trade and native buildings 35000 - 35999" ElementValue="35997=Kleines Lagerhaus" Index="7">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="StoreLand" ElementGroup="trade and native buildings 35000 - 35999" ElementValue="35996=Großes orientalisches Lagerhaus" Index="8">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="StoreLand" ElementGroup="trade and native buildings 35000 - 35999" ElementValue="35995=Mittleres Lagerhaus" Index="9">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="StoreLand" ElementGroup="trade and native buildings 35000 - 35999" ElementValue="35994=Großes Lagerhaus" Index="10">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="Hansekontor" ElementGroup="harborsystem 39000 - 39499" ElementValue="39034=Hansekontor I" Index="11">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="Hansekontor" ElementGroup="harborsystem 39000 - 39499" ElementValue="39035=Hansekontor II" Index="12">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15009=Venezianische Gondel" Index="13">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15002=Mittleres Kriegsschiff" Index="27">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15001=Mittleres Handelsschiff" Index="28">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15003=Kleines Hanseschiff" Index="29">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15004=Mittleres Hanseschiff" Index="30">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15005=Großes Hanseschiff" Index="31">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15006=Schnelles Kriegsschiff" Index="32">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15007=Verstärktes Kriegsschiff" Index="33">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15008=Verbessertes Kriegsschiff" Index="34">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15013=Seelenverkäufer" Index="35">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15014=Korsarenschiff" Index="36">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15015=Geisterschiff" Index="37">
+      <UserdefinedValues />
+    </Add>
+    <Edit File="maindata;data\loca\ger\txt\guids.txt" Group="New Ships" ElementGroup="ships 15000 - 15990" ElementValue="15010=Karavelle" NewValue="15010=Kleines orientalisches Handelsschiff" Index="38">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="Military Buildings" ElementGroup="military buildings 38000 - 38999" ElementValue="38004=Venezianische Werft" Index="14">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="Military Buildings" ElementGroup="military buildings 38000 - 38999" ElementValue="38001=Verbesserte Hanse Werft" Index="48">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="Military Buildings" ElementGroup="military buildings 38000 - 38999" ElementValue="38002=Imperiale Marine Werft" Index="49">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="Military Buildings" ElementGroup="military buildings 38000 - 38999" ElementValue="38003=Piraten Werft" Index="50">
+      <UserdefinedValues />
+    </Add>
+    <Edit File="maindata;data\loca\ger\txt\guids.txt" Group="Military Buildings" ElementGroup="military buildings 38000 - 38999" ElementValue="38021=Kleine Werft" NewValue="38021=Zivile Werft" Index="51">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\guids.txt" Group="Military Buildings" ElementGroup="military buildings 38000 - 38999" ElementValue="38022=Große Werft" NewValue="38022=Marine Werft" Index="52">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New GUIDs" ElementGroup="ornamental buildings 36000 - 36999" ElementValue="36989=Waren" Index="15">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New GUIDs" ElementGroup="ornamental buildings 36000 - 36999" ElementValue="36988=Waren" Index="16">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New GUIDs" ElementGroup="ornamental buildings 36000 - 36999" ElementValue="36987=Garten" Index="17">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New GUIDs" ElementGroup="ornamental buildings 36000 - 36999" ElementValue="36999=Residenz" Index="18">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New GUIDs" ElementGroup="ornamental buildings 36000 - 36999" ElementValue="36998=Kloster" Index="19">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New GUIDs" ElementGroup="ornamental buildings 36000 - 36999" ElementValue="36997=Akademien" Index="20">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New GUIDs" ElementGroup="ornamental buildings 36000 - 36999" ElementValue="36990=Hafenmarktstände" Index="21">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New GUIDs" ElementGroup="ornamental buildings 36000 - 36999" ElementValue="36996=Trebuchet und Kanone" Index="22">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Edit File="maindata;data\loca\ger\txt\guids.txt" Group="Edit" ElementGroup="ornamental buildings 36000 - 36999" ElementValue="36007=Palme" NewValue="36007=Zierpflanzen" Index="23">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\guids.txt" Group="Edit" ElementGroup="ornamental buildings 36000 - 36999" ElementValue="36008=Zypresse" NewValue="36008=Zierpflanzen" Index="24">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\guids.txt" Group="Edit" ElementGroup="ornamental buildings 36000 - 36999" ElementValue="36026=Hafenstatue" NewValue="36026=Hafenzierobjekte" Index="25">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\guids.txt" Group="Edit" ElementGroup="ornamental buildings 36000 - 36999" ElementValue="36012=Kleiner Marktstand" NewValue="36012=Marktstände" Index="26">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Achievements" ElementGroup="Occident -1 - -1" ElementValue="54100=Schiffsbau der Hanse" Index="39">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Achievements" ElementGroup="Occident -1 - -1" ElementValue="54101=Imperiale Kriegstechnologie II" Index="40">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Achievements" ElementGroup="Occident -1 - -1" ElementValue="54102=Schrecken der sieben Meere" Index="41">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Achievements" ElementGroup="Occident -1 - -1" ElementValue="61100=Schiffsbau der Hanse" Index="42">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Achievements" ElementGroup="Occident -1 - -1" ElementValue="61101=Imperiale Kriegstechnologie II" Index="43">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Achievements" ElementGroup="Occident -1 - -1" ElementValue="61102=Schrecken der sieben Meere" Index="44">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Items" ElementGroup="Items 8000 - 9999" ElementValue="8110=Kapitän Tera, Anführer der Nobody's Fools" Index="45">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Items" ElementGroup="Items 8000 - 9999" ElementValue="8111=Kapitän Woolf der Ehrenhafte" Index="46">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\guids.txt" Group="New Items" ElementGroup="Items 8000 - 9999" ElementValue="8270=Lord Maglor der Meister Architekt" Index="47">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Edit File="maindata;data\loca\ger\txt\guids.txt" Group="Edit Achievements" ElementGroup="Occident -1 - -1" ElementValue="60073=Imperiale Kriegstechnologie" NewValue="60073=Imperiale Kriegstechnologie I" Index="53">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\guids.txt" Group="Edit Achievements" ElementGroup="Occident -1 - -1" ElementValue="60074=Imperiale Kriegstechnologie" NewValue="60074=Imperiale Kriegstechnologie I" Index="54">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\guids.txt" Group="Edit Achievements" ElementGroup="Occident -1 - -1" ElementValue="60075=Imperiale Kriegstechnologie" NewValue="60075=Imperiale Kriegstechnologie I" Index="55">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+</ListModules>

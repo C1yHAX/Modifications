@@ -1,0 +1,335 @@
+﻿WORLD_EDITOR_2=WorldEditor²
+
+M_FILE=&File
+M_NEW=&New
+M_NEW_MAP=New &map...
+M_NEW_MAP_TEMPLATE=New map &template
+M_NEW_RANDOM_MAP=New &random map...
+M_OPEN=&Open...
+M_OPEN_TEMPLATE=Open map template...
+M_SAVE=Save
+M_SAVE_AS=Save as..
+M_CLOSE=&Close
+M_MAP_PROPERTIES=Map &properties
+RECENT_FILES=Recent files
+M_QUIT=&Quit
+
+M_EDIT=&Edit
+M_UNDO=&Undo
+M_REDO=&Redo
+M_CUT=Cut
+M_COPY=Copy
+M_PASTE=Paste
+M_INSERT_ISLAND=&Insert island
+M_RANDOM_RESOURCES=&Random resources
+
+M_RANDOM_MAPS=&Random maps
+M_RANDOM_MAP_SETTINGS=&Settings
+M_CREATE_RANDOM_MAP=&Create random map
+M_RANDOM_MAP_CREATION_SETTINGS=&Random map creation settings
+M_ISLANDS_EASY=Easy islands
+M_ISLANDS_MEDIUM=Medium islands
+M_ISLANDS_HARD=Hard islands
+M_FERTILITIES_LOW=Low fertilities
+M_FERTILITIES_MEDIUM=Medium fertilities
+M_FERTILITIES_HIGH=High fertilities
+M_RESOURCES_LOW=Low resources
+M_RESOURCES_MEDIUM=Medium resources
+M_RESOURCES_HIGH=High resources
+M_RANDOM_MAP_STATS_TOOL=Random map &statistics
+
+M_OPTIONS=&Options
+M_SHOW_FERTILITIES=Show &fertilities
+M_SHOW_RESOURCES=Show &resources
+M_SHOW_THIRD_PARTY_SLOTS=Show &third parties
+M_SHOW_AREAS=Show &areas
+M_SHOW_AREANAMES=Show area names
+
+M_WINDOWS=&Windows
+M_MAPVIEW=Map
+M_MAPTEMPLATEVIEW=Random map template
+M_ISLANDLIST=Island &list
+M_ISLANDDATA=&Island data
+M_AUTOBUILD=Prebuilt island
+M_RESOURCES=&Resources
+M_AREAS=&Areas
+M_GAME_SETTINGS=&Game settings
+
+M_HELP=&Help
+M_ABOUT=About...
+
+###
+
+M_EDIT_AREAS=Edit areas
+M_ROTATE_CW=Rotate cw
+M_ROTATE_CCW=Rotate ccw
+
+###
+
+OK=Ok
+CANCEL=Cancel
+NOTHING=
+
+###
+
+MAP_FILE_FILTER=Maps (*.www)|*.www
+MAP_FILE_FILTER_ENDUSER=Usercontent maps (*.rdu)|*.rdu
+MAP_TEMPLATE_FILE_FILTER=Map templates (*.tww)|*.tww
+ALL_FILE_FILTER=All files (*.*)|*.*
+ISLAND_FILE_FILTER=Islands (*.isd)|*.isd
+IMAGE_FILE_FILTER=Image files (*.bmp; *.jpg; *.png)|*.bmp;*.jpg;*.png
+
+###
+
+UNSAVED_CHANGES=Unsaved changes
+WANT_TO_SAVE_CHANGES=Do you want to save the changes?
+
+###
+
+ERROR=Error
+MSGBOX_CHECKOUT_FAILED={0} checkout failed!
+MSGBOX_LOAD_FAILED=Error loading {0}!
+MSGBOX_SAVE_FAILED=Error saving {0}!
+
+###
+
+IslandListForm=Island list
+ID=Id
+NAME=Name
+CLIME=Clime
+
+###
+
+IslandForm=Island data
+NewRandomMapForm=Create new random map...
+FILENAME=Filename
+POSITION=Position
+SIZE=Size
+ISLAND_SIZE=Island size
+THIRDPARTY=Third party
+CORSAIRS=Corsairs
+SEED=Map number
+FERTILITIES=Fertilities
+VEGETABLE=Vegetables
+CIDER=Cider
+HERBS=Herbs
+ROSE=Roses
+HEMP=Hemp
+WHEAT=Grain
+GRAPE=Grapes
+BEES=Bees
+CLAY=Clay
+COFFEE=Coffee
+INDIGO=Indigo
+SILK=Silk
+ALMOND=Almonds
+SUGARCANE=Sugar cane
+DATES=Dates
+SPICES=Spices
+WILDCARD=Wildcard
+LIGHT=Light
+ISLAND_TYPE=Islandtype
+TYPE_REGULAR_ISLAND=Regular island
+TYPE_MAIN_ISLAND=Main island
+TYPE_START_ISLAND=Occident / orient start harbour
+TYPE_CORSAIR_ISLAND=Corsair island
+TYPE_DECO_ISLAND=Decoration island
+TYPE_VENETIAN_ISLAND=Venetian island
+TYPE_VOLCANO_ISLAND=Volcano island
+T_LIGHT_AMBIENT_COLOR=Color ambient
+T_LIGHT_DIFFUSE_COLOR=Color diffuse
+T_LIGHT_WATER_COLOR=Color water
+
+###
+
+MapSettingsForm=Map settings
+DESCRIPTION=Description
+PREVIEW=Preview image
+DIFFICULTY=Difficulty
+EASY=Easy
+MEDIUM=Medium
+HARD=Hard
+NONE=None
+STANDARD=Standard
+FULL=Full
+RESOURCES=Resources
+LIGHTS=Light
+LOW=Low
+HIGH=High
+NORTH=North
+SOUTH=South
+NORMAL=Normal
+ENABLED=Enabled
+DISABLED=Disabled
+BROWSE=Browse...
+ADD=Add
+REMOVE=Remove
+
+###
+
+IslandTemplateForm=Random map template
+TYPE=Type
+SMALL_ISLAND=Small island
+MEDIUM_ISLAND=Medium island
+LARGE_ISLAND=Large island
+REGULAR_ISLAND=Regular island
+MAIN_ISLAND=Main island
+START_INSEL=Start harbour
+CORSAIR_ISLAND=Corsair island
+VENETIAN_ISLAND=Venetian island
+NORTH=North
+SOUTH=South
+ALL=All
+
+###
+
+ResourceForm=Resources
+RESOURCE/FERTILITY=Resource/Fertility
+COUNT=Count
+TOTAL=Total
+
+###
+
+AreaForm=Areas
+AREA=Area
+
+###
+
+AutoBuildForm=Prebuilt Island
+PLAYER=Player
+BUILDING=Building
+RESOURCE_ISLAND=Resource island
+MAIN_ISLAND_NORTH=Occident settlement
+MAIN_ISLAND_SOUTH=Orient settlement
+---=--------------------
+
+###
+
+ResourceConfigForm=Resource configuration
+RESOURCE=Resource
+AMOUNT=Amount
+REFILL_MIN=Refill-Min
+REFILL_MAX=Refill-Max
+
+###
+
+NativeSlotConfigForm=Third party
+NATIVE_TYPE=Type
+
+###
+
+RandomMapSettingsForm=Random map settings
+MIN=Min
+MAX=Max
+SMALL=Small
+LARGE=Large
+HUGE=Huge
+UP=Up
+DOWN=Down
+ATTRACTION=Attraction
+AVAILABLE=Available
+CATEGORIES=Categories
+ELEMENTS=Elements
+ASSIGNED=Assigned
+DECO_ISLANDS_SMALL_WORLD=Deco islands small world
+DECO_ISLANDS_MEDIUM_WORLD=Deco islands medium world
+DECO_ISLANDS_LARGE_WORLD=Deco islands large world
+DECO_ISLANDS_VERYLARGE_WORLD=Deco islands huge world
+DECO_ISLAND_DISTANCE_TO_OTHER=Min. distance deco islands
+ISLAND_DISTANCE_TO_OTHER=Min. distance islands
+ISLAND_MAX_MOVE_DISTANCE=Max. island move distance
+GLOBAL=Global
+
+ISLANDLISTS=Island lists
+TEMPLATELISTS=Template lists
+MULTIPLAYER_TEMPLATELISTS=Multiplayer template lists
+FERTILITY_RATES=Fertilities - Rates
+FERTILITY_ATTRACTIONS=Fertilities - Attractions
+FERTILITY_LIMITS=Fertilities - Limits
+FERTILITY_PER_ISLAND_SIZE=Fertilities - Per island size
+FERTILITY_FORCED=Fertilities - Forced
+FERTILITY_MUTUAL_EXCLUSION=Fruchtbarkeiten - Mutual exclusion
+RESOURCE_RATES=Resources - Rates
+RESOURCE_ATTRACTIONS=Resources - Attractions
+RESOURCE_LIMITS=Resources - Limits
+RESOURCE_AMOUNT_LIMITS=Resources - Amount limits
+RESOURCE_FORCED=Resources - Forced
+RESOURCE_MUTUAL_EXCLUSION=Resources - Mutual exclusion
+RIVER_RATES=Rivers - Limits
+NATIVE_RATES=Third parties - Rates
+NATIVE_ATTRACTIONS=Third parties - Attractions
+NATIVE_LIMITS=Third parties - Limits
+FERTILITY_ORDER=Fertilities - Distribution order
+RESOURCE_ORDER=Resources - Distribution order
+MISC_SETTINGS=Misc Settings
+
+ISLAND_LIST_START=Start harbours
+ISLAND_LIST_CORSAIR=Corsair islands
+ISLAND_LIST_DECORATION=Deco islands
+ISLAND_LIST_MAIN_EASY=Main islands (leicht)
+ISLAND_LIST_MAIN_MEDIUM=Main islands (mittel)
+ISLAND_LIST_MAIN_HARD=Main islands (schwer)
+ISLAND_LIST_REGULAR_EASY=Regular islands (leicht)
+ISLAND_LIST_REGULAR_MEDIUM=Regular islands (mittel)
+ISLAND_LIST_REGULAR_HARD=Regular islands (schwer)
+ISLAND_LIST_VENETIAN=Venetian islands
+
+TEMPLATE_LIST_SMALL_ISLANDS=Small islands
+TEMPLATE_LIST_MEDIUM_ISLANDS=Medium islands
+TEMPLATE_LIST_LARGE_ISLANDS=Large islands
+
+RESOURCES_LOW=Low resources
+RESOURCES_MEDIUM=Medium resources
+RESOURCES_HIGH=High resources
+
+WORLD_SIZE_SMALL=Small world
+WORLD_SIZE_MEDIUM=Medium world
+WORLD_SIZE_LARGE=Large world
+WORLD_SIZE_VERY_LARGE=Huge world
+
+LIST=List
+ADD_LIST=Add list
+DELETE_LIST=Delete list
+
+###
+
+GameSettingsForm=Game settings
+PLAYER1=Player 0
+PLAYER2=Player 1
+PLAYER3=Player 2
+PLAYER4=Player 3
+PLAYER5=Player 4
+PLAYER6=Player 5
+PLAYER7=Player 6
+PLAYER8=Player 7
+HUMAN=Human player
+
+###
+
+RandomMapStatsForm=Random map statistics
+RANDOM_MAP_TEMPLATE=Random map template
+ISLAND_DIFFICULTY=Island difficulty
+FERTILITY_AMOUNT=Fertility amount
+RESOURCE_AMOUNT=Resource amount
+NUMBER_OF_MAPS_TO_CREATE=Number of maps to create
+CREATE_STATS=Create statistics
+STATS=Statistics
+AVG=Avg
+NORTH_MIN=North min
+NORTH_MAX=North max
+NORTH_AVG=North avg
+SOUTH_MIN=South min
+SOUTH_MAX=South max
+SOUTH_AVG=South avg
+DETAILS=Details
+WORLD=World
+NATIVE_SLOTS=Slots
+NATIVES=Third parties
+
+###
+
+ImportIslandDialog=Insert island
+NORTH_ISLANDS=North islands
+SOUTH_ISLANDS=South islands
+
+EULA=End user license agreement

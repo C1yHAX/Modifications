@@ -1,0 +1,135 @@
+module Pilgrimage01()
+{
+	//steuert das Verhalten der Wallfahrtsstätte
+	var buildingHID = _getScriptHID()
+	var startTime //seit wann steigt die Wahrscheinlichkeit für eine Erscheinung
+	var epiphanyProbability //letzter ausgerechneter Wahrscheinlichkeitswert für eine Erscheinung
+	var nextCheck //wie lange noch bis zum nächsten Erscheinungscheck
+	var pilgrimageDuration //wie lange dauert die Wallfahrt
+	var usingPlayer //welcher Spieler nutzt gerade die Wallfahrtsstätte
+
+	var unitHID
+	var warehouseHID
+	var walkingSpeed
+	var unitList
+	var nunHID
+	
+	var startDir
+	var startPosZ
+	var startPosY
+	var startPosX
+	var targetDir
+	var targetPosZ
+	var targetPosX
+	
+	function startPilgrimFeedback(newPlayer)
+	{
+		warehouseHID = _getNeutralBuildingWarehouseHID()
+		unitHID = _createObjectInvisibleAtDummy(newPlayer, _PilgrimGUID, buildingHID, "entrance", 0, -1)
+		walkingSpeed = _getWalkingSpeed(unitHID)
+		#Pilgrim(unitHID, warehouseHID, buildingHID, 0, 1, 0)
+		_list_addTail(unitList, unitHID)
+
+		unitHID = _createObjectInvisibleAtDummy(newPlayer, _NunGUID, buildingHID, "entrance", 0, -1)
+		_forceWalkingSpeed(unitHID, walkingSpeed)
+		#Pilgrim(unitHID, warehouseHID, buildingHID, 3000, 0, 0)		
+		_list_addTail(unitList, unitHID)		
+		
+		unitHID = _createObjectInvisibleAtDummy(newPlayer, _NunGUID, buildingHID, "entrance", 0, -1)
+		_forceWalkingSpeed(unitHID, walkingSpeed)
+		#Pilgrim(unitHID, warehouseHID, buildingHID, 6000, 2, 0)		
+		_list_addTail(unitList, unitHID)		
+		
+	}
+	
+	function endPilgrimFeedback()
+	{
+		var i
+		var listSize
+		listSize = _list_getCount(unitList)
+		while (i < listSize)
+		{
+			_interruptHID(_list_removeTail(unitList))
+			i++
+		}
+	}
+
+	function checkActiveAndPlayer()
+	{
+		var newUsingPlayer = _getUsingPlayer()
+		//wenn Using-Spieler wechselt oder Gebäude inaktiv ist
+		if ((usingPlayer != newUsingPlayer) || _isProductionStopped() || !_isProducing())
+		{
+			if (usingPlayer != newUsingPlayer)
+			{
+				endPilgrimFeedback()
+				if (newUsingPlayer >= 0)
+				{
+					startPilgrimFeedback(newUsingPlayer)
+				}
+			}
+			usingPlayer = newUsingPlayer
+			startTime = _getTime()			
+			return 0
+		}
+		return 1
+	}
+
+	//////////////////////////////////////////////////////////////////////////////////
+	// MAIN ROUTINE 
+	//////////////////////////////////////////////////////////////////////////////////	
+
+	_getDummyPosAndDirWithHeight(buildingHID, "boss", 0, 0, &startPosX, &startPosY, &startPosZ, &startDir)
+	_getDummyPosAndDir(buildingHID, "boss", 0, 1, &targetPosX, &targetPosZ, &targetDir)
+	nunHID = _createObjectAtPosition(_getPlayerID(buildingHID), _MatronGUID, startPosX, startPosZ, startDir)
+	#PlayFeedbackWithGivenUnit(buildingHID, nunHID , startPosX, startPosY, startPosZ, startDir, targetPosX, targetPosZ, targetDir, _SEQ_HOMAGE02, 1, _SEQ_WALK02, _SEQ_HOMAGE02, 1, _SEQ_WALK02, 6000, 12000, 6000, 12000, 1, 0)				
+
+	unitList = _list_create()
+	while (_isAlive(buildingHID))
+	{
+		nextCheck = _getEpiphanyCheckInterval()
+		
+		while (nextCheck > 0)
+		{
+			_sleep(10000)
+			nextCheck -= 10000
+			
+			checkActiveAndPlayer()
+		}
+		
+		if ((usingPlayer != -1) && !_isProductionStopped() && _isProducing())
+		{
+			epiphanyProbability = _getEpiphanyProbability(_getTime() - startTime)
+			if (_random(100) < epiphanyProbability)
+			{
+				//Erscheinung löst Wallfahrt aus
+				_executeThirdPartyTrigger(_THIRDPARTYTRIGGER_FUNCTION_EXECUTED, usingPlayer, _getScriptPlayerID())
+				#Pilgrim_Epiphany(buildingHID, _getNeutralBuildingWarehouseHID())
+				
+				_setIdleSequence(_SEQ_CHEER01)
+				
+				//Wallfahrtscooldown starten
+				pilgrimageDuration =_getPilgrimageDuration()
+				
+				while ((pilgrimageDuration > 0) && checkActiveAndPlayer())
+				{
+					_sleep(15000)
+					pilgrimageDuration -= 15000
+				}
+				
+				_setIdleSequence(_SEQ_IDLE01)
+				
+				startTime = _getTime()
+
+				if (pilgrimageDuration <= 0)
+				{
+					_addPilgrimageHonour(usingPlayer)
+				}
+			}
+		}
+		
+		swapscript($Revision: #14 $)
+	}	
+	_list_delete(unitList)
+	_freeUnit(nunHID, 1)
+}

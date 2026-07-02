@@ -1,0 +1,140 @@
+﻿<XmlModules Name="config_game_icons.xml" Index="0">
+  <ModuleList>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="New Items" TagName="i" Value="&lt;GUID&gt;8110&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;29&lt;/IconFileID&gt;&lt;IconIndex&gt;200&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="0" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="New Items" TagName="i" Value="&lt;GUID&gt;8111&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;29&lt;/IconFileID&gt;&lt;IconIndex&gt;202&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="1" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Edit Selector="/*/i[GUID=&quot;8270&quot;]/Icons/i/IconIndex" Deselector="" File="addon;addondata\config\game\icons.xml" Group="New Items" OldValue="52" NewValue="201" Index="2">
+      <UserdefinedValues />
+    </Edit>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="New Items" TagName="i" Value="&lt;GUID&gt;8110&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;29&lt;/IconFileID&gt;&lt;IconIndex&gt;200&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="3" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="New Items" TagName="i" Value="&lt;GUID&gt;8111&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;29&lt;/IconFileID&gt;&lt;IconIndex&gt;202&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="4" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Edit Selector="/*/i[GUID=&quot;8270&quot;]/Icons/i/IconIndex" Deselector="" File="maindata;data\config\game\icons.xml" Group="New Items" OldValue="52" NewValue="201" Index="5">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="New Ships" TagName="i" Value="&lt;GUID&gt;15001&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;87&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="6" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="New Ships" TagName="i" Value="&lt;GUID&gt;15002&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;89&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="7" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="New Ships" TagName="i" Value="&lt;GUID&gt;15003&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;77&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="8" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="New Ships" TagName="i" Value="&lt;GUID&gt;15004&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;89&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="9" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="New Ships" TagName="i" Value="&lt;GUID&gt;15005&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;79&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="10" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="New Ships" TagName="i" Value="&lt;GUID&gt;15006&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;84&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="11" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="New Ships" TagName="i" Value="&lt;GUID&gt;15007&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;80&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="12" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="New Ships" TagName="i" Value="&lt;GUID&gt;15008&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;80&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="13" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="New Ships" TagName="i" Value="&lt;GUID&gt;15001&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;87&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="14" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="New Ships" TagName="i" Value="&lt;GUID&gt;15002&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;89&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="15" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="New Ships" TagName="i" Value="&lt;GUID&gt;15003&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;77&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="16" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="New Ships" TagName="i" Value="&lt;GUID&gt;15004&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;89&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="17" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="New Ships" TagName="i" Value="&lt;GUID&gt;15005&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;79&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="18" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="New Ships" TagName="i" Value="&lt;GUID&gt;15006&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;84&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="19" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="New Ships" TagName="i" Value="&lt;GUID&gt;15007&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;80&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="20" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="New Ships" TagName="i" Value="&lt;GUID&gt;15008&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;80&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="21" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="More Ships" TagName="i" Value="&lt;GUID&gt;15013&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;86&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="22" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="More Ships" TagName="i" Value="&lt;GUID&gt;15014&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;85&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="23" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="More Ships" TagName="i" Value="&lt;GUID&gt;15015&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;89&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="24" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="More Ships" TagName="i" Value="&lt;GUID&gt;15013&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;86&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="25" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="More Ships" TagName="i" Value="&lt;GUID&gt;15014&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;85&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="26" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="More Ships" TagName="i" Value="&lt;GUID&gt;15015&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;89&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="27" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="Shipyards" TagName="i" Value="&lt;GUID&gt;38001&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;74&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="28" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="Shipyards" TagName="i" Value="&lt;GUID&gt;38002&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;75&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="29" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="Shipyards" TagName="i" Value="&lt;GUID&gt;38003&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;76&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="30" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="Shipyards" TagName="i" Value="&lt;GUID&gt;38001&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;74&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="31" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="Shipyards" TagName="i" Value="&lt;GUID&gt;38002&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;75&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="32" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="Shipyards" TagName="i" Value="&lt;GUID&gt;38003&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;76&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="33" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="Achievements" TagName="i" Value="&lt;GUID&gt;54100&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;74&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="34" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="Achievements" TagName="i" Value="&lt;GUID&gt;54101&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;75&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="35" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="Achievements" TagName="i" Value="&lt;GUID&gt;54102&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;29&lt;/IconFileID&gt;&lt;IconIndex&gt;203&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="36" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="Achievements" TagName="i" Value="&lt;GUID&gt;54100&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;74&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="37" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="Achievements" TagName="i" Value="&lt;GUID&gt;54101&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;75&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="38" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="Achievements" TagName="i" Value="&lt;GUID&gt;54102&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;29&lt;/IconFileID&gt;&lt;IconIndex&gt;203&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="39" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add Selector="/*" Deselector="" File="addon;addondata\config\game\icons.xml" Group="Segelmacher" TagName="i" Value="&lt;GUID&gt;32001&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;392&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="40" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+    <Add Selector="/*" Deselector="" File="maindata;data\config\game\icons.xml" Group="Segelmacher" TagName="i" Value="&lt;GUID&gt;32001&lt;/GUID&gt;&lt;Icons&gt;&lt;i&gt;&lt;IconFileID&gt;116&lt;/IconFileID&gt;&lt;IconIndex&gt;392&lt;/IconIndex&gt;&lt;/i&gt;&lt;/Icons&gt;" Index="41" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+</XmlModules>

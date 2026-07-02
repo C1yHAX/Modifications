@@ -1,0 +1,26 @@
+﻿<XmlModules Name="Assets" Index="0">
+  <ModuleList>
+    <Edit Selector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="General" OldValue="0" NewValue="{0}" Index="0">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Hafenbereich" Math="{value}" Key="{0}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence/InfluenceRadius" Deselector="" File="maindata;data\config\game\assets.xml" Group="General" OldValue="0" NewValue="{0}" Index="0">
+      <UserdefinedValues>
+        <UserdefinedValue UserdefinedValueName="Hafenbereich" Math="{value}" Key="{0}" />
+      </UserdefinedValues>
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence/InfluenceRadiusType" Deselector="" File="maindata;data\config\game\assets.xml" Group="General" OldValue="" NewValue="Harbour" Index="1">
+      <UserdefinedValues />
+    </Edit>
+    <Edit Selector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence/InfluenceRadiusType" Deselector="" File="addon;addondata\config\game\assets.xml" Group="General" OldValue="" NewValue="Harbour" Index="1">
+      <UserdefinedValues />
+    </Edit>
+    <Remove Selector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence/InfluenceRadiusTypeNeeded" Deselector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence" File="maindata;data\config\game\assets.xml" Group="General" TagName="InfluenceRadiusTypeNeeded" RemovedInnerXml="Harbour" Index="2" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Remove>
+    <Remove Selector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence/InfluenceRadiusTypeNeeded" Deselector="//Asset[Values/Standard/Name=&quot;Pier&quot;]/Values/Influence" File="addon;addondata\config\game\assets.xml" Group="General" TagName="InfluenceRadiusTypeNeeded" RemovedInnerXml="Harbour" Index="2" InsertBeforeIndex="-1">
+      <UserdefinedValues />
+    </Remove>
+  </ModuleList>
+</XmlModules>

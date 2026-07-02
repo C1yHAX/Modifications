@@ -1,0 +1,33 @@
+<ModificationInfo>
+  <Version Major="3" Minor="0" Build="0" Revision="0" />
+  <InternalName>Pier erzeugt Hafenbereich</InternalName>
+  <InternalCategory>Hafen</InternalCategory>
+  <Author>C1yHAX &amp; VanDerx0x</Author>
+  <Website>
+  </Website>
+  <Documentation>
+  </Documentation>
+  <RDASupport>True</RDASupport>
+  <AnnoVersions>
+    <AnnoVersion>All</AnnoVersion>
+  </AnnoVersions>
+  <Images>
+    <Image>preview.jpg</Image>
+  </Images>
+  <Labels>
+    <Label Name="Name">
+      <German>Pier erzeugt Hafenbereich</German>
+      <English>Pier extends harbour</English>
+    </Label>
+    <Label Name="Description">
+      <German>Die Anlegestelle erzeugt Hafenbereich so das man größere Hafenbereiche bauen kann
+Beim setzen des Pier bitte darauf achten, dass man an den Holzstegen nicht weiterbauen kann.Am besten den Pier auf vorhandene Kaimauer setze; ,da kann man dann die Holzstege besser beeinflussen. </German>
+      <English>The pier creates port areas so that you can build larger port areas
+When setting the pier, please make sure that you cannot continue building on the wooden walkways. It is best to set the pier on the existing quay wall; , then you can influence the wooden walkways better.</English>
+    </Label>
+    <Label Name="Category">
+      <German>Hafen</German>
+      <English>Harbour</English>
+    </Label>
+  </Labels>
+</ModificationInfo>

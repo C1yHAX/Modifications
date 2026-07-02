@@ -1,0 +1,40 @@
+﻿<UserdefinedValues>
+  <UserdefinedValue Name="Hafenbereich" Index="0" Group="Pier/Anlegestelle" Type="Numeric" Current="15" Numeric_Min="0" Numeric_Max="70">
+    <Labels>
+      <Label Name="Name">
+        <German>Hafenbereich</German>
+        <English>Harbour area</English>
+      </Label>
+      <Label Name="Description">
+        <German>Vorhandene Piers müssen abgerissen und neu gebaut werden.</German>
+        <English>You have to rebuild existing piers.</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="Schiffe" Index="1" Group="Schiffe" Type="Numeric" Current="100" Numeric_Min="0" Numeric_Max="99999">
+    <Labels>
+      <Label Name="Name">
+        <German>Maximale Anzahl an Schiffen</German>
+        <English>Maximal ship count</English>
+      </Label>
+      <Label Name="Description">
+        <German></German>
+        <English></English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+  <UserdefinedValue Name="MilitaryPointCount" Index="2" Group="UValues" Type="Numeric" Current="500" Numeric_Min="0" Numeric_Max="99999">
+    <Labels>
+      <Label Name="Name">
+        <German>Militärpunkte</German>
+        <English>Military points</English>
+      </Label>
+      <Label Name="Description">
+        <German>Die maximale Anzahl an Militärpunkten.&#xD;&#xD;
+Original: 170 Militärpunkte</German>
+        <English>The maximal count of military points.&#xD;&#xD;
+Original: 170 military points</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+</UserdefinedValues>

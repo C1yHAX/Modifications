@@ -1,0 +1,16 @@
+﻿<UserdefinedValues>
+  <UserdefinedValue Name="MilitaryPointCount" Index="0" Group="UValues" Type="Numeric" Current="500" Numeric_Min="500" Numeric_Max="99999">
+    <Labels>
+      <Label Name="Name">
+        <German>Militärpunkte</German>
+        <English>Military points</English>
+      </Label>
+      <Label Name="Description">
+        <German>Die maximale Anzahl an Militärpunkten.&#xD;
+Original: 170 Militärpunkte</German>
+        <English>The maximal count of military points.&#xD;
+Original: 170 military points</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+</UserdefinedValues>

@@ -1,0 +1,144 @@
+﻿<ListModules Name="loca_ger_txt_tt_disabled.txt" Index="0">
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="Towers" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20135039=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="0">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="New Store" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20130047=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="1">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="New Store" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20135037=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="2">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="New Store" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20135038=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="3">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="Land Store" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20137497=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="4">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="Land Store" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20129998=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="5">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="Land Store" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20137496=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="6">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="Land Store" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20132499=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="7">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="Land Store" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20134999=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="8">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="Hansekontor" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20129997=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="9">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="Hansekontor" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20132498=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="10">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="New Shipyards" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20132541=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="11">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="New Shipyards" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20132542=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="28">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="New Shipyards" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20132543=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="29">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="New Shipyards" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20135500=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="30">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="Edit Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20157493=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Trefferpunkte: 400 [CR]Geschwindigkeit: 16,0kn [CR]Ladekammern: 4[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="12">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="Edit Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20157494=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Trefferpunkte: 1000 [CR]Geschwindigkeit: 16,0kn [CR]Ladekammern: 6[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="13">
+      <UserdefinedValues />
+    </Add>
+    <Edit File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="Edit Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20155016=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 3[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" NewValue="20155016=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Trefferpunkte: 500 [CR]Geschwindigkeit: 14,5kn [CR]Ladekammern: 3[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="14">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="Edit Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20155017=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 1[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" NewValue="20155017=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Trefferpunkte: 600 [CR]Geschwindigkeit: 15,5kn [CR]Ladekammern: 1[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="15">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="Edit Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20155018=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 6[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" NewValue="20155018=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Trefferpunkte: 1000 [CR]Geschwindigkeit: 13,5kn [CR]Ladekammern: 6[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="16">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="Edit Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20155019=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 2[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" NewValue="20155019=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Trefferpunkte: 1200 [CR]Geschwindigkeit: 14,5kn [CR]Ladekammern: 2[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="17">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="Edit Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20155020=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 3[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" NewValue="20155020=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Trefferpunkte: 600 [CR]Geschwindigkeit: 16,0kn [CR]Ladekammern: 3[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="18">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="Edit Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20155021=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 5[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" NewValue="20155021=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Trefferpunkte: 1100 [CR]Geschwindigkeit: 16,0kn [CR]Ladekammern: 5[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="19">
+      <UserdefinedValues />
+    </Edit>
+    <Edit File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="Edit Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20155022=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 2[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" NewValue="20155022=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Trefferpunkte: 1500 [CR]Geschwindigkeit: 16,5kn [CR]Ladekammern: 2[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="20">
+      <UserdefinedValues />
+    </Edit>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="General" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20125042=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="21">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="General" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20125043=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="22">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="General" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20125044=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="23">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="General" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20130046=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="24">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="General" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20135034=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="25">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="General" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20132540=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="26">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="General" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20132496=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME][TTT TOOLTIP_TITLED_BODY]Um Zugriff auf dieses Gebäude zu erhalten, benötigen Sie: [INHABITANT_PRECONDITION]" Index="27">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+  <ModuleList>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="New Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20157480=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 4[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="31">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="New Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20157481=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 2[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="32">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="New Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20157490=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 2[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="33">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="New Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20157491=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 3[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="34">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="New Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20157492=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 6[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="35">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="New Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20157482=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 2[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="36">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="New Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20157483=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 4[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="37">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="New Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20157484=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 6[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="38">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="New Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20157485=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 1[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="39">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="New Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20157486=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 2[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="40">
+      <UserdefinedValues />
+    </Add>
+    <Add File="maindata;data\loca\ger\txt\tt_disabled.txt" Group="New Ships" ElementGroup="ToolTipp (Deaktiviert), valid guid range: 20000000 - 29999999" ElementValue="20157487=[TTT TOOLTIP_TITLED][TTT TOOLTIP_TITLED_HEADER][AUTOSIZE_ICONGUID] [GUIDNAME] kann nicht gebaut werden[TTT TOOLTIP_TITLED_BODY][BUILDING_COSTS][CR] [CR]Ladekammern: 3[CR][MILITARY_OBJECT_STRENGTH][CR] [CR]Benötigt: [INHABITANT_PRECONDITION]" Index="41">
+      <UserdefinedValues />
+    </Add>
+  </ModuleList>
+</ListModules>

@@ -1,0 +1,14 @@
+﻿<UserdefinedValues>
+  <UserdefinedValue Name="Hafenbereich" Index="0" Group="Pier/Anlegestelle" Type="Numeric" Current="15" Numeric_Min="0" Numeric_Max="70">
+    <Labels>
+      <Label Name="Name">
+        <German>Hafenbereich</German>
+        <English>Harbour area</English>
+      </Label>
+      <Label Name="Description">
+        <German>Vorhandene Piers müssen abgerissen und neu gebaut werden.</German>
+        <English>You have to rebuild existing piers.</English>
+      </Label>
+    </Labels>
+  </UserdefinedValue>
+</UserdefinedValues>

@@ -1,0 +1,39 @@
+module Monastery01()
+{
+	var monasteryHID
+	var farmer
+	var abbot
+	var priest
+	
+	function init()
+	{
+		monasteryHID = _getScriptHID()
+		
+		farmer = _createObjectAtDummy(_getPlayerID(monasteryHID), _Vegetable_farmerGUID, monasteryHID, "spawn", 0, -1)
+		#FeedbackDummyToDummy(monasteryHID, farmer, "spawn", 0, -1, "farmer", 0, -1, _SEQ_STAND01, 0, _SEQ_WALK01, _SEQ_WORK02, 1, _SEQ_WALK02, 20000, 25000, 20000, 25000, 0)				
+		
+		abbot  = _createObjectAtDummy(_getPlayerID(monasteryHID), _AbbotGUID, monasteryHID, "spawn", 0, -1)
+		#FeedbackDummyToDummy(monasteryHID, abbot, "spawn", 0, -1, "abbot", 0, -1, _SEQ_STAND01, 0, _SEQ_WALK01, _SEQ_STAND01, 0, _SEQ_WALK01, 3000, 6000, 15000, 20000, 0)
+		
+		priest  = _createObjectAtDummy(_getPlayerID(monasteryHID), _PriestGUID, monasteryHID, "spawn", 0, -1)
+		#FeedbackDummyToDummy(monasteryHID, priest, "spawn", 0, -1, "priest", 0, -1, _SEQ_STAND01, 0, _SEQ_WALK01, _SEQ_STAND01, 0, _SEQ_WALK01, 1000, 1000, 15000, 25000, 0)				
+	}
+	
+	function cleanUp()
+	{
+		_freeHandleAndFade(farmer)		
+		_freeHandleAndFade(abbot)
+		_freeHandleAndFade(priest)
+	}
+	
+	interruptable function mainroutine()
+	{
+		_waitForGenericEvent(_GENERICEVENTTYPE_CleanUp)
+	}
+	
+	
+	init()
+	mainroutine()
+	cleanUp()
+	
+}
